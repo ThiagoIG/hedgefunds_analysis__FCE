@@ -1,0 +1,3420 @@
+Fecha,Estrategia,Rendimiento,Riesgo
+1997-01-31,Convertible Arbitrage,1.19,Medio
+1997-01-31,CTA Global,3.93,Alto
+1997-01-31,Distressed Securities,1.78,Alto
+1997-01-31,Emerging Markets,7.91,Alto
+1997-01-31,Equity Market Neutral,1.89,Bajo
+1997-01-31,Event Driven,2.13,Medio
+1997-01-31,Fixed Income Arbitrage,1.91,Bajo
+1997-01-31,Global Macro,5.73,Alto
+1997-01-31,Long/Short Equity,2.81,Medio
+1997-01-31,Merger Arbitrage,1.5,Medio
+1997-01-31,Relative Value,1.8,Bajo
+1997-01-31,Short Selling,-1.66,Alto
+1997-01-31,Funds Of Funds,3.17,Medio
+1997-02-28,Convertible Arbitrage,1.23,Medio
+1997-02-28,CTA Global,2.98,Alto
+1997-02-28,Distressed Securities,1.22,Alto
+1997-02-28,Emerging Markets,5.25,Alto
+1997-02-28,Equity Market Neutral,1.01,Bajo
+1997-02-28,Event Driven,0.84,Medio
+1997-02-28,Fixed Income Arbitrage,1.22,Bajo
+1997-02-28,Global Macro,1.75,Alto
+1997-02-28,Long/Short Equity,-0.06,Medio
+1997-02-28,Merger Arbitrage,0.34,Medio
+1997-02-28,Relative Value,1.18,Bajo
+1997-02-28,Short Selling,4.26,Alto
+1997-02-28,Funds Of Funds,1.06,Medio
+1997-03-31,Convertible Arbitrage,0.78,Medio
+1997-03-31,CTA Global,-0.21,Alto
+1997-03-31,Distressed Securities,-0.12,Alto
+1997-03-31,Emerging Markets,-1.2,Alto
+1997-03-31,Equity Market Neutral,0.16,Bajo
+1997-03-31,Event Driven,-0.23,Medio
+1997-03-31,Fixed Income Arbitrage,1.09,Bajo
+1997-03-31,Global Macro,-1.19,Alto
+1997-03-31,Long/Short Equity,-0.84,Medio
+1997-03-31,Merger Arbitrage,0.6,Medio
+1997-03-31,Relative Value,0.1,Bajo
+1997-03-31,Short Selling,7.78,Alto
+1997-03-31,Funds Of Funds,-0.77,Medio
+1997-04-30,Convertible Arbitrage,0.86,Medio
+1997-04-30,CTA Global,-1.7,Alto
+1997-04-30,Distressed Securities,0.3,Alto
+1997-04-30,Emerging Markets,1.19,Alto
+1997-04-30,Equity Market Neutral,1.19,Bajo
+1997-04-30,Event Driven,-0.05,Medio
+1997-04-30,Fixed Income Arbitrage,1.3,Bajo
+1997-04-30,Global Macro,1.72,Alto
+1997-04-30,Long/Short Equity,0.84,Medio
+1997-04-30,Merger Arbitrage,-0.01,Medio
+1997-04-30,Relative Value,1.22,Bajo
+1997-04-30,Short Selling,-1.29,Alto
+1997-04-30,Funds Of Funds,0.09,Medio
+1997-05-31,Convertible Arbitrage,1.56,Medio
+1997-05-31,CTA Global,-0.15,Alto
+1997-05-31,Distressed Securities,2.33,Alto
+1997-05-31,Emerging Markets,3.15,Alto
+1997-05-31,Equity Market Neutral,1.89,Bajo
+1997-05-31,Event Driven,3.46,Medio
+1997-05-31,Fixed Income Arbitrage,1.18,Bajo
+1997-05-31,Global Macro,1.08,Alto
+1997-05-31,Long/Short Equity,3.94,Medio
+1997-05-31,Merger Arbitrage,1.97,Medio
+1997-05-31,Relative Value,1.73,Bajo
+1997-05-31,Short Selling,-7.37,Alto
+1997-05-31,Funds Of Funds,2.75,Medio
+1997-06-30,Convertible Arbitrage,2.12,Medio
+1997-06-30,CTA Global,0.85,Alto
+1997-06-30,Distressed Securities,2.17,Alto
+1997-06-30,Emerging Markets,5.81,Alto
+1997-06-30,Equity Market Neutral,1.65,Bajo
+1997-06-30,Event Driven,2.58,Medio
+1997-06-30,Fixed Income Arbitrage,1.08,Bajo
+1997-06-30,Global Macro,2.18,Alto
+1997-06-30,Long/Short Equity,2.23,Medio
+1997-06-30,Merger Arbitrage,2.31,Medio
+1997-06-30,Relative Value,1.98,Bajo
+1997-06-30,Short Selling,-0.65,Alto
+1997-06-30,Funds Of Funds,2.25,Medio
+1997-07-31,Convertible Arbitrage,1.93,Medio
+1997-07-31,CTA Global,5.91,Alto
+1997-07-31,Distressed Securities,2.34,Alto
+1997-07-31,Emerging Markets,5.6,Alto
+1997-07-31,Equity Market Neutral,2.47,Bajo
+1997-07-31,Event Driven,3.07,Medio
+1997-07-31,Fixed Income Arbitrage,0.95,Bajo
+1997-07-31,Global Macro,7.38,Alto
+1997-07-31,Long/Short Equity,4.54,Medio
+1997-07-31,Merger Arbitrage,2,Medio
+1997-07-31,Relative Value,1.81,Bajo
+1997-07-31,Short Selling,-4.29,Alto
+1997-07-31,Funds Of Funds,4.35,Medio
+1997-08-31,Convertible Arbitrage,1.34,Medio
+1997-08-31,CTA Global,-4.73,Alto
+1997-08-31,Distressed Securities,1.47,Alto
+1997-08-31,Emerging Markets,-0.66,Alto
+1997-08-31,Equity Market Neutral,0.17,Bajo
+1997-08-31,Event Driven,0.71,Medio
+1997-08-31,Fixed Income Arbitrage,0.87,Bajo
+1997-08-31,Global Macro,-1.8,Alto
+1997-08-31,Long/Short Equity,1.07,Medio
+1997-08-31,Merger Arbitrage,0.79,Medio
+1997-08-31,Relative Value,1.03,Bajo
+1997-08-31,Short Selling,-0.72,Alto
+1997-08-31,Funds Of Funds,0.51,Medio
+1997-09-30,Convertible Arbitrage,1.22,Medio
+1997-09-30,CTA Global,1.98,Alto
+1997-09-30,Distressed Securities,3.5,Alto
+1997-09-30,Emerging Markets,2.29,Alto
+1997-09-30,Equity Market Neutral,2.02,Bajo
+1997-09-30,Event Driven,3.29,Medio
+1997-09-30,Fixed Income Arbitrage,1.19,Bajo
+1997-09-30,Global Macro,2.9,Alto
+1997-09-30,Long/Short Equity,4.29,Medio
+1997-09-30,Merger Arbitrage,1.97,Medio
+1997-09-30,Relative Value,1.83,Bajo
+1997-09-30,Short Selling,-1.55,Alto
+1997-09-30,Funds Of Funds,3.34,Medio
+1997-10-31,Convertible Arbitrage,1,Medio
+1997-10-31,CTA Global,-0.98,Alto
+1997-10-31,Distressed Securities,-0.64,Alto
+1997-10-31,Emerging Markets,-5.72,Alto
+1997-10-31,Equity Market Neutral,0.95,Bajo
+1997-10-31,Event Driven,0.61,Medio
+1997-10-31,Fixed Income Arbitrage,-0.32,Bajo
+1997-10-31,Global Macro,-1.42,Alto
+1997-10-31,Long/Short Equity,0.1,Medio
+1997-10-31,Merger Arbitrage,0.94,Medio
+1997-10-31,Relative Value,0.79,Bajo
+1997-10-31,Short Selling,5.72,Alto
+1997-10-31,Funds Of Funds,-0.99,Medio
+1997-11-30,Convertible Arbitrage,0,Medio
+1997-11-30,CTA Global,1.33,Alto
+1997-11-30,Distressed Securities,0.54,Alto
+1997-11-30,Emerging Markets,-3.78,Alto
+1997-11-30,Equity Market Neutral,0.41,Bajo
+1997-11-30,Event Driven,1.34,Medio
+1997-11-30,Fixed Income Arbitrage,0.53,Bajo
+1997-11-30,Global Macro,1.06,Alto
+1997-11-30,Long/Short Equity,-0.26,Medio
+1997-11-30,Merger Arbitrage,2.23,Medio
+1997-11-30,Relative Value,1.11,Bajo
+1997-11-30,Short Selling,2.17,Alto
+1997-11-30,Funds Of Funds,-0.34,Medio
+1997-12-31,Convertible Arbitrage,0.68,Medio
+1997-12-31,CTA Global,2.86,Alto
+1997-12-31,Distressed Securities,0.73,Alto
+1997-12-31,Emerging Markets,1.6,Alto
+1997-12-31,Equity Market Neutral,0.66,Bajo
+1997-12-31,Event Driven,1.54,Medio
+1997-12-31,Fixed Income Arbitrage,0.79,Bajo
+1997-12-31,Global Macro,2.64,Alto
+1997-12-31,Long/Short Equity,1.04,Medio
+1997-12-31,Merger Arbitrage,1.58,Medio
+1997-12-31,Relative Value,0.82,Bajo
+1997-12-31,Short Selling,1.61,Alto
+1997-12-31,Funds Of Funds,0.89,Medio
+1998-01-31,Convertible Arbitrage,1.45,Medio
+1998-01-31,CTA Global,1.04,Alto
+1998-01-31,Distressed Securities,0.95,Alto
+1998-01-31,Emerging Markets,-4.29,Alto
+1998-01-31,Equity Market Neutral,0.6,Bajo
+1998-01-31,Event Driven,0.55,Medio
+1998-01-31,Fixed Income Arbitrage,-0.26,Bajo
+1998-01-31,Global Macro,-0.5,Alto
+1998-01-31,Long/Short Equity,0.13,Medio
+1998-01-31,Merger Arbitrage,0.55,Medio
+1998-01-31,Relative Value,1.32,Bajo
+1998-01-31,Short Selling,0.14,Alto
+1998-01-31,Funds Of Funds,-0.36,Medio
+1998-02-28,Convertible Arbitrage,1.46,Medio
+1998-02-28,CTA Global,-0.65,Alto
+1998-02-28,Distressed Securities,2.27,Alto
+1998-02-28,Emerging Markets,3.39,Alto
+1998-02-28,Equity Market Neutral,1.35,Bajo
+1998-02-28,Event Driven,2.94,Medio
+1998-02-28,Fixed Income Arbitrage,0.98,Bajo
+1998-02-28,Global Macro,1.28,Alto
+1998-02-28,Long/Short Equity,3.42,Medio
+1998-02-28,Merger Arbitrage,2.12,Medio
+1998-02-28,Relative Value,1.3,Bajo
+1998-02-28,Short Selling,1.55,Alto
+1998-02-28,Funds Of Funds,2.56,Medio
+1998-03-31,Convertible Arbitrage,1.44,Medio
+1998-03-31,CTA Global,1.22,Alto
+1998-03-31,Distressed Securities,2.52,Alto
+1998-03-31,Emerging Markets,3.18,Alto
+1998-03-31,Equity Market Neutral,1.79,Bajo
+1998-03-31,Event Driven,2.63,Medio
+1998-03-31,Fixed Income Arbitrage,1.28,Bajo
+1998-03-31,Global Macro,5.7,Alto
+1998-03-31,Long/Short Equity,3.36,Medio
+1998-03-31,Merger Arbitrage,1.64,Medio
+1998-03-31,Relative Value,1.45,Bajo
+1998-03-31,Short Selling,6.37,Alto
+1998-03-31,Funds Of Funds,3.73,Medio
+1998-04-30,Convertible Arbitrage,1.26,Medio
+1998-04-30,CTA Global,-2.96,Alto
+1998-04-30,Distressed Securities,1.65,Alto
+1998-04-30,Emerging Markets,0.41,Alto
+1998-04-30,Equity Market Neutral,0.67,Bajo
+1998-04-30,Event Driven,1.04,Medio
+1998-04-30,Fixed Income Arbitrage,0.75,Bajo
+1998-04-30,Global Macro,0.34,Alto
+1998-04-30,Long/Short Equity,1.2,Medio
+1998-04-30,Merger Arbitrage,1.39,Medio
+1998-04-30,Relative Value,1.45,Bajo
+1998-04-30,Short Selling,6.57,Alto
+1998-04-30,Funds Of Funds,1.25,Medio
+1998-05-31,Convertible Arbitrage,0.56,Medio
+1998-05-31,CTA Global,1.93,Alto
+1998-05-31,Distressed Securities,0.06,Alto
+1998-05-31,Emerging Markets,-8.25,Alto
+1998-05-31,Equity Market Neutral,0.8,Bajo
+1998-05-31,Event Driven,-0.83,Medio
+1998-05-31,Fixed Income Arbitrage,0.4,Bajo
+1998-05-31,Global Macro,0.95,Alto
+1998-05-31,Long/Short Equity,-0.87,Medio
+1998-05-31,Merger Arbitrage,-0.09,Medio
+1998-05-31,Relative Value,0.53,Bajo
+1998-05-31,Short Selling,14.37,Alto
+1998-05-31,Funds Of Funds,-0.72,Medio
+1998-06-30,Convertible Arbitrage,-0.06,Medio
+1998-06-30,CTA Global,0.51,Alto
+1998-06-30,Distressed Securities,-0.47,Alto
+1998-06-30,Emerging Markets,-4.22,Alto
+1998-06-30,Equity Market Neutral,1.08,Bajo
+1998-06-30,Event Driven,0.02,Medio
+1998-06-30,Fixed Income Arbitrage,-0.8,Bajo
+1998-06-30,Global Macro,1.2,Alto
+1998-06-30,Long/Short Equity,1.67,Medio
+1998-06-30,Merger Arbitrage,0.72,Medio
+1998-06-30,Relative Value,0.26,Bajo
+1998-06-30,Short Selling,-0.53,Alto
+1998-06-30,Funds Of Funds,0.21,Medio
+1998-07-31,Convertible Arbitrage,0.6,Medio
+1998-07-31,CTA Global,-0.1,Alto
+1998-07-31,Distressed Securities,-0.69,Alto
+1998-07-31,Emerging Markets,0.19,Alto
+1998-07-31,Equity Market Neutral,0.12,Bajo
+1998-07-31,Event Driven,-0.37,Medio
+1998-07-31,Fixed Income Arbitrage,1.06,Bajo
+1998-07-31,Global Macro,0.58,Alto
+1998-07-31,Long/Short Equity,-0.06,Medio
+1998-07-31,Merger Arbitrage,0.07,Medio
+1998-07-31,Relative Value,0.11,Bajo
+1998-07-31,Short Selling,3.43,Alto
+1998-07-31,Funds Of Funds,-0.07,Medio
+1998-08-31,Convertible Arbitrage,-3.19,Medio
+1998-08-31,CTA Global,6.91,Alto
+1998-08-31,Distressed Securities,-8.36,Alto
+1998-08-31,Emerging Markets,-19.22,Alto
+1998-08-31,Equity Market Neutral,-1.07,Bajo
+1998-08-31,Event Driven,-8.86,Medio
+1998-08-31,Fixed Income Arbitrage,-1.43,Bajo
+1998-08-31,Global Macro,-2.63,Alto
+1998-08-31,Long/Short Equity,-5.52,Medio
+1998-08-31,Merger Arbitrage,-5.44,Medio
+1998-08-31,Relative Value,-3.41,Bajo
+1998-08-31,Short Selling,24.63,Alto
+1998-08-31,Funds Of Funds,-6.16,Medio
+1998-09-30,Convertible Arbitrage,-1.96,Medio
+1998-09-30,CTA Global,4.54,Alto
+1998-09-30,Distressed Securities,-2.15,Alto
+1998-09-30,Emerging Markets,-3.95,Alto
+1998-09-30,Equity Market Neutral,0.61,Bajo
+1998-09-30,Event Driven,-1.1,Medio
+1998-09-30,Fixed Income Arbitrage,-3.62,Bajo
+1998-09-30,Global Macro,-0.59,Alto
+1998-09-30,Long/Short Equity,2.06,Medio
+1998-09-30,Merger Arbitrage,0.76,Medio
+1998-09-30,Relative Value,0.05,Bajo
+1998-09-30,Short Selling,-3.76,Alto
+1998-09-30,Funds Of Funds,-0.37,Medio
+1998-10-31,Convertible Arbitrage,-2.14,Medio
+1998-10-31,CTA Global,0.04,Alto
+1998-10-31,Distressed Securities,-0.29,Alto
+1998-10-31,Emerging Markets,1.4,Alto
+1998-10-31,Equity Market Neutral,0.52,Bajo
+1998-10-31,Event Driven,0.91,Medio
+1998-10-31,Fixed Income Arbitrage,-8.01,Bajo
+1998-10-31,Global Macro,-2.23,Alto
+1998-10-31,Long/Short Equity,1.69,Medio
+1998-10-31,Merger Arbitrage,1.59,Medio
+1998-10-31,Relative Value,-1.4,Bajo
+1998-10-31,Short Selling,-10.77,Alto
+1998-10-31,Funds Of Funds,-0.02,Medio
+1998-11-30,Convertible Arbitrage,2.69,Medio
+1998-11-30,CTA Global,-0.89,Alto
+1998-11-30,Distressed Securities,1.64,Alto
+1998-11-30,Emerging Markets,4.3,Alto
+1998-11-30,Equity Market Neutral,1.58,Bajo
+1998-11-30,Event Driven,2.44,Medio
+1998-11-30,Fixed Income Arbitrage,0.52,Bajo
+1998-11-30,Global Macro,1.94,Alto
+1998-11-30,Long/Short Equity,2.91,Medio
+1998-11-30,Merger Arbitrage,2.2,Medio
+1998-11-30,Relative Value,1.98,Bajo
+1998-11-30,Short Selling,-7.56,Alto
+1998-11-30,Funds Of Funds,2.2,Medio
+1998-12-31,Convertible Arbitrage,1.13,Medio
+1998-12-31,CTA Global,2.21,Alto
+1998-12-31,Distressed Securities,1.08,Alto
+1998-12-31,Emerging Markets,-0.98,Alto
+1998-12-31,Equity Market Neutral,2.09,Bajo
+1998-12-31,Event Driven,2.19,Medio
+1998-12-31,Fixed Income Arbitrage,1.2,Bajo
+1998-12-31,Global Macro,2.33,Alto
+1998-12-31,Long/Short Equity,4.08,Medio
+1998-12-31,Merger Arbitrage,2.24,Medio
+1998-12-31,Relative Value,1.64,Bajo
+1998-12-31,Short Selling,-5.31,Alto
+1998-12-31,Funds Of Funds,2.22,Medio
+1999-01-31,Convertible Arbitrage,2.19,Medio
+1999-01-31,CTA Global,-1.67,Alto
+1999-01-31,Distressed Securities,1.81,Alto
+1999-01-31,Emerging Markets,-1.2,Alto
+1999-01-31,Equity Market Neutral,1.01,Bajo
+1999-01-31,Event Driven,2.01,Medio
+1999-01-31,Fixed Income Arbitrage,1.58,Bajo
+1999-01-31,Global Macro,0.86,Alto
+1999-01-31,Long/Short Equity,2.58,Medio
+1999-01-31,Merger Arbitrage,1.12,Medio
+1999-01-31,Relative Value,1.95,Bajo
+1999-01-31,Short Selling,-6.65,Alto
+1999-01-31,Funds Of Funds,2.02,Medio
+1999-02-28,Convertible Arbitrage,0.82,Medio
+1999-02-28,CTA Global,1.97,Alto
+1999-02-28,Distressed Securities,-0.21,Alto
+1999-02-28,Emerging Markets,1.02,Alto
+1999-02-28,Equity Market Neutral,0.23,Bajo
+1999-02-28,Event Driven,-0.42,Medio
+1999-02-28,Fixed Income Arbitrage,2.08,Bajo
+1999-02-28,Global Macro,-1.11,Alto
+1999-02-28,Long/Short Equity,-1.69,Medio
+1999-02-28,Merger Arbitrage,0.36,Medio
+1999-02-28,Relative Value,0.85,Bajo
+1999-02-28,Short Selling,8.33,Alto
+1999-02-28,Funds Of Funds,-0.63,Medio
+1999-03-31,Convertible Arbitrage,1.36,Medio
+1999-03-31,CTA Global,-0.65,Alto
+1999-03-31,Distressed Securities,1.59,Alto
+1999-03-31,Emerging Markets,5.85,Alto
+1999-03-31,Equity Market Neutral,0.33,Bajo
+1999-03-31,Event Driven,1.93,Medio
+1999-03-31,Fixed Income Arbitrage,1.6,Bajo
+1999-03-31,Global Macro,0.24,Alto
+1999-03-31,Long/Short Equity,2.29,Medio
+1999-03-31,Merger Arbitrage,1.33,Medio
+1999-03-31,Relative Value,1.16,Bajo
+1999-03-31,Short Selling,-1.54,Alto
+1999-03-31,Funds Of Funds,2.13,Medio
+1999-04-30,Convertible Arbitrage,2.43,Medio
+1999-04-30,CTA Global,2.1,Alto
+1999-04-30,Distressed Securities,4.18,Alto
+1999-04-30,Emerging Markets,6.3,Alto
+1999-04-30,Equity Market Neutral,1.07,Bajo
+1999-04-30,Event Driven,4.29,Medio
+1999-04-30,Fixed Income Arbitrage,1.06,Bajo
+1999-04-30,Global Macro,3.29,Alto
+1999-04-30,Long/Short Equity,3.12,Medio
+1999-04-30,Merger Arbitrage,2.18,Medio
+1999-04-30,Relative Value,2.38,Bajo
+1999-04-30,Short Selling,-3.75,Alto
+1999-04-30,Funds Of Funds,4,Medio
+1999-05-31,Convertible Arbitrage,1.66,Medio
+1999-05-31,CTA Global,-1.5,Alto
+1999-05-31,Distressed Securities,2.07,Alto
+1999-05-31,Emerging Markets,0.61,Alto
+1999-05-31,Equity Market Neutral,0.89,Bajo
+1999-05-31,Event Driven,2.15,Medio
+1999-05-31,Fixed Income Arbitrage,0.72,Bajo
+1999-05-31,Global Macro,-0.55,Alto
+1999-05-31,Long/Short Equity,0.95,Medio
+1999-05-31,Merger Arbitrage,2.1,Medio
+1999-05-31,Relative Value,1.46,Bajo
+1999-05-31,Short Selling,0.09,Alto
+1999-05-31,Funds Of Funds,1.19,Medio
+1999-06-30,Convertible Arbitrage,1.02,Medio
+1999-06-30,CTA Global,2.34,Alto
+1999-06-30,Distressed Securities,2.73,Alto
+1999-06-30,Emerging Markets,6.54,Alto
+1999-06-30,Equity Market Neutral,1.68,Bajo
+1999-06-30,Event Driven,2.97,Medio
+1999-06-30,Fixed Income Arbitrage,0.88,Bajo
+1999-06-30,Global Macro,2.14,Alto
+1999-06-30,Long/Short Equity,3.15,Medio
+1999-06-30,Merger Arbitrage,2.22,Medio
+1999-06-30,Relative Value,1.48,Bajo
+1999-06-30,Short Selling,-4.12,Alto
+1999-06-30,Funds Of Funds,2.82,Medio
+1999-07-31,Convertible Arbitrage,1.01,Medio
+1999-07-31,CTA Global,-0.51,Alto
+1999-07-31,Distressed Securities,0.84,Alto
+1999-07-31,Emerging Markets,-0.61,Alto
+1999-07-31,Equity Market Neutral,1.35,Bajo
+1999-07-31,Event Driven,0.96,Medio
+1999-07-31,Fixed Income Arbitrage,0.51,Bajo
+1999-07-31,Global Macro,-0.18,Alto
+1999-07-31,Long/Short Equity,1.77,Medio
+1999-07-31,Merger Arbitrage,1.47,Medio
+1999-07-31,Relative Value,1.1,Bajo
+1999-07-31,Short Selling,0.92,Alto
+1999-07-31,Funds Of Funds,0.88,Medio
+1999-08-31,Convertible Arbitrage,0.48,Medio
+1999-08-31,CTA Global,-0.27,Alto
+1999-08-31,Distressed Securities,0.2,Alto
+1999-08-31,Emerging Markets,-1.47,Alto
+1999-08-31,Equity Market Neutral,0.95,Bajo
+1999-08-31,Event Driven,-0.27,Medio
+1999-08-31,Fixed Income Arbitrage,-0.28,Bajo
+1999-08-31,Global Macro,-0.61,Alto
+1999-08-31,Long/Short Equity,0.22,Medio
+1999-08-31,Merger Arbitrage,0.5,Medio
+1999-08-31,Relative Value,0.62,Bajo
+1999-08-31,Short Selling,4.68,Alto
+1999-08-31,Funds Of Funds,0.28,Medio
+1999-09-30,Convertible Arbitrage,0.96,Medio
+1999-09-30,CTA Global,0.64,Alto
+1999-09-30,Distressed Securities,-0.41,Alto
+1999-09-30,Emerging Markets,-0.69,Alto
+1999-09-30,Equity Market Neutral,0.95,Bajo
+1999-09-30,Event Driven,0.9,Medio
+1999-09-30,Fixed Income Arbitrage,0.92,Bajo
+1999-09-30,Global Macro,-0.02,Alto
+1999-09-30,Long/Short Equity,1.13,Medio
+1999-09-30,Merger Arbitrage,1.16,Medio
+1999-09-30,Relative Value,1.05,Bajo
+1999-09-30,Short Selling,4.01,Alto
+1999-09-30,Funds Of Funds,0.52,Medio
+1999-10-31,Convertible Arbitrage,0.45,Medio
+1999-10-31,CTA Global,-3.54,Alto
+1999-10-31,Distressed Securities,0.27,Alto
+1999-10-31,Emerging Markets,2.88,Alto
+1999-10-31,Equity Market Neutral,0.66,Bajo
+1999-10-31,Event Driven,0.54,Medio
+1999-10-31,Fixed Income Arbitrage,0.87,Bajo
+1999-10-31,Global Macro,0.73,Alto
+1999-10-31,Long/Short Equity,2.12,Medio
+1999-10-31,Merger Arbitrage,0.96,Medio
+1999-10-31,Relative Value,0.7,Bajo
+1999-10-31,Short Selling,-1.3,Alto
+1999-10-31,Funds Of Funds,1.3,Medio
+1999-11-30,Convertible Arbitrage,1.24,Medio
+1999-11-30,CTA Global,1.66,Alto
+1999-11-30,Distressed Securities,2.2,Alto
+1999-11-30,Emerging Markets,6.92,Alto
+1999-11-30,Equity Market Neutral,1.33,Bajo
+1999-11-30,Event Driven,2.84,Medio
+1999-11-30,Fixed Income Arbitrage,1.06,Bajo
+1999-11-30,Global Macro,4.05,Alto
+1999-11-30,Long/Short Equity,4.81,Medio
+1999-11-30,Merger Arbitrage,2.37,Medio
+1999-11-30,Relative Value,1.37,Bajo
+1999-11-30,Short Selling,-12.39,Alto
+1999-11-30,Funds Of Funds,4.83,Medio
+1999-12-31,Convertible Arbitrage,1.4,Medio
+1999-12-31,CTA Global,1.42,Alto
+1999-12-31,Distressed Securities,3,Alto
+1999-12-31,Emerging Markets,12.3,Alto
+1999-12-31,Equity Market Neutral,1.98,Bajo
+1999-12-31,Event Driven,2.86,Medio
+1999-12-31,Fixed Income Arbitrage,0.97,Bajo
+1999-12-31,Global Macro,6.12,Alto
+1999-12-31,Long/Short Equity,7.45,Medio
+1999-12-31,Merger Arbitrage,0.9,Medio
+1999-12-31,Relative Value,1.83,Bajo
+1999-12-31,Short Selling,-11.37,Alto
+1999-12-31,Funds Of Funds,6.22,Medio
+2000-01-31,Convertible Arbitrage,2.27,Medio
+2000-01-31,CTA Global,1.28,Alto
+2000-01-31,Distressed Securities,0.88,Alto
+2000-01-31,Emerging Markets,0.77,Alto
+2000-01-31,Equity Market Neutral,0.75,Bajo
+2000-01-31,Event Driven,0.88,Medio
+2000-01-31,Fixed Income Arbitrage,0.41,Bajo
+2000-01-31,Global Macro,0.21,Alto
+2000-01-31,Long/Short Equity,0.75,Medio
+2000-01-31,Merger Arbitrage,1.43,Medio
+2000-01-31,Relative Value,1.73,Bajo
+2000-01-31,Short Selling,4.27,Alto
+2000-01-31,Funds Of Funds,1.69,Medio
+2000-02-29,Convertible Arbitrage,2.67,Medio
+2000-02-29,CTA Global,-0.22,Alto
+2000-02-29,Distressed Securities,4.21,Alto
+2000-02-29,Emerging Markets,5.28,Alto
+2000-02-29,Equity Market Neutral,2.53,Bajo
+2000-02-29,Event Driven,3.46,Medio
+2000-02-29,Fixed Income Arbitrage,0.97,Bajo
+2000-02-29,Global Macro,4.08,Alto
+2000-02-29,Long/Short Equity,6.99,Medio
+2000-02-29,Merger Arbitrage,2.39,Medio
+2000-02-29,Relative Value,1.85,Bajo
+2000-02-29,Short Selling,-13.4,Alto
+2000-02-29,Funds Of Funds,6.66,Medio
+2000-03-31,Convertible Arbitrage,2.43,Medio
+2000-03-31,CTA Global,-1.38,Alto
+2000-03-31,Distressed Securities,1.03,Alto
+2000-03-31,Emerging Markets,3.18,Alto
+2000-03-31,Equity Market Neutral,1.34,Bajo
+2000-03-31,Event Driven,0.69,Medio
+2000-03-31,Fixed Income Arbitrage,-0.61,Bajo
+2000-03-31,Global Macro,-1.04,Alto
+2000-03-31,Long/Short Equity,0.06,Medio
+2000-03-31,Merger Arbitrage,1.31,Medio
+2000-03-31,Relative Value,1.63,Bajo
+2000-03-31,Short Selling,-2.3,Alto
+2000-03-31,Funds Of Funds,0.39,Medio
+2000-04-30,Convertible Arbitrage,2.23,Medio
+2000-04-30,CTA Global,-2.41,Alto
+2000-04-30,Distressed Securities,-1.01,Alto
+2000-04-30,Emerging Markets,-5.41,Alto
+2000-04-30,Equity Market Neutral,1.68,Bajo
+2000-04-30,Event Driven,-0.59,Medio
+2000-04-30,Fixed Income Arbitrage,-0.06,Bajo
+2000-04-30,Global Macro,-3.04,Alto
+2000-04-30,Long/Short Equity,-2.01,Medio
+2000-04-30,Merger Arbitrage,1.88,Medio
+2000-04-30,Relative Value,0.92,Bajo
+2000-04-30,Short Selling,10.28,Alto
+2000-04-30,Funds Of Funds,-2.69,Medio
+2000-05-31,Convertible Arbitrage,1.49,Medio
+2000-05-31,CTA Global,1.14,Alto
+2000-05-31,Distressed Securities,-1.32,Alto
+2000-05-31,Emerging Markets,-4.33,Alto
+2000-05-31,Equity Market Neutral,0.62,Bajo
+2000-05-31,Event Driven,-0.34,Medio
+2000-05-31,Fixed Income Arbitrage,1.07,Bajo
+2000-05-31,Global Macro,-0.7,Alto
+2000-05-31,Long/Short Equity,-0.97,Medio
+2000-05-31,Merger Arbitrage,1.46,Medio
+2000-05-31,Relative Value,0.8,Bajo
+2000-05-31,Short Selling,7.04,Alto
+2000-05-31,Funds Of Funds,-1.22,Medio
+2000-06-30,Convertible Arbitrage,1.79,Medio
+2000-06-30,CTA Global,-1.24,Alto
+2000-06-30,Distressed Securities,2.03,Alto
+2000-06-30,Emerging Markets,3.34,Alto
+2000-06-30,Equity Market Neutral,1.71,Bajo
+2000-06-30,Event Driven,2.68,Medio
+2000-06-30,Fixed Income Arbitrage,0.58,Bajo
+2000-06-30,Global Macro,1.54,Alto
+2000-06-30,Long/Short Equity,3.49,Medio
+2000-06-30,Merger Arbitrage,1.67,Medio
+2000-06-30,Relative Value,1.76,Bajo
+2000-06-30,Short Selling,-11.07,Alto
+2000-06-30,Funds Of Funds,3.11,Medio
+2000-07-31,Convertible Arbitrage,0.93,Medio
+2000-07-31,CTA Global,-1.31,Alto
+2000-07-31,Distressed Securities,0.64,Alto
+2000-07-31,Emerging Markets,0.25,Alto
+2000-07-31,Equity Market Neutral,0.63,Bajo
+2000-07-31,Event Driven,0.57,Medio
+2000-07-31,Fixed Income Arbitrage,0.18,Bajo
+2000-07-31,Global Macro,0.37,Alto
+2000-07-31,Long/Short Equity,0.06,Medio
+2000-07-31,Merger Arbitrage,1.16,Medio
+2000-07-31,Relative Value,0.84,Bajo
+2000-07-31,Short Selling,5.53,Alto
+2000-07-31,Funds Of Funds,-0.22,Medio
+2000-08-31,Convertible Arbitrage,1.62,Medio
+2000-08-31,CTA Global,1.89,Alto
+2000-08-31,Distressed Securities,1.4,Alto
+2000-08-31,Emerging Markets,3.68,Alto
+2000-08-31,Equity Market Neutral,2.1,Bajo
+2000-08-31,Event Driven,1.73,Medio
+2000-08-31,Fixed Income Arbitrage,1.07,Bajo
+2000-08-31,Global Macro,2.48,Alto
+2000-08-31,Long/Short Equity,3.45,Medio
+2000-08-31,Merger Arbitrage,1.57,Medio
+2000-08-31,Relative Value,1.57,Bajo
+2000-08-31,Short Selling,-11.35,Alto
+2000-08-31,Funds Of Funds,2.67,Medio
+2000-09-30,Convertible Arbitrage,1.41,Medio
+2000-09-30,CTA Global,-2.08,Alto
+2000-09-30,Distressed Securities,-0.19,Alto
+2000-09-30,Emerging Markets,-4.62,Alto
+2000-09-30,Equity Market Neutral,0.58,Bajo
+2000-09-30,Event Driven,0.48,Medio
+2000-09-30,Fixed Income Arbitrage,0.76,Bajo
+2000-09-30,Global Macro,-1.49,Alto
+2000-09-30,Long/Short Equity,-0.16,Medio
+2000-09-30,Merger Arbitrage,1.37,Medio
+2000-09-30,Relative Value,0.75,Bajo
+2000-09-30,Short Selling,12.04,Alto
+2000-09-30,Funds Of Funds,-0.69,Medio
+2000-10-31,Convertible Arbitrage,0.52,Medio
+2000-10-31,CTA Global,0.75,Alto
+2000-10-31,Distressed Securities,-0.73,Alto
+2000-10-31,Emerging Markets,-2.56,Alto
+2000-10-31,Equity Market Neutral,0.4,Bajo
+2000-10-31,Event Driven,-0.68,Medio
+2000-10-31,Fixed Income Arbitrage,0.06,Bajo
+2000-10-31,Global Macro,-0.24,Alto
+2000-10-31,Long/Short Equity,-0.84,Medio
+2000-10-31,Merger Arbitrage,0.26,Medio
+2000-10-31,Relative Value,-0.04,Bajo
+2000-10-31,Short Selling,7.84,Alto
+2000-10-31,Funds Of Funds,-1.04,Medio
+2000-11-30,Convertible Arbitrage,-0.81,Medio
+2000-11-30,CTA Global,4.25,Alto
+2000-11-30,Distressed Securities,-2.09,Alto
+2000-11-30,Emerging Markets,-3.85,Alto
+2000-11-30,Equity Market Neutral,0.45,Bajo
+2000-11-30,Event Driven,-1.36,Medio
+2000-11-30,Fixed Income Arbitrage,0.66,Bajo
+2000-11-30,Global Macro,1.25,Alto
+2000-11-30,Long/Short Equity,-1.53,Medio
+2000-11-30,Merger Arbitrage,1.02,Medio
+2000-11-30,Relative Value,0.06,Bajo
+2000-11-30,Short Selling,16.57,Alto
+2000-11-30,Funds Of Funds,-2.05,Medio
+2000-12-31,Convertible Arbitrage,-0.02,Medio
+2000-12-31,CTA Global,6.82,Alto
+2000-12-31,Distressed Securities,0.01,Alto
+2000-12-31,Emerging Markets,1.16,Alto
+2000-12-31,Equity Market Neutral,1.6,Bajo
+2000-12-31,Event Driven,1.27,Medio
+2000-12-31,Fixed Income Arbitrage,0.48,Bajo
+2000-12-31,Global Macro,4.72,Alto
+2000-12-31,Long/Short Equity,2.48,Medio
+2000-12-31,Merger Arbitrage,1.25,Medio
+2000-12-31,Relative Value,0.75,Bajo
+2000-12-31,Short Selling,0.63,Alto
+2000-12-31,Funds Of Funds,1.33,Medio
+2001-01-31,Convertible Arbitrage,3.44,Medio
+2001-01-31,CTA Global,0.25,Alto
+2001-01-31,Distressed Securities,3.08,Alto
+2001-01-31,Emerging Markets,5.86,Alto
+2001-01-31,Equity Market Neutral,0.75,Bajo
+2001-01-31,Event Driven,2.98,Medio
+2001-01-31,Fixed Income Arbitrage,1.63,Bajo
+2001-01-31,Global Macro,2.14,Alto
+2001-01-31,Long/Short Equity,1.65,Medio
+2001-01-31,Merger Arbitrage,1.11,Medio
+2001-01-31,Relative Value,3.33,Bajo
+2001-01-31,Short Selling,-2.71,Alto
+2001-01-31,Funds Of Funds,2.23,Medio
+2001-02-28,Convertible Arbitrage,1.82,Medio
+2001-02-28,CTA Global,-0.16,Alto
+2001-02-28,Distressed Securities,1,Alto
+2001-02-28,Emerging Markets,-2.21,Alto
+2001-02-28,Equity Market Neutral,1.2,Bajo
+2001-02-28,Event Driven,0.45,Medio
+2001-02-28,Fixed Income Arbitrage,0.54,Bajo
+2001-02-28,Global Macro,-0.72,Alto
+2001-02-28,Long/Short Equity,-2.64,Medio
+2001-02-28,Merger Arbitrage,0.54,Medio
+2001-02-28,Relative Value,0.3,Bajo
+2001-02-28,Short Selling,10.21,Alto
+2001-02-28,Funds Of Funds,-0.89,Medio
+2001-03-31,Convertible Arbitrage,1.62,Medio
+2001-03-31,CTA Global,4.38,Alto
+2001-03-31,Distressed Securities,-0.37,Alto
+2001-03-31,Emerging Markets,-1.75,Alto
+2001-03-31,Equity Market Neutral,1.08,Bajo
+2001-03-31,Event Driven,-0.42,Medio
+2001-03-31,Fixed Income Arbitrage,0.51,Bajo
+2001-03-31,Global Macro,0.38,Alto
+2001-03-31,Long/Short Equity,-1.99,Medio
+2001-03-31,Merger Arbitrage,-0.61,Medio
+2001-03-31,Relative Value,-0.11,Bajo
+2001-03-31,Short Selling,6.2,Alto
+2001-03-31,Funds Of Funds,-0.68,Medio
+2001-04-30,Convertible Arbitrage,1.57,Medio
+2001-04-30,CTA Global,-3.62,Alto
+2001-04-30,Distressed Securities,0.48,Alto
+2001-04-30,Emerging Markets,1.14,Alto
+2001-04-30,Equity Market Neutral,0.75,Bajo
+2001-04-30,Event Driven,1.1,Medio
+2001-04-30,Fixed Income Arbitrage,0.94,Bajo
+2001-04-30,Global Macro,0.49,Alto
+2001-04-30,Long/Short Equity,2.46,Medio
+2001-04-30,Merger Arbitrage,0.58,Medio
+2001-04-30,Relative Value,1.74,Bajo
+2001-04-30,Short Selling,-9.91,Alto
+2001-04-30,Funds Of Funds,1.04,Medio
+2001-05-31,Convertible Arbitrage,0.33,Medio
+2001-05-31,CTA Global,0.81,Alto
+2001-05-31,Distressed Securities,2.35,Alto
+2001-05-31,Emerging Markets,2.78,Alto
+2001-05-31,Equity Market Neutral,0.77,Bajo
+2001-05-31,Event Driven,1.85,Medio
+2001-05-31,Fixed Income Arbitrage,0.68,Bajo
+2001-05-31,Global Macro,0.32,Alto
+2001-05-31,Long/Short Equity,0.43,Medio
+2001-05-31,Merger Arbitrage,1.61,Medio
+2001-05-31,Relative Value,1.41,Bajo
+2001-05-31,Short Selling,-1.3,Alto
+2001-05-31,Funds Of Funds,0.8,Medio
+2001-06-30,Convertible Arbitrage,0.12,Medio
+2001-06-30,CTA Global,-0.77,Alto
+2001-06-30,Distressed Securities,3.6,Alto
+2001-06-30,Emerging Markets,1.6,Alto
+2001-06-30,Equity Market Neutral,0.17,Bajo
+2001-06-30,Event Driven,0.63,Medio
+2001-06-30,Fixed Income Arbitrage,0.17,Bajo
+2001-06-30,Global Macro,0.17,Alto
+2001-06-30,Long/Short Equity,0.19,Medio
+2001-06-30,Merger Arbitrage,-0.87,Medio
+2001-06-30,Relative Value,0.19,Bajo
+2001-06-30,Short Selling,1.1,Alto
+2001-06-30,Funds Of Funds,0.13,Medio
+2001-07-31,Convertible Arbitrage,0.91,Medio
+2001-07-31,CTA Global,-0.4,Alto
+2001-07-31,Distressed Securities,0.73,Alto
+2001-07-31,Emerging Markets,-2.86,Alto
+2001-07-31,Equity Market Neutral,0.31,Bajo
+2001-07-31,Event Driven,0.49,Medio
+2001-07-31,Fixed Income Arbitrage,0.54,Bajo
+2001-07-31,Global Macro,-0.4,Alto
+2001-07-31,Long/Short Equity,-1.44,Medio
+2001-07-31,Merger Arbitrage,0.79,Medio
+2001-07-31,Relative Value,0.1,Bajo
+2001-07-31,Short Selling,3.53,Alto
+2001-07-31,Funds Of Funds,-0.4,Medio
+2001-08-31,Convertible Arbitrage,1.42,Medio
+2001-08-31,CTA Global,1.53,Alto
+2001-08-31,Distressed Securities,1.06,Alto
+2001-08-31,Emerging Markets,0.3,Alto
+2001-08-31,Equity Market Neutral,0.94,Bajo
+2001-08-31,Event Driven,0.9,Medio
+2001-08-31,Fixed Income Arbitrage,1.05,Bajo
+2001-08-31,Global Macro,0.06,Alto
+2001-08-31,Long/Short Equity,-0.96,Medio
+2001-08-31,Merger Arbitrage,0.99,Medio
+2001-08-31,Relative Value,-0.31,Bajo
+2001-08-31,Short Selling,7.52,Alto
+2001-08-31,Funds Of Funds,0.19,Medio
+2001-09-30,Convertible Arbitrage,0.78,Medio
+2001-09-30,CTA Global,2.46,Alto
+2001-09-30,Distressed Securities,-0.14,Alto
+2001-09-30,Emerging Markets,-4.25,Alto
+2001-09-30,Equity Market Neutral,0.23,Bajo
+2001-09-30,Event Driven,-2.54,Medio
+2001-09-30,Fixed Income Arbitrage,-0.13,Bajo
+2001-09-30,Global Macro,-0.7,Alto
+2001-09-30,Long/Short Equity,-3.48,Medio
+2001-09-30,Merger Arbitrage,-2.67,Medio
+2001-09-30,Relative Value,-2.21,Bajo
+2001-09-30,Short Selling,9.41,Alto
+2001-09-30,Funds Of Funds,-1.42,Medio
+2001-10-31,Convertible Arbitrage,1.17,Medio
+2001-10-31,CTA Global,3.36,Alto
+2001-10-31,Distressed Securities,1.03,Alto
+2001-10-31,Emerging Markets,2.78,Alto
+2001-10-31,Equity Market Neutral,0.58,Bajo
+2001-10-31,Event Driven,1.48,Medio
+2001-10-31,Fixed Income Arbitrage,1.34,Bajo
+2001-10-31,Global Macro,2.08,Alto
+2001-10-31,Long/Short Equity,0.99,Medio
+2001-10-31,Merger Arbitrage,0.85,Medio
+2001-10-31,Relative Value,1.64,Bajo
+2001-10-31,Short Selling,-2.98,Alto
+2001-10-31,Funds Of Funds,0.95,Medio
+2001-11-30,Convertible Arbitrage,0.8,Medio
+2001-11-30,CTA Global,-5.43,Alto
+2001-11-30,Distressed Securities,0.86,Alto
+2001-11-30,Emerging Markets,4.83,Alto
+2001-11-30,Equity Market Neutral,0.55,Bajo
+2001-11-30,Event Driven,1.05,Medio
+2001-11-30,Fixed Income Arbitrage,-0.24,Bajo
+2001-11-30,Global Macro,0.21,Alto
+2001-11-30,Long/Short Equity,2,Medio
+2001-11-30,Merger Arbitrage,0.14,Medio
+2001-11-30,Relative Value,1.36,Bajo
+2001-11-30,Short Selling,-6.55,Alto
+2001-11-30,Funds Of Funds,0.58,Medio
+2001-12-31,Convertible Arbitrage,-0.94,Medio
+2001-12-31,CTA Global,1.48,Alto
+2001-12-31,Distressed Securities,0.15,Alto
+2001-12-31,Emerging Markets,4.21,Alto
+2001-12-31,Equity Market Neutral,0.56,Bajo
+2001-12-31,Event Driven,1.07,Medio
+2001-12-31,Fixed Income Arbitrage,0.53,Bajo
+2001-12-31,Global Macro,1.38,Alto
+2001-12-31,Long/Short Equity,1.8,Medio
+2001-12-31,Merger Arbitrage,0.45,Medio
+2001-12-31,Relative Value,0.97,Bajo
+2001-12-31,Short Selling,-2.51,Alto
+2001-12-31,Funds Of Funds,0.99,Medio
+2002-01-31,Convertible Arbitrage,1.48,Medio
+2002-01-31,CTA Global,-0.72,Alto
+2002-01-31,Distressed Securities,1.86,Alto
+2002-01-31,Emerging Markets,2.73,Alto
+2002-01-31,Equity Market Neutral,0.65,Bajo
+2002-01-31,Event Driven,0.78,Medio
+2002-01-31,Fixed Income Arbitrage,0.86,Bajo
+2002-01-31,Global Macro,0.69,Alto
+2002-01-31,Long/Short Equity,-0.37,Medio
+2002-01-31,Merger Arbitrage,0.77,Medio
+2002-01-31,Relative Value,0.97,Bajo
+2002-01-31,Short Selling,3.43,Alto
+2002-01-31,Funds Of Funds,0.3,Medio
+2002-02-28,Convertible Arbitrage,-0.49,Medio
+2002-02-28,CTA Global,-2.02,Alto
+2002-02-28,Distressed Securities,-0.33,Alto
+2002-02-28,Emerging Markets,1.81,Alto
+2002-02-28,Equity Market Neutral,-0.07,Bajo
+2002-02-28,Event Driven,-0.71,Medio
+2002-02-28,Fixed Income Arbitrage,0.56,Bajo
+2002-02-28,Global Macro,-0.35,Alto
+2002-02-28,Long/Short Equity,-1.23,Medio
+2002-02-28,Merger Arbitrage,-0.44,Medio
+2002-02-28,Relative Value,-0.11,Bajo
+2002-02-28,Short Selling,3.9,Alto
+2002-02-28,Funds Of Funds,-0.15,Medio
+2002-03-31,Convertible Arbitrage,0.53,Medio
+2002-03-31,CTA Global,0.09,Alto
+2002-03-31,Distressed Securities,0.52,Alto
+2002-03-31,Emerging Markets,3.31,Alto
+2002-03-31,Equity Market Neutral,0.47,Bajo
+2002-03-31,Event Driven,1.53,Medio
+2002-03-31,Fixed Income Arbitrage,0.45,Bajo
+2002-03-31,Global Macro,0.64,Alto
+2002-03-31,Long/Short Equity,1.55,Medio
+2002-03-31,Merger Arbitrage,0.73,Medio
+2002-03-31,Relative Value,1.45,Bajo
+2002-03-31,Short Selling,-4.46,Alto
+2002-03-31,Funds Of Funds,0.9,Medio
+2002-04-30,Convertible Arbitrage,0.96,Medio
+2002-04-30,CTA Global,-1.04,Alto
+2002-04-30,Distressed Securities,1.39,Alto
+2002-04-30,Emerging Markets,1.44,Alto
+2002-04-30,Equity Market Neutral,0.76,Bajo
+2002-04-30,Event Driven,0.46,Medio
+2002-04-30,Fixed Income Arbitrage,1.13,Bajo
+2002-04-30,Global Macro,0.98,Alto
+2002-04-30,Long/Short Equity,-0.42,Medio
+2002-04-30,Merger Arbitrage,-0.13,Medio
+2002-04-30,Relative Value,0.7,Bajo
+2002-04-30,Short Selling,4.83,Alto
+2002-04-30,Funds Of Funds,0.52,Medio
+2002-05-31,Convertible Arbitrage,0.33,Medio
+2002-05-31,CTA Global,2.7,Alto
+2002-05-31,Distressed Securities,0.91,Alto
+2002-05-31,Emerging Markets,0.01,Alto
+2002-05-31,Equity Market Neutral,0.53,Bajo
+2002-05-31,Event Driven,0.01,Medio
+2002-05-31,Fixed Income Arbitrage,0.99,Bajo
+2002-05-31,Global Macro,1.23,Alto
+2002-05-31,Long/Short Equity,-0.34,Medio
+2002-05-31,Merger Arbitrage,0,Medio
+2002-05-31,Relative Value,0.31,Bajo
+2002-05-31,Short Selling,3.46,Alto
+2002-05-31,Funds Of Funds,0.5,Medio
+2002-06-30,Convertible Arbitrage,0.04,Medio
+2002-06-30,CTA Global,6.55,Alto
+2002-06-30,Distressed Securities,-1.17,Alto
+2002-06-30,Emerging Markets,-2.92,Alto
+2002-06-30,Equity Market Neutral,0.22,Bajo
+2002-06-30,Event Driven,-2.83,Medio
+2002-06-30,Fixed Income Arbitrage,0.69,Bajo
+2002-06-30,Global Macro,-0.22,Alto
+2002-06-30,Long/Short Equity,-2.49,Medio
+2002-06-30,Merger Arbitrage,-1.7,Medio
+2002-06-30,Relative Value,-1.07,Bajo
+2002-06-30,Short Selling,5.48,Alto
+2002-06-30,Funds Of Funds,-0.95,Medio
+2002-07-31,Convertible Arbitrage,-1.59,Medio
+2002-07-31,CTA Global,4.13,Alto
+2002-07-31,Distressed Securities,-1.33,Alto
+2002-07-31,Emerging Markets,-3.09,Alto
+2002-07-31,Equity Market Neutral,-0.13,Bajo
+2002-07-31,Event Driven,-3,Medio
+2002-07-31,Fixed Income Arbitrage,0.57,Bajo
+2002-07-31,Global Macro,-0.78,Alto
+2002-07-31,Long/Short Equity,-3.89,Medio
+2002-07-31,Merger Arbitrage,-1.74,Medio
+2002-07-31,Relative Value,-1.85,Bajo
+2002-07-31,Short Selling,6.44,Alto
+2002-07-31,Funds Of Funds,-1.4,Medio
+2002-08-31,Convertible Arbitrage,0.5,Medio
+2002-08-31,CTA Global,2.2,Alto
+2002-08-31,Distressed Securities,0.09,Alto
+2002-08-31,Emerging Markets,1.19,Alto
+2002-08-31,Equity Market Neutral,0.69,Bajo
+2002-08-31,Event Driven,0.6,Medio
+2002-08-31,Fixed Income Arbitrage,0.97,Bajo
+2002-08-31,Global Macro,0.63,Alto
+2002-08-31,Long/Short Equity,0.41,Medio
+2002-08-31,Merger Arbitrage,0.61,Medio
+2002-08-31,Relative Value,0.58,Bajo
+2002-08-31,Short Selling,0.15,Alto
+2002-08-31,Funds Of Funds,0.37,Medio
+2002-09-30,Convertible Arbitrage,1.46,Medio
+2002-09-30,CTA Global,2.84,Alto
+2002-09-30,Distressed Securities,-0.44,Alto
+2002-09-30,Emerging Markets,-2.52,Alto
+2002-09-30,Equity Market Neutral,0.15,Bajo
+2002-09-30,Event Driven,-0.7,Medio
+2002-09-30,Fixed Income Arbitrage,-0.33,Bajo
+2002-09-30,Global Macro,0.54,Alto
+2002-09-30,Long/Short Equity,-1.6,Medio
+2002-09-30,Merger Arbitrage,-0.28,Medio
+2002-09-30,Relative Value,-1.1,Bajo
+2002-09-30,Short Selling,7.31,Alto
+2002-09-30,Funds Of Funds,-0.33,Medio
+2002-10-31,Convertible Arbitrage,1.04,Medio
+2002-10-31,CTA Global,-3.76,Alto
+2002-10-31,Distressed Securities,-0.31,Alto
+2002-10-31,Emerging Markets,1.54,Alto
+2002-10-31,Equity Market Neutral,0.16,Bajo
+2002-10-31,Event Driven,0.31,Medio
+2002-10-31,Fixed Income Arbitrage,-0.63,Bajo
+2002-10-31,Global Macro,-0.86,Alto
+2002-10-31,Long/Short Equity,1.23,Medio
+2002-10-31,Merger Arbitrage,0.32,Medio
+2002-10-31,Relative Value,0.84,Bajo
+2002-10-31,Short Selling,-4.05,Alto
+2002-10-31,Funds Of Funds,-0.31,Medio
+2002-11-30,Convertible Arbitrage,2.51,Medio
+2002-11-30,CTA Global,-1.64,Alto
+2002-11-30,Distressed Securities,2.39,Alto
+2002-11-30,Emerging Markets,1.9,Alto
+2002-11-30,Equity Market Neutral,0.25,Bajo
+2002-11-30,Event Driven,2.16,Medio
+2002-11-30,Fixed Income Arbitrage,0.54,Bajo
+2002-11-30,Global Macro,0.47,Alto
+2002-11-30,Long/Short Equity,2.24,Medio
+2002-11-30,Merger Arbitrage,0.54,Medio
+2002-11-30,Relative Value,1.85,Bajo
+2002-11-30,Short Selling,-5.47,Alto
+2002-11-30,Funds Of Funds,1.06,Medio
+2002-12-31,Convertible Arbitrage,1.57,Medio
+2002-12-31,CTA Global,4.89,Alto
+2002-12-31,Distressed Securities,2.22,Alto
+2002-12-31,Emerging Markets,0.48,Alto
+2002-12-31,Equity Market Neutral,0.94,Bajo
+2002-12-31,Event Driven,0.44,Medio
+2002-12-31,Fixed Income Arbitrage,1.53,Bajo
+2002-12-31,Global Macro,1.92,Alto
+2002-12-31,Long/Short Equity,-1.49,Medio
+2002-12-31,Merger Arbitrage,0.46,Medio
+2002-12-31,Relative Value,0.23,Bajo
+2002-12-31,Short Selling,4.43,Alto
+2002-12-31,Funds Of Funds,0.77,Medio
+2003-01-31,Convertible Arbitrage,2.83,Medio
+2003-01-31,CTA Global,4.41,Alto
+2003-01-31,Distressed Securities,2.43,Alto
+2003-01-31,Emerging Markets,0.12,Alto
+2003-01-31,Equity Market Neutral,0.83,Bajo
+2003-01-31,Event Driven,1.54,Medio
+2003-01-31,Fixed Income Arbitrage,1.06,Bajo
+2003-01-31,Global Macro,1.82,Alto
+2003-01-31,Long/Short Equity,0.05,Medio
+2003-01-31,Merger Arbitrage,0.4,Medio
+2003-01-31,Relative Value,0.67,Bajo
+2003-01-31,Short Selling,1.62,Alto
+2003-01-31,Funds Of Funds,0.72,Medio
+2003-02-28,Convertible Arbitrage,1.33,Medio
+2003-02-28,CTA Global,4.02,Alto
+2003-02-28,Distressed Securities,0.92,Alto
+2003-02-28,Emerging Markets,0.84,Alto
+2003-02-28,Equity Market Neutral,0.24,Bajo
+2003-02-28,Event Driven,0.26,Medio
+2003-02-28,Fixed Income Arbitrage,0.79,Bajo
+2003-02-28,Global Macro,1.66,Alto
+2003-02-28,Long/Short Equity,-0.37,Medio
+2003-02-28,Merger Arbitrage,0.18,Medio
+2003-02-28,Relative Value,-0.04,Bajo
+2003-02-28,Short Selling,1.3,Alto
+2003-02-28,Funds Of Funds,0.31,Medio
+2003-03-31,Convertible Arbitrage,0.89,Medio
+2003-03-31,CTA Global,-4.45,Alto
+2003-03-31,Distressed Securities,1.13,Alto
+2003-03-31,Emerging Markets,0.19,Alto
+2003-03-31,Equity Market Neutral,0.15,Bajo
+2003-03-31,Event Driven,0.83,Medio
+2003-03-31,Fixed Income Arbitrage,0.19,Bajo
+2003-03-31,Global Macro,-1.22,Alto
+2003-03-31,Long/Short Equity,0.2,Medio
+2003-03-31,Merger Arbitrage,-0.07,Medio
+2003-03-31,Relative Value,0.49,Bajo
+2003-03-31,Short Selling,-0.75,Alto
+2003-03-31,Funds Of Funds,-0.04,Medio
+2003-04-30,Convertible Arbitrage,1.5,Medio
+2003-04-30,CTA Global,0.65,Alto
+2003-04-30,Distressed Securities,3.45,Alto
+2003-04-30,Emerging Markets,4.5,Alto
+2003-04-30,Equity Market Neutral,0.31,Bajo
+2003-04-30,Event Driven,2.72,Medio
+2003-04-30,Fixed Income Arbitrage,0.91,Bajo
+2003-04-30,Global Macro,1.17,Alto
+2003-04-30,Long/Short Equity,2.98,Medio
+2003-04-30,Merger Arbitrage,0.99,Medio
+2003-04-30,Relative Value,1.86,Bajo
+2003-04-30,Short Selling,-6.56,Alto
+2003-04-30,Funds Of Funds,1.34,Medio
+2003-05-31,Convertible Arbitrage,1.36,Medio
+2003-05-31,CTA Global,4.9,Alto
+2003-05-31,Distressed Securities,2.7,Alto
+2003-05-31,Emerging Markets,4.33,Alto
+2003-05-31,Equity Market Neutral,1.07,Bajo
+2003-05-31,Event Driven,3.01,Medio
+2003-05-31,Fixed Income Arbitrage,2.07,Bajo
+2003-05-31,Global Macro,3.97,Alto
+2003-05-31,Long/Short Equity,3.62,Medio
+2003-05-31,Merger Arbitrage,1.54,Medio
+2003-05-31,Relative Value,2.12,Bajo
+2003-05-31,Short Selling,-4.99,Alto
+2003-05-31,Funds Of Funds,2.05,Medio
+2003-06-30,Convertible Arbitrage,-0.58,Medio
+2003-06-30,CTA Global,-1.92,Alto
+2003-06-30,Distressed Securities,2.67,Alto
+2003-06-30,Emerging Markets,2.68,Alto
+2003-06-30,Equity Market Neutral,0.34,Bajo
+2003-06-30,Event Driven,1.81,Medio
+2003-06-30,Fixed Income Arbitrage,0.44,Bajo
+2003-06-30,Global Macro,0.56,Alto
+2003-06-30,Long/Short Equity,1.28,Medio
+2003-06-30,Merger Arbitrage,0.48,Medio
+2003-06-30,Relative Value,0.71,Bajo
+2003-06-30,Short Selling,-1.62,Alto
+2003-06-30,Funds Of Funds,0.68,Medio
+2003-07-31,Convertible Arbitrage,-0.72,Medio
+2003-07-31,CTA Global,-1.71,Alto
+2003-07-31,Distressed Securities,1.17,Alto
+2003-07-31,Emerging Markets,1.04,Alto
+2003-07-31,Equity Market Neutral,-0.06,Bajo
+2003-07-31,Event Driven,1.19,Medio
+2003-07-31,Fixed Income Arbitrage,-0.92,Bajo
+2003-07-31,Global Macro,-0.35,Alto
+2003-07-31,Long/Short Equity,1.18,Medio
+2003-07-31,Merger Arbitrage,0.53,Medio
+2003-07-31,Relative Value,0.41,Bajo
+2003-07-31,Short Selling,-3.61,Alto
+2003-07-31,Funds Of Funds,0.25,Medio
+2003-08-31,Convertible Arbitrage,-0.87,Medio
+2003-08-31,CTA Global,0.78,Alto
+2003-08-31,Distressed Securities,1.37,Alto
+2003-08-31,Emerging Markets,3.74,Alto
+2003-08-31,Equity Market Neutral,0.31,Bajo
+2003-08-31,Event Driven,1.33,Medio
+2003-08-31,Fixed Income Arbitrage,0.43,Bajo
+2003-08-31,Global Macro,2.02,Alto
+2003-08-31,Long/Short Equity,1.79,Medio
+2003-08-31,Merger Arbitrage,0.7,Medio
+2003-08-31,Relative Value,0.58,Bajo
+2003-08-31,Short Selling,-3.54,Alto
+2003-08-31,Funds Of Funds,0.78,Medio
+2003-09-30,Convertible Arbitrage,1.71,Medio
+2003-09-30,CTA Global,-0.19,Alto
+2003-09-30,Distressed Securities,2.42,Alto
+2003-09-30,Emerging Markets,2.64,Alto
+2003-09-30,Equity Market Neutral,0.78,Bajo
+2003-09-30,Event Driven,1.33,Medio
+2003-09-30,Fixed Income Arbitrage,1.05,Bajo
+2003-09-30,Global Macro,2.15,Alto
+2003-09-30,Long/Short Equity,0.94,Medio
+2003-09-30,Merger Arbitrage,0.77,Medio
+2003-09-30,Relative Value,0.86,Bajo
+2003-09-30,Short Selling,1.36,Alto
+2003-09-30,Funds Of Funds,1.21,Medio
+2003-10-31,Convertible Arbitrage,1.46,Medio
+2003-10-31,CTA Global,1.04,Alto
+2003-10-31,Distressed Securities,2.67,Alto
+2003-10-31,Emerging Markets,2.59,Alto
+2003-10-31,Equity Market Neutral,1.15,Bajo
+2003-10-31,Event Driven,1.91,Medio
+2003-10-31,Fixed Income Arbitrage,0.35,Bajo
+2003-10-31,Global Macro,1.11,Alto
+2003-10-31,Long/Short Equity,2.99,Medio
+2003-10-31,Merger Arbitrage,1.11,Medio
+2003-10-31,Relative Value,1.59,Bajo
+2003-10-31,Short Selling,-6.56,Alto
+2003-10-31,Funds Of Funds,1.52,Medio
+2003-11-30,Convertible Arbitrage,0.92,Medio
+2003-11-30,CTA Global,0.18,Alto
+2003-11-30,Distressed Securities,1.54,Alto
+2003-11-30,Emerging Markets,0.96,Alto
+2003-11-30,Equity Market Neutral,0.46,Bajo
+2003-11-30,Event Driven,1.16,Medio
+2003-11-30,Fixed Income Arbitrage,0.69,Bajo
+2003-11-30,Global Macro,0.31,Alto
+2003-11-30,Long/Short Equity,1.3,Medio
+2003-11-30,Merger Arbitrage,0.44,Medio
+2003-11-30,Relative Value,1.02,Bajo
+2003-11-30,Short Selling,-1.36,Alto
+2003-11-30,Funds Of Funds,0.7,Medio
+2003-12-31,Convertible Arbitrage,0.54,Medio
+2003-12-31,CTA Global,3.81,Alto
+2003-12-31,Distressed Securities,1.98,Alto
+2003-12-31,Emerging Markets,4.03,Alto
+2003-12-31,Equity Market Neutral,0.54,Bajo
+2003-12-31,Event Driven,1.72,Medio
+2003-12-31,Fixed Income Arbitrage,1.01,Bajo
+2003-12-31,Global Macro,2.93,Alto
+2003-12-31,Long/Short Equity,1.91,Medio
+2003-12-31,Merger Arbitrage,0.98,Medio
+2003-12-31,Relative Value,1.27,Bajo
+2003-12-31,Short Selling,-1.78,Alto
+2003-12-31,Funds Of Funds,1.39,Medio
+2004-01-31,Convertible Arbitrage,1.19,Medio
+2004-01-31,CTA Global,1.99,Alto
+2004-01-31,Distressed Securities,3.01,Alto
+2004-01-31,Emerging Markets,2.51,Alto
+2004-01-31,Equity Market Neutral,1.09,Bajo
+2004-01-31,Event Driven,2.34,Medio
+2004-01-31,Fixed Income Arbitrage,0.92,Bajo
+2004-01-31,Global Macro,1.17,Alto
+2004-01-31,Long/Short Equity,1.92,Medio
+2004-01-31,Merger Arbitrage,0.97,Medio
+2004-01-31,Relative Value,1.46,Bajo
+2004-01-31,Short Selling,-0.9,Alto
+2004-01-31,Funds Of Funds,1.56,Medio
+2004-02-29,Convertible Arbitrage,0.17,Medio
+2004-02-29,CTA Global,5.29,Alto
+2004-02-29,Distressed Securities,0.75,Alto
+2004-02-29,Emerging Markets,2.53,Alto
+2004-02-29,Equity Market Neutral,0.63,Bajo
+2004-02-29,Event Driven,1.13,Medio
+2004-02-29,Fixed Income Arbitrage,0.84,Bajo
+2004-02-29,Global Macro,1.5,Alto
+2004-02-29,Long/Short Equity,1.23,Medio
+2004-02-29,Merger Arbitrage,0.51,Medio
+2004-02-29,Relative Value,0.57,Bajo
+2004-02-29,Short Selling,0.18,Alto
+2004-02-29,Funds Of Funds,1.11,Medio
+2004-03-31,Convertible Arbitrage,0.61,Medio
+2004-03-31,CTA Global,-0.51,Alto
+2004-03-31,Distressed Securities,0.46,Alto
+2004-03-31,Emerging Markets,1.72,Alto
+2004-03-31,Equity Market Neutral,0.32,Bajo
+2004-03-31,Event Driven,0.16,Medio
+2004-03-31,Fixed Income Arbitrage,0.03,Bajo
+2004-03-31,Global Macro,0.64,Alto
+2004-03-31,Long/Short Equity,0.41,Medio
+2004-03-31,Merger Arbitrage,0.17,Medio
+2004-03-31,Relative Value,0.38,Bajo
+2004-03-31,Short Selling,-1.48,Alto
+2004-03-31,Funds Of Funds,0.43,Medio
+2004-04-30,Convertible Arbitrage,0.2,Medio
+2004-04-30,CTA Global,-5.32,Alto
+2004-04-30,Distressed Securities,0.93,Alto
+2004-04-30,Emerging Markets,-2.52,Alto
+2004-04-30,Equity Market Neutral,-0.82,Bajo
+2004-04-30,Event Driven,0.02,Medio
+2004-04-30,Fixed Income Arbitrage,0.62,Bajo
+2004-04-30,Global Macro,-1.78,Alto
+2004-04-30,Long/Short Equity,-1.65,Medio
+2004-04-30,Merger Arbitrage,-0.39,Medio
+2004-04-30,Relative Value,-0.45,Bajo
+2004-04-30,Short Selling,3.84,Alto
+2004-04-30,Funds Of Funds,-0.68,Medio
+2004-05-31,Convertible Arbitrage,-1.28,Medio
+2004-05-31,CTA Global,-1.18,Alto
+2004-05-31,Distressed Securities,-0.1,Alto
+2004-05-31,Emerging Markets,-1.81,Alto
+2004-05-31,Equity Market Neutral,0.24,Bajo
+2004-05-31,Event Driven,-0.23,Medio
+2004-05-31,Fixed Income Arbitrage,0.4,Bajo
+2004-05-31,Global Macro,-0.81,Alto
+2004-05-31,Long/Short Equity,-0.35,Medio
+2004-05-31,Merger Arbitrage,0,Medio
+2004-05-31,Relative Value,-0.37,Bajo
+2004-05-31,Short Selling,-0.24,Alto
+2004-05-31,Funds Of Funds,-0.82,Medio
+2004-06-30,Convertible Arbitrage,-1.06,Medio
+2004-06-30,CTA Global,-3.16,Alto
+2004-06-30,Distressed Securities,2.02,Alto
+2004-06-30,Emerging Markets,0.2,Alto
+2004-06-30,Equity Market Neutral,0.42,Bajo
+2004-06-30,Event Driven,1.13,Medio
+2004-06-30,Fixed Income Arbitrage,0.55,Bajo
+2004-06-30,Global Macro,-0.19,Alto
+2004-06-30,Long/Short Equity,0.91,Medio
+2004-06-30,Merger Arbitrage,0.17,Medio
+2004-06-30,Relative Value,0.22,Bajo
+2004-06-30,Short Selling,-0.51,Alto
+2004-06-30,Funds Of Funds,0.34,Medio
+2004-07-31,Convertible Arbitrage,0.13,Medio
+2004-07-31,CTA Global,-1.19,Alto
+2004-07-31,Distressed Securities,0.19,Alto
+2004-07-31,Emerging Markets,-0.27,Alto
+2004-07-31,Equity Market Neutral,0.06,Bajo
+2004-07-31,Event Driven,-0.82,Medio
+2004-07-31,Fixed Income Arbitrage,0.62,Bajo
+2004-07-31,Global Macro,-0.14,Alto
+2004-07-31,Long/Short Equity,-1.54,Medio
+2004-07-31,Merger Arbitrage,-0.92,Medio
+2004-07-31,Relative Value,0.07,Bajo
+2004-07-31,Short Selling,6.38,Alto
+2004-07-31,Funds Of Funds,-0.49,Medio
+2004-08-31,Convertible Arbitrage,0.4,Medio
+2004-08-31,CTA Global,-0.84,Alto
+2004-08-31,Distressed Securities,0.88,Alto
+2004-08-31,Emerging Markets,1.33,Alto
+2004-08-31,Equity Market Neutral,-0.09,Bajo
+2004-08-31,Event Driven,0.35,Medio
+2004-08-31,Fixed Income Arbitrage,0.36,Bajo
+2004-08-31,Global Macro,-0.39,Alto
+2004-08-31,Long/Short Equity,-0.22,Medio
+2004-08-31,Merger Arbitrage,0.11,Medio
+2004-08-31,Relative Value,0.31,Bajo
+2004-08-31,Short Selling,1.26,Alto
+2004-08-31,Funds Of Funds,-0.1,Medio
+2004-09-30,Convertible Arbitrage,-0.17,Medio
+2004-09-30,CTA Global,2.2,Alto
+2004-09-30,Distressed Securities,1.04,Alto
+2004-09-30,Emerging Markets,2.8,Alto
+2004-09-30,Equity Market Neutral,0.85,Bajo
+2004-09-30,Event Driven,1.03,Medio
+2004-09-30,Fixed Income Arbitrage,0.12,Bajo
+2004-09-30,Global Macro,0.08,Alto
+2004-09-30,Long/Short Equity,2.1,Medio
+2004-09-30,Merger Arbitrage,0.42,Medio
+2004-09-30,Relative Value,0.52,Bajo
+2004-09-30,Short Selling,-2.16,Alto
+2004-09-30,Funds Of Funds,0.99,Medio
+2004-10-31,Convertible Arbitrage,-0.44,Medio
+2004-10-31,CTA Global,3.58,Alto
+2004-10-31,Distressed Securities,1.43,Alto
+2004-10-31,Emerging Markets,1.85,Alto
+2004-10-31,Equity Market Neutral,-0.05,Bajo
+2004-10-31,Event Driven,1.24,Medio
+2004-10-31,Fixed Income Arbitrage,0.28,Bajo
+2004-10-31,Global Macro,1.38,Alto
+2004-10-31,Long/Short Equity,0.74,Medio
+2004-10-31,Merger Arbitrage,0.74,Medio
+2004-10-31,Relative Value,0.4,Bajo
+2004-10-31,Short Selling,-0.92,Alto
+2004-10-31,Funds Of Funds,0.68,Medio
+2004-11-30,Convertible Arbitrage,0.81,Medio
+2004-11-30,CTA Global,4.75,Alto
+2004-11-30,Distressed Securities,3.37,Alto
+2004-11-30,Emerging Markets,3.28,Alto
+2004-11-30,Equity Market Neutral,1.4,Bajo
+2004-11-30,Event Driven,3.06,Medio
+2004-11-30,Fixed Income Arbitrage,0.75,Bajo
+2004-11-30,Global Macro,2.8,Alto
+2004-11-30,Long/Short Equity,3.08,Medio
+2004-11-30,Merger Arbitrage,1.64,Medio
+2004-11-30,Relative Value,1.49,Bajo
+2004-11-30,Short Selling,-5.74,Alto
+2004-11-30,Funds Of Funds,2.44,Medio
+2004-12-31,Convertible Arbitrage,0.56,Medio
+2004-12-31,CTA Global,0,Alto
+2004-12-31,Distressed Securities,2.66,Alto
+2004-12-31,Emerging Markets,2.01,Alto
+2004-12-31,Equity Market Neutral,0.58,Bajo
+2004-12-31,Event Driven,2.44,Medio
+2004-12-31,Fixed Income Arbitrage,0.6,Bajo
+2004-12-31,Global Macro,0.33,Alto
+2004-12-31,Long/Short Equity,1.78,Medio
+2004-12-31,Merger Arbitrage,1.33,Medio
+2004-12-31,Relative Value,0.99,Bajo
+2004-12-31,Short Selling,-3.91,Alto
+2004-12-31,Funds Of Funds,1.45,Medio
+2005-01-31,Convertible Arbitrage,-0.96,Medio
+2005-01-31,CTA Global,-4.38,Alto
+2005-01-31,Distressed Securities,0.37,Alto
+2005-01-31,Emerging Markets,1.43,Alto
+2005-01-31,Equity Market Neutral,0.81,Bajo
+2005-01-31,Event Driven,0.04,Medio
+2005-01-31,Fixed Income Arbitrage,0.44,Bajo
+2005-01-31,Global Macro,-0.47,Alto
+2005-01-31,Long/Short Equity,-0.17,Medio
+2005-01-31,Merger Arbitrage,0,Medio
+2005-01-31,Relative Value,0.12,Bajo
+2005-01-31,Short Selling,3.87,Alto
+2005-01-31,Funds Of Funds,0.06,Medio
+2005-02-28,Convertible Arbitrage,-0.58,Medio
+2005-02-28,CTA Global,0.05,Alto
+2005-02-28,Distressed Securities,1.34,Alto
+2005-02-28,Emerging Markets,3.46,Alto
+2005-02-28,Equity Market Neutral,0.8,Bajo
+2005-02-28,Event Driven,1.44,Medio
+2005-02-28,Fixed Income Arbitrage,0.85,Bajo
+2005-02-28,Global Macro,1.71,Alto
+2005-02-28,Long/Short Equity,2.1,Medio
+2005-02-28,Merger Arbitrage,0.65,Medio
+2005-02-28,Relative Value,0.81,Bajo
+2005-02-28,Short Selling,1.18,Alto
+2005-02-28,Funds Of Funds,1.36,Medio
+2005-03-31,Convertible Arbitrage,-1.4,Medio
+2005-03-31,CTA Global,-0.06,Alto
+2005-03-31,Distressed Securities,0.32,Alto
+2005-03-31,Emerging Markets,-1.97,Alto
+2005-03-31,Equity Market Neutral,0.19,Bajo
+2005-03-31,Event Driven,-0.04,Medio
+2005-03-31,Fixed Income Arbitrage,0.24,Bajo
+2005-03-31,Global Macro,-0.27,Alto
+2005-03-31,Long/Short Equity,-0.96,Medio
+2005-03-31,Merger Arbitrage,0.32,Medio
+2005-03-31,Relative Value,-0.42,Bajo
+2005-03-31,Short Selling,2.44,Alto
+2005-03-31,Funds Of Funds,-0.44,Medio
+2005-04-30,Convertible Arbitrage,-3.16,Medio
+2005-04-30,CTA Global,-3.54,Alto
+2005-04-30,Distressed Securities,-0.52,Alto
+2005-04-30,Emerging Markets,-0.49,Alto
+2005-04-30,Equity Market Neutral,-0.3,Bajo
+2005-04-30,Event Driven,-1.28,Medio
+2005-04-30,Fixed Income Arbitrage,-0.03,Bajo
+2005-04-30,Global Macro,-0.8,Alto
+2005-04-30,Long/Short Equity,-1.84,Medio
+2005-04-30,Merger Arbitrage,-1.05,Medio
+2005-04-30,Relative Value,-1.08,Bajo
+2005-04-30,Short Selling,3.93,Alto
+2005-04-30,Funds Of Funds,-1.41,Medio
+2005-05-31,Convertible Arbitrage,-1.33,Medio
+2005-05-31,CTA Global,2.32,Alto
+2005-05-31,Distressed Securities,0.06,Alto
+2005-05-31,Emerging Markets,0.72,Alto
+2005-05-31,Equity Market Neutral,0.47,Bajo
+2005-05-31,Event Driven,0.65,Medio
+2005-05-31,Fixed Income Arbitrage,-0.1,Bajo
+2005-05-31,Global Macro,0.88,Alto
+2005-05-31,Long/Short Equity,1.15,Medio
+2005-05-31,Merger Arbitrage,0.95,Medio
+2005-05-31,Relative Value,-0.02,Bajo
+2005-05-31,Short Selling,-4.75,Alto
+2005-05-31,Funds Of Funds,0.18,Medio
+2005-06-30,Convertible Arbitrage,1.07,Medio
+2005-06-30,CTA Global,2.6,Alto
+2005-06-30,Distressed Securities,1.33,Alto
+2005-06-30,Emerging Markets,1.6,Alto
+2005-06-30,Equity Market Neutral,0.81,Bajo
+2005-06-30,Event Driven,1.33,Medio
+2005-06-30,Fixed Income Arbitrage,0.1,Bajo
+2005-06-30,Global Macro,1.16,Alto
+2005-06-30,Long/Short Equity,1.95,Medio
+2005-06-30,Merger Arbitrage,0.85,Medio
+2005-06-30,Relative Value,0.95,Bajo
+2005-06-30,Short Selling,-0.32,Alto
+2005-06-30,Funds Of Funds,1.31,Medio
+2005-07-31,Convertible Arbitrage,1.64,Medio
+2005-07-31,CTA Global,-0.13,Alto
+2005-07-31,Distressed Securities,1.73,Alto
+2005-07-31,Emerging Markets,2.57,Alto
+2005-07-31,Equity Market Neutral,0.78,Bajo
+2005-07-31,Event Driven,2.15,Medio
+2005-07-31,Fixed Income Arbitrage,0.81,Bajo
+2005-07-31,Global Macro,1.19,Alto
+2005-07-31,Long/Short Equity,2.65,Medio
+2005-07-31,Merger Arbitrage,1.15,Medio
+2005-07-31,Relative Value,1.49,Bajo
+2005-07-31,Short Selling,-2.42,Alto
+2005-07-31,Funds Of Funds,1.34,Medio
+2005-08-31,Convertible Arbitrage,0.66,Medio
+2005-08-31,CTA Global,1,Alto
+2005-08-31,Distressed Securities,1.24,Alto
+2005-08-31,Emerging Markets,1.52,Alto
+2005-08-31,Equity Market Neutral,0.62,Bajo
+2005-08-31,Event Driven,0.92,Medio
+2005-08-31,Fixed Income Arbitrage,0.36,Bajo
+2005-08-31,Global Macro,0.83,Alto
+2005-08-31,Long/Short Equity,0.97,Medio
+2005-08-31,Merger Arbitrage,0.61,Medio
+2005-08-31,Relative Value,0.53,Bajo
+2005-08-31,Short Selling,2.59,Alto
+2005-08-31,Funds Of Funds,0.79,Medio
+2005-09-30,Convertible Arbitrage,1.42,Medio
+2005-09-30,CTA Global,0.79,Alto
+2005-09-30,Distressed Securities,1.12,Alto
+2005-09-30,Emerging Markets,4.02,Alto
+2005-09-30,Equity Market Neutral,0.87,Bajo
+2005-09-30,Event Driven,1,Medio
+2005-09-30,Fixed Income Arbitrage,0.62,Bajo
+2005-09-30,Global Macro,2.69,Alto
+2005-09-30,Long/Short Equity,2.22,Medio
+2005-09-30,Merger Arbitrage,0.35,Medio
+2005-09-30,Relative Value,1.22,Bajo
+2005-09-30,Short Selling,1.98,Alto
+2005-09-30,Funds Of Funds,1.47,Medio
+2005-10-31,Convertible Arbitrage,-0.15,Medio
+2005-10-31,CTA Global,-0.92,Alto
+2005-10-31,Distressed Securities,-0.32,Alto
+2005-10-31,Emerging Markets,-2.3,Alto
+2005-10-31,Equity Market Neutral,0.01,Bajo
+2005-10-31,Event Driven,-1.73,Medio
+2005-10-31,Fixed Income Arbitrage,0.57,Bajo
+2005-10-31,Global Macro,-0.74,Alto
+2005-10-31,Long/Short Equity,-1.74,Medio
+2005-10-31,Merger Arbitrage,-1.45,Medio
+2005-10-31,Relative Value,-0.38,Bajo
+2005-10-31,Short Selling,2.33,Alto
+2005-10-31,Funds Of Funds,-1.49,Medio
+2005-11-30,Convertible Arbitrage,0.04,Medio
+2005-11-30,CTA Global,3.79,Alto
+2005-11-30,Distressed Securities,1,Alto
+2005-11-30,Emerging Markets,2.79,Alto
+2005-11-30,Equity Market Neutral,0.61,Bajo
+2005-11-30,Event Driven,1.25,Medio
+2005-11-30,Fixed Income Arbitrage,0.15,Bajo
+2005-11-30,Global Macro,1.64,Alto
+2005-11-30,Long/Short Equity,2.11,Medio
+2005-11-30,Merger Arbitrage,1.12,Medio
+2005-11-30,Relative Value,0.67,Bajo
+2005-11-30,Short Selling,-3,Alto
+2005-11-30,Funds Of Funds,1.6,Medio
+2005-12-31,Convertible Arbitrage,0.92,Medio
+2005-12-31,CTA Global,-1.53,Alto
+2005-12-31,Distressed Securities,1.22,Alto
+2005-12-31,Emerging Markets,2.84,Alto
+2005-12-31,Equity Market Neutral,0.68,Bajo
+2005-12-31,Event Driven,1.42,Medio
+2005-12-31,Fixed Income Arbitrage,0.54,Bajo
+2005-12-31,Global Macro,1.35,Alto
+2005-12-31,Long/Short Equity,2.49,Medio
+2005-12-31,Merger Arbitrage,1.38,Medio
+2005-12-31,Relative Value,1.26,Bajo
+2005-12-31,Short Selling,-0.35,Alto
+2005-12-31,Funds Of Funds,1.91,Medio
+2006-01-31,Convertible Arbitrage,2.5,Medio
+2006-01-31,CTA Global,1.74,Alto
+2006-01-31,Distressed Securities,2.53,Alto
+2006-01-31,Emerging Markets,5.26,Alto
+2006-01-31,Equity Market Neutral,1.15,Bajo
+2006-01-31,Event Driven,3.41,Medio
+2006-01-31,Fixed Income Arbitrage,0.93,Bajo
+2006-01-31,Global Macro,2.58,Alto
+2006-01-31,Long/Short Equity,3.81,Medio
+2006-01-31,Merger Arbitrage,2.72,Medio
+2006-01-31,Relative Value,2.38,Bajo
+2006-01-31,Short Selling,-2.88,Alto
+2006-01-31,Funds Of Funds,2.86,Medio
+2006-02-28,Convertible Arbitrage,1.16,Medio
+2006-02-28,CTA Global,-1.86,Alto
+2006-02-28,Distressed Securities,0.65,Alto
+2006-02-28,Emerging Markets,1.61,Alto
+2006-02-28,Equity Market Neutral,0.46,Bajo
+2006-02-28,Event Driven,0.51,Medio
+2006-02-28,Fixed Income Arbitrage,0.41,Bajo
+2006-02-28,Global Macro,0.02,Alto
+2006-02-28,Long/Short Equity,0.16,Medio
+2006-02-28,Merger Arbitrage,1.04,Medio
+2006-02-28,Relative Value,0.73,Bajo
+2006-02-28,Short Selling,0.64,Alto
+2006-02-28,Funds Of Funds,0.37,Medio
+2006-03-31,Convertible Arbitrage,1.07,Medio
+2006-03-31,CTA Global,2.84,Alto
+2006-03-31,Distressed Securities,1.72,Alto
+2006-03-31,Emerging Markets,1.22,Alto
+2006-03-31,Equity Market Neutral,0.98,Bajo
+2006-03-31,Event Driven,1.85,Medio
+2006-03-31,Fixed Income Arbitrage,0.55,Bajo
+2006-03-31,Global Macro,0.94,Alto
+2006-03-31,Long/Short Equity,2.38,Medio
+2006-03-31,Merger Arbitrage,1.44,Medio
+2006-03-31,Relative Value,1.57,Bajo
+2006-03-31,Short Selling,-1.39,Alto
+2006-03-31,Funds Of Funds,1.64,Medio
+2006-04-30,Convertible Arbitrage,0.64,Medio
+2006-04-30,CTA Global,3.87,Alto
+2006-04-30,Distressed Securities,1.93,Alto
+2006-04-30,Emerging Markets,3.65,Alto
+2006-04-30,Equity Market Neutral,1.02,Bajo
+2006-04-30,Event Driven,1.64,Medio
+2006-04-30,Fixed Income Arbitrage,1.21,Bajo
+2006-04-30,Global Macro,2.38,Alto
+2006-04-30,Long/Short Equity,1.72,Medio
+2006-04-30,Merger Arbitrage,1.19,Medio
+2006-04-30,Relative Value,1.26,Bajo
+2006-04-30,Short Selling,-0.12,Alto
+2006-04-30,Funds Of Funds,1.71,Medio
+2006-05-31,Convertible Arbitrage,0.91,Medio
+2006-05-31,CTA Global,-1.46,Alto
+2006-05-31,Distressed Securities,0.86,Alto
+2006-05-31,Emerging Markets,-3.89,Alto
+2006-05-31,Equity Market Neutral,0.02,Bajo
+2006-05-31,Event Driven,0.08,Medio
+2006-05-31,Fixed Income Arbitrage,0.59,Bajo
+2006-05-31,Global Macro,-1.55,Alto
+2006-05-31,Long/Short Equity,-2.48,Medio
+2006-05-31,Merger Arbitrage,0.09,Medio
+2006-05-31,Relative Value,-0.25,Bajo
+2006-05-31,Short Selling,2.46,Alto
+2006-05-31,Funds Of Funds,-1.33,Medio
+2006-06-30,Convertible Arbitrage,0.12,Medio
+2006-06-30,CTA Global,-1.42,Alto
+2006-06-30,Distressed Securities,-0.15,Alto
+2006-06-30,Emerging Markets,-0.97,Alto
+2006-06-30,Equity Market Neutral,0.63,Bajo
+2006-06-30,Event Driven,0.12,Medio
+2006-06-30,Fixed Income Arbitrage,0.36,Bajo
+2006-06-30,Global Macro,-0.15,Alto
+2006-06-30,Long/Short Equity,-0.62,Medio
+2006-06-30,Merger Arbitrage,0.87,Medio
+2006-06-30,Relative Value,0.21,Bajo
+2006-06-30,Short Selling,1.18,Alto
+2006-06-30,Funds Of Funds,-0.28,Medio
+2006-07-31,Convertible Arbitrage,0.66,Medio
+2006-07-31,CTA Global,-2.16,Alto
+2006-07-31,Distressed Securities,0.09,Alto
+2006-07-31,Emerging Markets,0.67,Alto
+2006-07-31,Equity Market Neutral,0.51,Bajo
+2006-07-31,Event Driven,-0.11,Medio
+2006-07-31,Fixed Income Arbitrage,0.64,Bajo
+2006-07-31,Global Macro,0.06,Alto
+2006-07-31,Long/Short Equity,-0.31,Medio
+2006-07-31,Merger Arbitrage,0.58,Medio
+2006-07-31,Relative Value,0.17,Bajo
+2006-07-31,Short Selling,1.73,Alto
+2006-07-31,Funds Of Funds,-0.05,Medio
+2006-08-31,Convertible Arbitrage,0.98,Medio
+2006-08-31,CTA Global,0.2,Alto
+2006-08-31,Distressed Securities,0.99,Alto
+2006-08-31,Emerging Markets,1.33,Alto
+2006-08-31,Equity Market Neutral,-0.09,Bajo
+2006-08-31,Event Driven,1.12,Medio
+2006-08-31,Fixed Income Arbitrage,0.37,Bajo
+2006-08-31,Global Macro,-0.39,Alto
+2006-08-31,Long/Short Equity,1.14,Medio
+2006-08-31,Merger Arbitrage,0.53,Medio
+2006-08-31,Relative Value,0.92,Bajo
+2006-08-31,Short Selling,-1.56,Alto
+2006-08-31,Funds Of Funds,0.66,Medio
+2006-09-30,Convertible Arbitrage,0.93,Medio
+2006-09-30,CTA Global,-0.55,Alto
+2006-09-30,Distressed Securities,0.33,Alto
+2006-09-30,Emerging Markets,0.11,Alto
+2006-09-30,Equity Market Neutral,0.09,Bajo
+2006-09-30,Event Driven,0.35,Medio
+2006-09-30,Fixed Income Arbitrage,0.14,Bajo
+2006-09-30,Global Macro,-0.67,Alto
+2006-09-30,Long/Short Equity,0.05,Medio
+2006-09-30,Merger Arbitrage,0.41,Medio
+2006-09-30,Relative Value,0.4,Bajo
+2006-09-30,Short Selling,-2.36,Alto
+2006-09-30,Funds Of Funds,-0.03,Medio
+2006-10-31,Convertible Arbitrage,0.54,Medio
+2006-10-31,CTA Global,1.02,Alto
+2006-10-31,Distressed Securities,1.94,Alto
+2006-10-31,Emerging Markets,2.57,Alto
+2006-10-31,Equity Market Neutral,0.65,Bajo
+2006-10-31,Event Driven,2.06,Medio
+2006-10-31,Fixed Income Arbitrage,0.67,Bajo
+2006-10-31,Global Macro,0.97,Alto
+2006-10-31,Long/Short Equity,1.94,Medio
+2006-10-31,Merger Arbitrage,1.32,Medio
+2006-10-31,Relative Value,1.32,Bajo
+2006-10-31,Short Selling,-3.8,Alto
+2006-10-31,Funds Of Funds,1.63,Medio
+2006-11-30,Convertible Arbitrage,0.92,Medio
+2006-11-30,CTA Global,2.26,Alto
+2006-11-30,Distressed Securities,1.79,Alto
+2006-11-30,Emerging Markets,3.23,Alto
+2006-11-30,Equity Market Neutral,0.75,Bajo
+2006-11-30,Event Driven,1.82,Medio
+2006-11-30,Fixed Income Arbitrage,0.6,Bajo
+2006-11-30,Global Macro,1.99,Alto
+2006-11-30,Long/Short Equity,2,Medio
+2006-11-30,Merger Arbitrage,1.42,Medio
+2006-11-30,Relative Value,1.29,Bajo
+2006-11-30,Short Selling,-2.68,Alto
+2006-11-30,Funds Of Funds,1.85,Medio
+2006-12-31,Convertible Arbitrage,1.27,Medio
+2006-12-31,CTA Global,1.46,Alto
+2006-12-31,Distressed Securities,1.65,Alto
+2006-12-31,Emerging Markets,2.91,Alto
+2006-12-31,Equity Market Neutral,1.07,Bajo
+2006-12-31,Event Driven,1.68,Medio
+2006-12-31,Fixed Income Arbitrage,0.72,Bajo
+2006-12-31,Global Macro,1.16,Alto
+2006-12-31,Long/Short Equity,1.53,Medio
+2006-12-31,Merger Arbitrage,1.33,Medio
+2006-12-31,Relative Value,1.28,Bajo
+2006-12-31,Short Selling,0.39,Alto
+2006-12-31,Funds Of Funds,1.75,Medio
+2007-01-31,Convertible Arbitrage,1.3,Medio
+2007-01-31,CTA Global,1.13,Alto
+2007-01-31,Distressed Securities,1.5,Alto
+2007-01-31,Emerging Markets,0.79,Alto
+2007-01-31,Equity Market Neutral,0.83,Bajo
+2007-01-31,Event Driven,2.01,Medio
+2007-01-31,Fixed Income Arbitrage,0.69,Bajo
+2007-01-31,Global Macro,0.61,Alto
+2007-01-31,Long/Short Equity,1.21,Medio
+2007-01-31,Merger Arbitrage,1.91,Medio
+2007-01-31,Relative Value,1.35,Bajo
+2007-01-31,Short Selling,-1.07,Alto
+2007-01-31,Funds Of Funds,1.21,Medio
+2007-02-28,Convertible Arbitrage,1.17,Medio
+2007-02-28,CTA Global,-1.44,Alto
+2007-02-28,Distressed Securities,1.45,Alto
+2007-02-28,Emerging Markets,1,Alto
+2007-02-28,Equity Market Neutral,0.51,Bajo
+2007-02-28,Event Driven,2.07,Medio
+2007-02-28,Fixed Income Arbitrage,1.06,Bajo
+2007-02-28,Global Macro,0.18,Alto
+2007-02-28,Long/Short Equity,0.82,Medio
+2007-02-28,Merger Arbitrage,2.55,Medio
+2007-02-28,Relative Value,1.14,Bajo
+2007-02-28,Short Selling,0.28,Alto
+2007-02-28,Funds Of Funds,0.96,Medio
+2007-03-31,Convertible Arbitrage,0.6,Medio
+2007-03-31,CTA Global,-1.41,Alto
+2007-03-31,Distressed Securities,1.08,Alto
+2007-03-31,Emerging Markets,1.85,Alto
+2007-03-31,Equity Market Neutral,1.01,Bajo
+2007-03-31,Event Driven,1.46,Medio
+2007-03-31,Fixed Income Arbitrage,0.6,Bajo
+2007-03-31,Global Macro,0.27,Alto
+2007-03-31,Long/Short Equity,1.15,Medio
+2007-03-31,Merger Arbitrage,0.63,Medio
+2007-03-31,Relative Value,0.81,Bajo
+2007-03-31,Short Selling,-0.51,Alto
+2007-03-31,Funds Of Funds,0.96,Medio
+2007-04-30,Convertible Arbitrage,0.26,Medio
+2007-04-30,CTA Global,2.41,Alto
+2007-04-30,Distressed Securities,1.64,Alto
+2007-04-30,Emerging Markets,2.55,Alto
+2007-04-30,Equity Market Neutral,0.89,Bajo
+2007-04-30,Event Driven,1.97,Medio
+2007-04-30,Fixed Income Arbitrage,0.71,Bajo
+2007-04-30,Global Macro,1.52,Alto
+2007-04-30,Long/Short Equity,1.98,Medio
+2007-04-30,Merger Arbitrage,1.6,Medio
+2007-04-30,Relative Value,1.34,Bajo
+2007-04-30,Short Selling,-2.65,Alto
+2007-04-30,Funds Of Funds,1.63,Medio
+2007-05-31,Convertible Arbitrage,1.1,Medio
+2007-05-31,CTA Global,2.3,Alto
+2007-05-31,Distressed Securities,1.8,Alto
+2007-05-31,Emerging Markets,2.7,Alto
+2007-05-31,Equity Market Neutral,1.21,Bajo
+2007-05-31,Event Driven,2.13,Medio
+2007-05-31,Fixed Income Arbitrage,0.55,Bajo
+2007-05-31,Global Macro,1.92,Alto
+2007-05-31,Long/Short Equity,2.24,Medio
+2007-05-31,Merger Arbitrage,1.71,Medio
+2007-05-31,Relative Value,1.56,Bajo
+2007-05-31,Short Selling,-1.99,Alto
+2007-05-31,Funds Of Funds,2.04,Medio
+2007-06-30,Convertible Arbitrage,0.11,Medio
+2007-06-30,CTA Global,2.29,Alto
+2007-06-30,Distressed Securities,0.27,Alto
+2007-06-30,Emerging Markets,2.36,Alto
+2007-06-30,Equity Market Neutral,0.77,Bajo
+2007-06-30,Event Driven,-0.07,Medio
+2007-06-30,Fixed Income Arbitrage,0.48,Bajo
+2007-06-30,Global Macro,1.07,Alto
+2007-06-30,Long/Short Equity,0.77,Medio
+2007-06-30,Merger Arbitrage,-0.53,Medio
+2007-06-30,Relative Value,1,Bajo
+2007-06-30,Short Selling,2.36,Alto
+2007-06-30,Funds Of Funds,0.82,Medio
+2007-07-31,Convertible Arbitrage,-0.53,Medio
+2007-07-31,CTA Global,-1.22,Alto
+2007-07-31,Distressed Securities,-0.56,Alto
+2007-07-31,Emerging Markets,2.75,Alto
+2007-07-31,Equity Market Neutral,0.51,Bajo
+2007-07-31,Event Driven,-0.32,Medio
+2007-07-31,Fixed Income Arbitrage,0.07,Bajo
+2007-07-31,Global Macro,1.16,Alto
+2007-07-31,Long/Short Equity,0.09,Medio
+2007-07-31,Merger Arbitrage,-0.54,Medio
+2007-07-31,Relative Value,0.04,Bajo
+2007-07-31,Short Selling,4.86,Alto
+2007-07-31,Funds Of Funds,0.41,Medio
+2007-08-31,Convertible Arbitrage,-1.45,Medio
+2007-08-31,CTA Global,-2.8,Alto
+2007-08-31,Distressed Securities,-1.18,Alto
+2007-08-31,Emerging Markets,-2.74,Alto
+2007-08-31,Equity Market Neutral,-0.94,Bajo
+2007-08-31,Event Driven,-1.44,Medio
+2007-08-31,Fixed Income Arbitrage,-0.48,Bajo
+2007-08-31,Global Macro,-1.16,Alto
+2007-08-31,Long/Short Equity,-1.6,Medio
+2007-08-31,Merger Arbitrage,0.01,Medio
+2007-08-31,Relative Value,-0.77,Bajo
+2007-08-31,Short Selling,0.92,Alto
+2007-08-31,Funds Of Funds,-2.22,Medio
+2007-09-30,Convertible Arbitrage,1.61,Medio
+2007-09-30,CTA Global,4.69,Alto
+2007-09-30,Distressed Securities,0.95,Alto
+2007-09-30,Emerging Markets,4.28,Alto
+2007-09-30,Equity Market Neutral,1.23,Bajo
+2007-09-30,Event Driven,1.34,Medio
+2007-09-30,Fixed Income Arbitrage,1.64,Bajo
+2007-09-30,Global Macro,3.3,Alto
+2007-09-30,Long/Short Equity,2.56,Medio
+2007-09-30,Merger Arbitrage,1.31,Medio
+2007-09-30,Relative Value,1.53,Bajo
+2007-09-30,Short Selling,-2.07,Alto
+2007-09-30,Funds Of Funds,1.99,Medio
+2007-10-31,Convertible Arbitrage,1.77,Medio
+2007-10-31,CTA Global,2.8,Alto
+2007-10-31,Distressed Securities,1.75,Alto
+2007-10-31,Emerging Markets,4.85,Alto
+2007-10-31,Equity Market Neutral,1.68,Bajo
+2007-10-31,Event Driven,2.14,Medio
+2007-10-31,Fixed Income Arbitrage,1.14,Bajo
+2007-10-31,Global Macro,3.04,Alto
+2007-10-31,Long/Short Equity,2.81,Medio
+2007-10-31,Merger Arbitrage,1.91,Medio
+2007-10-31,Relative Value,2,Bajo
+2007-10-31,Short Selling,-0.26,Alto
+2007-10-31,Funds Of Funds,3.03,Medio
+2007-11-30,Convertible Arbitrage,-1.31,Medio
+2007-11-30,CTA Global,-0.16,Alto
+2007-11-30,Distressed Securities,-1.69,Alto
+2007-11-30,Emerging Markets,-2.37,Alto
+2007-11-30,Equity Market Neutral,-0.18,Bajo
+2007-11-30,Event Driven,-2.02,Medio
+2007-11-30,Fixed Income Arbitrage,-0.94,Bajo
+2007-11-30,Global Macro,-0.63,Alto
+2007-11-30,Long/Short Equity,-2.25,Medio
+2007-11-30,Merger Arbitrage,-1.49,Medio
+2007-11-30,Relative Value,-1.12,Bajo
+2007-11-30,Short Selling,7.19,Alto
+2007-11-30,Funds Of Funds,-1.48,Medio
+2007-12-31,Convertible Arbitrage,-0.77,Medio
+2007-12-31,CTA Global,1.17,Alto
+2007-12-31,Distressed Securities,0.02,Alto
+2007-12-31,Emerging Markets,1.3,Alto
+2007-12-31,Equity Market Neutral,0.54,Bajo
+2007-12-31,Event Driven,0.07,Medio
+2007-12-31,Fixed Income Arbitrage,0.36,Bajo
+2007-12-31,Global Macro,1.04,Alto
+2007-12-31,Long/Short Equity,0.43,Medio
+2007-12-31,Merger Arbitrage,-0.25,Medio
+2007-12-31,Relative Value,0.22,Bajo
+2007-12-31,Short Selling,0.56,Alto
+2007-12-31,Funds Of Funds,0.4,Medio
+2008-01-31,Convertible Arbitrage,-0.09,Medio
+2008-01-31,CTA Global,2.55,Alto
+2008-01-31,Distressed Securities,-2.33,Alto
+2008-01-31,Emerging Markets,-5.03,Alto
+2008-01-31,Equity Market Neutral,-1.12,Bajo
+2008-01-31,Event Driven,-2.71,Medio
+2008-01-31,Fixed Income Arbitrage,-0.12,Bajo
+2008-01-31,Global Macro,-0.1,Alto
+2008-01-31,Long/Short Equity,-4,Medio
+2008-01-31,Merger Arbitrage,-1.26,Medio
+2008-01-31,Relative Value,-1.18,Bajo
+2008-01-31,Short Selling,5.56,Alto
+2008-01-31,Funds Of Funds,-2.72,Medio
+2008-02-29,Convertible Arbitrage,-0.83,Medio
+2008-02-29,CTA Global,6.2,Alto
+2008-02-29,Distressed Securities,0.14,Alto
+2008-02-29,Emerging Markets,2.8,Alto
+2008-02-29,Equity Market Neutral,1.2,Bajo
+2008-02-29,Event Driven,0.84,Medio
+2008-02-29,Fixed Income Arbitrage,-0.49,Bajo
+2008-02-29,Global Macro,3.12,Alto
+2008-02-29,Long/Short Equity,1.4,Medio
+2008-02-29,Merger Arbitrage,0.6,Medio
+2008-02-29,Relative Value,0.64,Bajo
+2008-02-29,Short Selling,3,Alto
+2008-02-29,Funds Of Funds,1.42,Medio
+2008-03-31,Convertible Arbitrage,-3.17,Medio
+2008-03-31,CTA Global,-0.56,Alto
+2008-03-31,Distressed Securities,-1.26,Alto
+2008-03-31,Emerging Markets,-3.79,Alto
+2008-03-31,Equity Market Neutral,-0.49,Bajo
+2008-03-31,Event Driven,-1.68,Medio
+2008-03-31,Fixed Income Arbitrage,-3.06,Bajo
+2008-03-31,Global Macro,-1.69,Alto
+2008-03-31,Long/Short Equity,-2.36,Medio
+2008-03-31,Merger Arbitrage,-0.45,Medio
+2008-03-31,Relative Value,-1.62,Bajo
+2008-03-31,Short Selling,1.92,Alto
+2008-03-31,Funds Of Funds,-2.62,Medio
+2008-04-30,Convertible Arbitrage,0.76,Medio
+2008-04-30,CTA Global,-0.78,Alto
+2008-04-30,Distressed Securities,0.88,Alto
+2008-04-30,Emerging Markets,1.9,Alto
+2008-04-30,Equity Market Neutral,0.59,Bajo
+2008-04-30,Event Driven,1.18,Medio
+2008-04-30,Fixed Income Arbitrage,1.87,Bajo
+2008-04-30,Global Macro,0.78,Alto
+2008-04-30,Long/Short Equity,2.23,Medio
+2008-04-30,Merger Arbitrage,1.49,Medio
+2008-04-30,Relative Value,1.3,Bajo
+2008-04-30,Short Selling,-4.61,Alto
+2008-04-30,Funds Of Funds,0.97,Medio
+2008-05-31,Convertible Arbitrage,1.07,Medio
+2008-05-31,CTA Global,1.62,Alto
+2008-05-31,Distressed Securities,1.37,Alto
+2008-05-31,Emerging Markets,1.63,Alto
+2008-05-31,Equity Market Neutral,1.26,Bajo
+2008-05-31,Event Driven,1.76,Medio
+2008-05-31,Fixed Income Arbitrage,1.03,Bajo
+2008-05-31,Global Macro,1.14,Alto
+2008-05-31,Long/Short Equity,2.27,Medio
+2008-05-31,Merger Arbitrage,1.36,Medio
+2008-05-31,Relative Value,1.59,Bajo
+2008-05-31,Short Selling,-1.42,Alto
+2008-05-31,Funds Of Funds,1.72,Medio
+2008-06-30,Convertible Arbitrage,-0.81,Medio
+2008-06-30,CTA Global,3.3,Alto
+2008-06-30,Distressed Securities,-0.31,Alto
+2008-06-30,Emerging Markets,-2.74,Alto
+2008-06-30,Equity Market Neutral,1.56,Bajo
+2008-06-30,Event Driven,-1.13,Medio
+2008-06-30,Fixed Income Arbitrage,-0.27,Bajo
+2008-06-30,Global Macro,0.3,Alto
+2008-06-30,Long/Short Equity,-1.64,Medio
+2008-06-30,Merger Arbitrage,-1.09,Medio
+2008-06-30,Relative Value,-0.84,Bajo
+2008-06-30,Short Selling,7.51,Alto
+2008-06-30,Funds Of Funds,-0.68,Medio
+2008-07-31,Convertible Arbitrage,-1.88,Medio
+2008-07-31,CTA Global,-3.33,Alto
+2008-07-31,Distressed Securities,-1.82,Alto
+2008-07-31,Emerging Markets,-3.3,Alto
+2008-07-31,Equity Market Neutral,-1,Bajo
+2008-07-31,Event Driven,-1.66,Medio
+2008-07-31,Fixed Income Arbitrage,-0.23,Bajo
+2008-07-31,Global Macro,-2.13,Alto
+2008-07-31,Long/Short Equity,-2.61,Medio
+2008-07-31,Merger Arbitrage,0.11,Medio
+2008-07-31,Relative Value,-1.25,Bajo
+2008-07-31,Short Selling,0.72,Alto
+2008-07-31,Funds Of Funds,-2.64,Medio
+2008-08-31,Convertible Arbitrage,-0.66,Medio
+2008-08-31,CTA Global,-1.14,Alto
+2008-08-31,Distressed Securities,-0.72,Alto
+2008-08-31,Emerging Markets,-3.36,Alto
+2008-08-31,Equity Market Neutral,-1.35,Bajo
+2008-08-31,Event Driven,-0.25,Medio
+2008-08-31,Fixed Income Arbitrage,-0.03,Bajo
+2008-08-31,Global Macro,-1.33,Alto
+2008-08-31,Long/Short Equity,-1.46,Medio
+2008-08-31,Merger Arbitrage,0.51,Medio
+2008-08-31,Relative Value,-0.23,Bajo
+2008-08-31,Short Selling,-2.15,Alto
+2008-08-31,Funds Of Funds,-1.56,Medio
+2008-09-30,Convertible Arbitrage,-10.27,Medio
+2008-09-30,CTA Global,0.1,Alto
+2008-09-30,Distressed Securities,-5.18,Alto
+2008-09-30,Emerging Markets,-9.82,Alto
+2008-09-30,Equity Market Neutral,-2.85,Bajo
+2008-09-30,Event Driven,-6.27,Medio
+2008-09-30,Fixed Income Arbitrage,-5.06,Bajo
+2008-09-30,Global Macro,-3.13,Alto
+2008-09-30,Long/Short Equity,-6.75,Medio
+2008-09-30,Merger Arbitrage,-2.76,Medio
+2008-09-30,Relative Value,-5.38,Bajo
+2008-09-30,Short Selling,3.78,Alto
+2008-09-30,Funds Of Funds,-6.18,Medio
+2008-10-31,Convertible Arbitrage,-12.37,Medio
+2008-10-31,CTA Global,3.45,Alto
+2008-10-31,Distressed Securities,-7.75,Alto
+2008-10-31,Emerging Markets,-13.31,Alto
+2008-10-31,Equity Market Neutral,-0.44,Bajo
+2008-10-31,Event Driven,-6.25,Medio
+2008-10-31,Fixed Income Arbitrage,-8.67,Bajo
+2008-10-31,Global Macro,-1.57,Alto
+2008-10-31,Long/Short Equity,-6.29,Medio
+2008-10-31,Merger Arbitrage,-2.45,Medio
+2008-10-31,Relative Value,-6.92,Bajo
+2008-10-31,Short Selling,11.7,Alto
+2008-10-31,Funds Of Funds,-6,Medio
+2008-11-30,Convertible Arbitrage,-2.76,Medio
+2008-11-30,CTA Global,2.14,Alto
+2008-11-30,Distressed Securities,-4.35,Alto
+2008-11-30,Emerging Markets,-3.91,Alto
+2008-11-30,Equity Market Neutral,-5.87,Bajo
+2008-11-30,Event Driven,-3.01,Medio
+2008-11-30,Fixed Income Arbitrage,-3.08,Bajo
+2008-11-30,Global Macro,0.33,Alto
+2008-11-30,Long/Short Equity,-1.88,Medio
+2008-11-30,Merger Arbitrage,0.06,Medio
+2008-11-30,Relative Value,-2.09,Bajo
+2008-11-30,Short Selling,4.28,Alto
+2008-11-30,Funds Of Funds,-1.92,Medio
+2008-12-31,Convertible Arbitrage,1.77,Medio
+2008-12-31,CTA Global,1.4,Alto
+2008-12-31,Distressed Securities,-1.97,Alto
+2008-12-31,Emerging Markets,-0.1,Alto
+2008-12-31,Equity Market Neutral,0.05,Bajo
+2008-12-31,Event Driven,-0.71,Medio
+2008-12-31,Fixed Income Arbitrage,-0.35,Bajo
+2008-12-31,Global Macro,1.18,Alto
+2008-12-31,Long/Short Equity,0.81,Medio
+2008-12-31,Merger Arbitrage,1.62,Medio
+2008-12-31,Relative Value,0.31,Bajo
+2008-12-31,Short Selling,-1.46,Alto
+2008-12-31,Funds Of Funds,-1.19,Medio
+2009-01-31,Convertible Arbitrage,4.91,Medio
+2009-01-31,CTA Global,-0.16,Alto
+2009-01-31,Distressed Securities,0.82,Alto
+2009-01-31,Emerging Markets,-1.12,Alto
+2009-01-31,Equity Market Neutral,0.79,Bajo
+2009-01-31,Event Driven,1.32,Medio
+2009-01-31,Fixed Income Arbitrage,1.12,Bajo
+2009-01-31,Global Macro,0.29,Alto
+2009-01-31,Long/Short Equity,-0.17,Medio
+2009-01-31,Merger Arbitrage,0.56,Medio
+2009-01-31,Relative Value,1,Bajo
+2009-01-31,Short Selling,2.82,Alto
+2009-01-31,Funds Of Funds,0.6,Medio
+2009-02-28,Convertible Arbitrage,1.64,Medio
+2009-02-28,CTA Global,-0.31,Alto
+2009-02-28,Distressed Securities,-1.22,Alto
+2009-02-28,Emerging Markets,-1.33,Alto
+2009-02-28,Equity Market Neutral,-0.46,Bajo
+2009-02-28,Event Driven,-0.91,Medio
+2009-02-28,Fixed Income Arbitrage,0.65,Bajo
+2009-02-28,Global Macro,-0.55,Alto
+2009-02-28,Long/Short Equity,-1.61,Medio
+2009-02-28,Merger Arbitrage,0.06,Medio
+2009-02-28,Relative Value,-0.16,Bajo
+2009-02-28,Short Selling,3.28,Alto
+2009-02-28,Funds Of Funds,-0.37,Medio
+2009-03-31,Convertible Arbitrage,2.35,Medio
+2009-03-31,CTA Global,-1.8,Alto
+2009-03-31,Distressed Securities,0.22,Alto
+2009-03-31,Emerging Markets,3.5,Alto
+2009-03-31,Equity Market Neutral,0.21,Bajo
+2009-03-31,Event Driven,1.17,Medio
+2009-03-31,Fixed Income Arbitrage,0.57,Bajo
+2009-03-31,Global Macro,0.48,Alto
+2009-03-31,Long/Short Equity,1.88,Medio
+2009-03-31,Merger Arbitrage,1.25,Medio
+2009-03-31,Relative Value,1,Bajo
+2009-03-31,Short Selling,-4.62,Alto
+2009-03-31,Funds Of Funds,0.08,Medio
+2009-04-30,Convertible Arbitrage,5,Medio
+2009-04-30,CTA Global,-1.4,Alto
+2009-04-30,Distressed Securities,3.87,Alto
+2009-04-30,Emerging Markets,6.63,Alto
+2009-04-30,Equity Market Neutral,-0.12,Bajo
+2009-04-30,Event Driven,3.37,Medio
+2009-04-30,Fixed Income Arbitrage,2.21,Bajo
+2009-04-30,Global Macro,1.27,Alto
+2009-04-30,Long/Short Equity,3.75,Medio
+2009-04-30,Merger Arbitrage,0.81,Medio
+2009-04-30,Relative Value,3.42,Bajo
+2009-04-30,Short Selling,-8.2,Alto
+2009-04-30,Funds Of Funds,0.92,Medio
+2009-05-31,Convertible Arbitrage,5.78,Medio
+2009-05-31,CTA Global,2.13,Alto
+2009-05-31,Distressed Securities,5.04,Alto
+2009-05-31,Emerging Markets,8.84,Alto
+2009-05-31,Equity Market Neutral,1.46,Bajo
+2009-05-31,Event Driven,4.42,Medio
+2009-05-31,Fixed Income Arbitrage,3.65,Bajo
+2009-05-31,Global Macro,3.48,Alto
+2009-05-31,Long/Short Equity,5.16,Medio
+2009-05-31,Merger Arbitrage,1.07,Medio
+2009-05-31,Relative Value,3.92,Bajo
+2009-05-31,Short Selling,0.08,Alto
+2009-05-31,Funds Of Funds,3.12,Medio
+2009-06-30,Convertible Arbitrage,2.41,Medio
+2009-06-30,CTA Global,-1.47,Alto
+2009-06-30,Distressed Securities,1.98,Alto
+2009-06-30,Emerging Markets,0.13,Alto
+2009-06-30,Equity Market Neutral,0.36,Bajo
+2009-06-30,Event Driven,1.23,Medio
+2009-06-30,Fixed Income Arbitrage,1.26,Bajo
+2009-06-30,Global Macro,-0.76,Alto
+2009-06-30,Long/Short Equity,0.09,Medio
+2009-06-30,Merger Arbitrage,1.04,Medio
+2009-06-30,Relative Value,1.01,Bajo
+2009-06-30,Short Selling,-0.94,Alto
+2009-06-30,Funds Of Funds,0.24,Medio
+2009-07-31,Convertible Arbitrage,6.11,Medio
+2009-07-31,CTA Global,-0.12,Alto
+2009-07-31,Distressed Securities,3.11,Alto
+2009-07-31,Emerging Markets,4.51,Alto
+2009-07-31,Equity Market Neutral,0.42,Bajo
+2009-07-31,Event Driven,2.91,Medio
+2009-07-31,Fixed Income Arbitrage,3.22,Bajo
+2009-07-31,Global Macro,1.66,Alto
+2009-07-31,Long/Short Equity,2.77,Medio
+2009-07-31,Merger Arbitrage,0.68,Medio
+2009-07-31,Relative Value,2.6,Bajo
+2009-07-31,Short Selling,-5.96,Alto
+2009-07-31,Funds Of Funds,1.53,Medio
+2009-08-31,Convertible Arbitrage,3.15,Medio
+2009-08-31,CTA Global,0.54,Alto
+2009-08-31,Distressed Securities,2.44,Alto
+2009-08-31,Emerging Markets,1.66,Alto
+2009-08-31,Equity Market Neutral,0.7,Bajo
+2009-08-31,Event Driven,2.07,Medio
+2009-08-31,Fixed Income Arbitrage,2.02,Bajo
+2009-08-31,Global Macro,0.5,Alto
+2009-08-31,Long/Short Equity,1.57,Medio
+2009-08-31,Merger Arbitrage,1.02,Medio
+2009-08-31,Relative Value,1.62,Bajo
+2009-08-31,Short Selling,-1.65,Alto
+2009-08-31,Funds Of Funds,1.13,Medio
+2009-09-30,Convertible Arbitrage,3.68,Medio
+2009-09-30,CTA Global,1.51,Alto
+2009-09-30,Distressed Securities,4.1,Alto
+2009-09-30,Emerging Markets,5.36,Alto
+2009-09-30,Equity Market Neutral,0.85,Bajo
+2009-09-30,Event Driven,3.36,Medio
+2009-09-30,Fixed Income Arbitrage,3.25,Bajo
+2009-09-30,Global Macro,2.31,Alto
+2009-09-30,Long/Short Equity,2.85,Medio
+2009-09-30,Merger Arbitrage,1.1,Medio
+2009-09-30,Relative Value,2.2,Bajo
+2009-09-30,Short Selling,-3.94,Alto
+2009-09-30,Funds Of Funds,1.71,Medio
+2009-10-31,Convertible Arbitrage,1.19,Medio
+2009-10-31,CTA Global,-1.47,Alto
+2009-10-31,Distressed Securities,1.39,Alto
+2009-10-31,Emerging Markets,1.08,Alto
+2009-10-31,Equity Market Neutral,-0.05,Bajo
+2009-10-31,Event Driven,0.43,Medio
+2009-10-31,Fixed Income Arbitrage,1.85,Bajo
+2009-10-31,Global Macro,-0.04,Alto
+2009-10-31,Long/Short Equity,-0.86,Medio
+2009-10-31,Merger Arbitrage,0.26,Medio
+2009-10-31,Relative Value,0.32,Bajo
+2009-10-31,Short Selling,3.14,Alto
+2009-10-31,Funds Of Funds,-0.21,Medio
+2009-11-30,Convertible Arbitrage,0.8,Medio
+2009-11-30,CTA Global,3.32,Alto
+2009-11-30,Distressed Securities,2.02,Alto
+2009-11-30,Emerging Markets,1.51,Alto
+2009-11-30,Equity Market Neutral,0.09,Bajo
+2009-11-30,Event Driven,1.52,Medio
+2009-11-30,Fixed Income Arbitrage,0.96,Bajo
+2009-11-30,Global Macro,1.65,Alto
+2009-11-30,Long/Short Equity,1.3,Medio
+2009-11-30,Merger Arbitrage,0.68,Medio
+2009-11-30,Relative Value,0.89,Bajo
+2009-11-30,Short Selling,-2.27,Alto
+2009-11-30,Funds Of Funds,0.82,Medio
+2009-12-31,Convertible Arbitrage,2.15,Medio
+2009-12-31,CTA Global,-2.53,Alto
+2009-12-31,Distressed Securities,3.24,Alto
+2009-12-31,Emerging Markets,2.29,Alto
+2009-12-31,Equity Market Neutral,0.72,Bajo
+2009-12-31,Event Driven,2.35,Medio
+2009-12-31,Fixed Income Arbitrage,1.41,Bajo
+2009-12-31,Global Macro,-0.28,Alto
+2009-12-31,Long/Short Equity,1.86,Medio
+2009-12-31,Merger Arbitrage,1.02,Medio
+2009-12-31,Relative Value,1.61,Bajo
+2009-12-31,Short Selling,-3.73,Alto
+2009-12-31,Funds Of Funds,0.66,Medio
+2010-01-31,Convertible Arbitrage,0.53,Medio
+2010-01-31,CTA Global,-2.78,Alto
+2010-01-31,Distressed Securities,1.87,Alto
+2010-01-31,Emerging Markets,-0.78,Alto
+2010-01-31,Equity Market Neutral,0.28,Bajo
+2010-01-31,Event Driven,0.77,Medio
+2010-01-31,Fixed Income Arbitrage,1.72,Bajo
+2010-01-31,Global Macro,-0.84,Alto
+2010-01-31,Long/Short Equity,-0.95,Medio
+2010-01-31,Merger Arbitrage,0.48,Medio
+2010-01-31,Relative Value,0.6,Bajo
+2010-01-31,Short Selling,1.83,Alto
+2010-01-31,Funds Of Funds,-0.36,Medio
+2010-02-28,Convertible Arbitrage,0.36,Medio
+2010-02-28,CTA Global,0.9,Alto
+2010-02-28,Distressed Securities,0.31,Alto
+2010-02-28,Emerging Markets,-0.19,Alto
+2010-02-28,Equity Market Neutral,0.5,Bajo
+2010-02-28,Event Driven,0.76,Medio
+2010-02-28,Fixed Income Arbitrage,0.23,Bajo
+2010-02-28,Global Macro,0.47,Alto
+2010-02-28,Long/Short Equity,0.84,Medio
+2010-02-28,Merger Arbitrage,0.57,Medio
+2010-02-28,Relative Value,0.57,Bajo
+2010-02-28,Short Selling,-2.61,Alto
+2010-02-28,Funds Of Funds,0.13,Medio
+2010-03-31,Convertible Arbitrage,2.29,Medio
+2010-03-31,CTA Global,2.75,Alto
+2010-03-31,Distressed Securities,3.36,Alto
+2010-03-31,Emerging Markets,4.21,Alto
+2010-03-31,Equity Market Neutral,0.77,Bajo
+2010-03-31,Event Driven,2.73,Medio
+2010-03-31,Fixed Income Arbitrage,1.36,Bajo
+2010-03-31,Global Macro,1.71,Alto
+2010-03-31,Long/Short Equity,2.87,Medio
+2010-03-31,Merger Arbitrage,1.09,Medio
+2010-03-31,Relative Value,1.79,Bajo
+2010-03-31,Short Selling,-4.96,Alto
+2010-03-31,Funds Of Funds,1.71,Medio
+2010-04-30,Convertible Arbitrage,1.99,Medio
+2010-04-30,CTA Global,1,Alto
+2010-04-30,Distressed Securities,2.51,Alto
+2010-04-30,Emerging Markets,1.33,Alto
+2010-04-30,Equity Market Neutral,0.18,Bajo
+2010-04-30,Event Driven,1.64,Medio
+2010-04-30,Fixed Income Arbitrage,1.13,Bajo
+2010-04-30,Global Macro,0.76,Alto
+2010-04-30,Long/Short Equity,1,Medio
+2010-04-30,Merger Arbitrage,0.38,Medio
+2010-04-30,Relative Value,1.22,Bajo
+2010-04-30,Short Selling,-2.87,Alto
+2010-04-30,Funds Of Funds,0.85,Medio
+2010-05-31,Convertible Arbitrage,-2.44,Medio
+2010-05-31,CTA Global,-2.48,Alto
+2010-05-31,Distressed Securities,-2.5,Alto
+2010-05-31,Emerging Markets,-4.8,Alto
+2010-05-31,Equity Market Neutral,-0.5,Bajo
+2010-05-31,Event Driven,-2.57,Medio
+2010-05-31,Fixed Income Arbitrage,-1.02,Bajo
+2010-05-31,Global Macro,-1.28,Alto
+2010-05-31,Long/Short Equity,-3.71,Medio
+2010-05-31,Merger Arbitrage,-1.15,Medio
+2010-05-31,Relative Value,-1.86,Bajo
+2010-05-31,Short Selling,4.45,Alto
+2010-05-31,Funds Of Funds,-2.72,Medio
+2010-06-30,Convertible Arbitrage,0.17,Medio
+2010-06-30,CTA Global,0.11,Alto
+2010-06-30,Distressed Securities,-1.05,Alto
+2010-06-30,Emerging Markets,-0.39,Alto
+2010-06-30,Equity Market Neutral,-0.45,Bajo
+2010-06-30,Event Driven,-1.06,Medio
+2010-06-30,Fixed Income Arbitrage,0.78,Bajo
+2010-06-30,Global Macro,-0.23,Alto
+2010-06-30,Long/Short Equity,-1.61,Medio
+2010-06-30,Merger Arbitrage,0.23,Medio
+2010-06-30,Relative Value,-0.34,Bajo
+2010-06-30,Short Selling,4.19,Alto
+2010-06-30,Funds Of Funds,-0.79,Medio
+2010-07-31,Convertible Arbitrage,2.27,Medio
+2010-07-31,CTA Global,-0.8,Alto
+2010-07-31,Distressed Securities,1.43,Alto
+2010-07-31,Emerging Markets,2.96,Alto
+2010-07-31,Equity Market Neutral,0.9,Bajo
+2010-07-31,Event Driven,1.7,Medio
+2010-07-31,Fixed Income Arbitrage,1,Bajo
+2010-07-31,Global Macro,0.33,Alto
+2010-07-31,Long/Short Equity,1.91,Medio
+2010-07-31,Merger Arbitrage,1.27,Medio
+2010-07-31,Relative Value,1.74,Bajo
+2010-07-31,Short Selling,-4.26,Alto
+2010-07-31,Funds Of Funds,0.69,Medio
+2010-08-31,Convertible Arbitrage,1.21,Medio
+2010-08-31,CTA Global,3.1,Alto
+2010-08-31,Distressed Securities,-0.49,Alto
+2010-08-31,Emerging Markets,0.28,Alto
+2010-08-31,Equity Market Neutral,-0.44,Bajo
+2010-08-31,Event Driven,-0.32,Medio
+2010-08-31,Fixed Income Arbitrage,0.88,Bajo
+2010-08-31,Global Macro,1.08,Alto
+2010-08-31,Long/Short Equity,-0.96,Medio
+2010-08-31,Merger Arbitrage,0.7,Medio
+2010-08-31,Relative Value,0.31,Bajo
+2010-08-31,Short Selling,3.89,Alto
+2010-08-31,Funds Of Funds,0.06,Medio
+2010-09-30,Convertible Arbitrage,1.89,Medio
+2010-09-30,CTA Global,2.67,Alto
+2010-09-30,Distressed Securities,2.17,Alto
+2010-09-30,Emerging Markets,4.29,Alto
+2010-09-30,Equity Market Neutral,1.6,Bajo
+2010-09-30,Event Driven,2.72,Medio
+2010-09-30,Fixed Income Arbitrage,1.32,Bajo
+2010-09-30,Global Macro,2.63,Alto
+2010-09-30,Long/Short Equity,4.08,Medio
+2010-09-30,Merger Arbitrage,1.34,Medio
+2010-09-30,Relative Value,2.15,Bajo
+2010-09-30,Short Selling,-8.26,Alto
+2010-09-30,Funds Of Funds,2.19,Medio
+2010-10-31,Convertible Arbitrage,2.14,Medio
+2010-10-31,CTA Global,3.11,Alto
+2010-10-31,Distressed Securities,2.06,Alto
+2010-10-31,Emerging Markets,2.32,Alto
+2010-10-31,Equity Market Neutral,1.05,Bajo
+2010-10-31,Event Driven,1.87,Medio
+2010-10-31,Fixed Income Arbitrage,1.07,Bajo
+2010-10-31,Global Macro,1.59,Alto
+2010-10-31,Long/Short Equity,2.08,Medio
+2010-10-31,Merger Arbitrage,0.47,Medio
+2010-10-31,Relative Value,1.49,Bajo
+2010-10-31,Short Selling,-1.79,Alto
+2010-10-31,Funds Of Funds,1.48,Medio
+2010-11-30,Convertible Arbitrage,-0.12,Medio
+2010-11-30,CTA Global,-2.24,Alto
+2010-11-30,Distressed Securities,0.65,Alto
+2010-11-30,Emerging Markets,-0.49,Alto
+2010-11-30,Equity Market Neutral,0.44,Bajo
+2010-11-30,Event Driven,0.28,Medio
+2010-11-30,Fixed Income Arbitrage,0.56,Bajo
+2010-11-30,Global Macro,-0.47,Alto
+2010-11-30,Long/Short Equity,0.66,Medio
+2010-11-30,Merger Arbitrage,-0.25,Medio
+2010-11-30,Relative Value,0.37,Bajo
+2010-11-30,Short Selling,-1.62,Alto
+2010-11-30,Funds Of Funds,-0.09,Medio
+2010-12-31,Convertible Arbitrage,1.45,Medio
+2010-12-31,CTA Global,4.36,Alto
+2010-12-31,Distressed Securities,3.11,Alto
+2010-12-31,Emerging Markets,2.26,Alto
+2010-12-31,Equity Market Neutral,0.94,Bajo
+2010-12-31,Event Driven,2.6,Medio
+2010-12-31,Fixed Income Arbitrage,0.55,Bajo
+2010-12-31,Global Macro,2.5,Alto
+2010-12-31,Long/Short Equity,3.42,Medio
+2010-12-31,Merger Arbitrage,1.16,Medio
+2010-12-31,Relative Value,1.57,Bajo
+2010-12-31,Short Selling,-5.07,Alto
+2010-12-31,Funds Of Funds,2.05,Medio
+2011-01-31,Convertible Arbitrage,1.81,Medio
+2011-01-31,CTA Global,-0.63,Alto
+2011-01-31,Distressed Securities,1.73,Alto
+2011-01-31,Emerging Markets,-0.65,Alto
+2011-01-31,Equity Market Neutral,0.56,Bajo
+2011-01-31,Event Driven,1.41,Medio
+2011-01-31,Fixed Income Arbitrage,1.81,Bajo
+2011-01-31,Global Macro,-0.55,Alto
+2011-01-31,Long/Short Equity,0.52,Medio
+2011-01-31,Merger Arbitrage,0.93,Medio
+2011-01-31,Relative Value,0.97,Bajo
+2011-01-31,Short Selling,-0.76,Alto
+2011-01-31,Funds Of Funds,0.13,Medio
+2011-02-28,Convertible Arbitrage,1.62,Medio
+2011-02-28,CTA Global,1.77,Alto
+2011-02-28,Distressed Securities,1.44,Alto
+2011-02-28,Emerging Markets,0.11,Alto
+2011-02-28,Equity Market Neutral,0.59,Bajo
+2011-02-28,Event Driven,1.29,Medio
+2011-02-28,Fixed Income Arbitrage,1.03,Bajo
+2011-02-28,Global Macro,0.95,Alto
+2011-02-28,Long/Short Equity,1.39,Medio
+2011-02-28,Merger Arbitrage,0.62,Medio
+2011-02-28,Relative Value,1.12,Bajo
+2011-02-28,Short Selling,-3.14,Alto
+2011-02-28,Funds Of Funds,0.83,Medio
+2011-03-31,Convertible Arbitrage,0.38,Medio
+2011-03-31,CTA Global,-1.64,Alto
+2011-03-31,Distressed Securities,0.43,Alto
+2011-03-31,Emerging Markets,1.54,Alto
+2011-03-31,Equity Market Neutral,0.8,Bajo
+2011-03-31,Event Driven,0.2,Medio
+2011-03-31,Fixed Income Arbitrage,0.22,Bajo
+2011-03-31,Global Macro,-0.28,Alto
+2011-03-31,Long/Short Equity,0.21,Medio
+2011-03-31,Merger Arbitrage,0.31,Medio
+2011-03-31,Relative Value,0.34,Bajo
+2011-03-31,Short Selling,-1.7,Alto
+2011-03-31,Funds Of Funds,-0.18,Medio
+2011-04-30,Convertible Arbitrage,0.2,Medio
+2011-04-30,CTA Global,3.67,Alto
+2011-04-30,Distressed Securities,1.29,Alto
+2011-04-30,Emerging Markets,1.4,Alto
+2011-04-30,Equity Market Neutral,1.05,Bajo
+2011-04-30,Event Driven,1.14,Medio
+2011-04-30,Fixed Income Arbitrage,0.97,Bajo
+2011-04-30,Global Macro,2.11,Alto
+2011-04-30,Long/Short Equity,1.39,Medio
+2011-04-30,Merger Arbitrage,0.89,Medio
+2011-04-30,Relative Value,0.72,Bajo
+2011-04-30,Short Selling,-1.97,Alto
+2011-04-30,Funds Of Funds,1.14,Medio
+2011-05-31,Convertible Arbitrage,-0.17,Medio
+2011-05-31,CTA Global,-3.39,Alto
+2011-05-31,Distressed Securities,-0.14,Alto
+2011-05-31,Emerging Markets,-1.91,Alto
+2011-05-31,Equity Market Neutral,-0.37,Bajo
+2011-05-31,Event Driven,-0.52,Medio
+2011-05-31,Fixed Income Arbitrage,0.33,Bajo
+2011-05-31,Global Macro,-1.5,Alto
+2011-05-31,Long/Short Equity,-1.08,Medio
+2011-05-31,Merger Arbitrage,-0.11,Medio
+2011-05-31,Relative Value,-0.05,Bajo
+2011-05-31,Short Selling,1.34,Alto
+2011-05-31,Funds Of Funds,-1.16,Medio
+2011-06-30,Convertible Arbitrage,-0.91,Medio
+2011-06-30,CTA Global,-2.39,Alto
+2011-06-30,Distressed Securities,-0.68,Alto
+2011-06-30,Emerging Markets,-1,Alto
+2011-06-30,Equity Market Neutral,-0.14,Bajo
+2011-06-30,Event Driven,-1.38,Medio
+2011-06-30,Fixed Income Arbitrage,-0.1,Bajo
+2011-06-30,Global Macro,-1.3,Alto
+2011-06-30,Long/Short Equity,-1.17,Medio
+2011-06-30,Merger Arbitrage,-0.14,Medio
+2011-06-30,Relative Value,-0.56,Bajo
+2011-06-30,Short Selling,2.7,Alto
+2011-06-30,Funds Of Funds,-1.38,Medio
+2011-07-31,Convertible Arbitrage,-0.33,Medio
+2011-07-31,CTA Global,2.58,Alto
+2011-07-31,Distressed Securities,-0.15,Alto
+2011-07-31,Emerging Markets,0.77,Alto
+2011-07-31,Equity Market Neutral,-0.03,Bajo
+2011-07-31,Event Driven,-0.3,Medio
+2011-07-31,Fixed Income Arbitrage,0.18,Bajo
+2011-07-31,Global Macro,1.29,Alto
+2011-07-31,Long/Short Equity,-0.3,Medio
+2011-07-31,Merger Arbitrage,-0.49,Medio
+2011-07-31,Relative Value,-0.06,Bajo
+2011-07-31,Short Selling,1.99,Alto
+2011-07-31,Funds Of Funds,0.34,Medio
+2011-08-31,Convertible Arbitrage,-1.95,Medio
+2011-08-31,CTA Global,0.07,Alto
+2011-08-31,Distressed Securities,-4.02,Alto
+2011-08-31,Emerging Markets,-3.9,Alto
+2011-08-31,Equity Market Neutral,-1.61,Bajo
+2011-08-31,Event Driven,-4.01,Medio
+2011-08-31,Fixed Income Arbitrage,-0.85,Bajo
+2011-08-31,Global Macro,-0.63,Alto
+2011-08-31,Long/Short Equity,-4.21,Medio
+2011-08-31,Merger Arbitrage,-1.19,Medio
+2011-08-31,Relative Value,-2,Bajo
+2011-08-31,Short Selling,6.69,Alto
+2011-08-31,Funds Of Funds,-2.52,Medio
+2011-09-30,Convertible Arbitrage,-1.9,Medio
+2011-09-30,CTA Global,-0.57,Alto
+2011-09-30,Distressed Securities,-3.7,Alto
+2011-09-30,Emerging Markets,-6.95,Alto
+2011-09-30,Equity Market Neutral,-1.59,Bajo
+2011-09-30,Event Driven,-3.41,Medio
+2011-09-30,Fixed Income Arbitrage,-0.48,Bajo
+2011-09-30,Global Macro,-1.42,Alto
+2011-09-30,Long/Short Equity,-4.61,Medio
+2011-09-30,Merger Arbitrage,-1.02,Medio
+2011-09-30,Relative Value,-1.97,Bajo
+2011-09-30,Short Selling,7.77,Alto
+2011-09-30,Funds Of Funds,-2.62,Medio
+2011-10-31,Convertible Arbitrage,1.29,Medio
+2011-10-31,CTA Global,-3.17,Alto
+2011-10-31,Distressed Securities,2.37,Alto
+2011-10-31,Emerging Markets,3.65,Alto
+2011-10-31,Equity Market Neutral,1.61,Bajo
+2011-10-31,Event Driven,2.98,Medio
+2011-10-31,Fixed Income Arbitrage,0.63,Bajo
+2011-10-31,Global Macro,0.53,Alto
+2011-10-31,Long/Short Equity,3.9,Medio
+2011-10-31,Merger Arbitrage,1.72,Medio
+2011-10-31,Relative Value,1.47,Bajo
+2011-10-31,Short Selling,-7.21,Alto
+2011-10-31,Funds Of Funds,0.94,Medio
+2011-11-30,Convertible Arbitrage,-0.94,Medio
+2011-11-30,CTA Global,0.14,Alto
+2011-11-30,Distressed Securities,-1.08,Alto
+2011-11-30,Emerging Markets,-2.72,Alto
+2011-11-30,Equity Market Neutral,0.02,Bajo
+2011-11-30,Event Driven,-0.58,Medio
+2011-11-30,Fixed Income Arbitrage,-0.34,Bajo
+2011-11-30,Global Macro,-0.66,Alto
+2011-11-30,Long/Short Equity,-1.31,Medio
+2011-11-30,Merger Arbitrage,0.17,Medio
+2011-11-30,Relative Value,-0.24,Bajo
+2011-11-30,Short Selling,1.31,Alto
+2011-11-30,Funds Of Funds,-0.93,Medio
+2011-12-31,Convertible Arbitrage,0.29,Medio
+2011-12-31,CTA Global,0.34,Alto
+2011-12-31,Distressed Securities,0.5,Alto
+2011-12-31,Emerging Markets,-1.81,Alto
+2011-12-31,Equity Market Neutral,0.06,Bajo
+2011-12-31,Event Driven,-0.34,Medio
+2011-12-31,Fixed Income Arbitrage,0.45,Bajo
+2011-12-31,Global Macro,-0.22,Alto
+2011-12-31,Long/Short Equity,-0.56,Medio
+2011-12-31,Merger Arbitrage,0.56,Medio
+2011-12-31,Relative Value,0.12,Bajo
+2011-12-31,Short Selling,0.41,Alto
+2011-12-31,Funds Of Funds,-0.54,Medio
+2012-01-31,Convertible Arbitrage,2.36,Medio
+2012-01-31,CTA Global,0.46,Alto
+2012-01-31,Distressed Securities,3.24,Alto
+2012-01-31,Emerging Markets,3.95,Alto
+2012-01-31,Equity Market Neutral,0.95,Bajo
+2012-01-31,Event Driven,2.88,Medio
+2012-01-31,Fixed Income Arbitrage,1.16,Bajo
+2012-01-31,Global Macro,1.9,Alto
+2012-01-31,Long/Short Equity,3.27,Medio
+2012-01-31,Merger Arbitrage,0.95,Medio
+2012-01-31,Relative Value,2.02,Bajo
+2012-01-31,Short Selling,-6.79,Alto
+2012-01-31,Funds Of Funds,1.47,Medio
+2012-02-29,Convertible Arbitrage,2.18,Medio
+2012-02-29,CTA Global,0.91,Alto
+2012-02-29,Distressed Securities,2.02,Alto
+2012-02-29,Emerging Markets,3.41,Alto
+2012-02-29,Equity Market Neutral,0.71,Bajo
+2012-02-29,Event Driven,1.7,Medio
+2012-02-29,Fixed Income Arbitrage,1.19,Bajo
+2012-02-29,Global Macro,1.34,Alto
+2012-02-29,Long/Short Equity,2.48,Medio
+2012-02-29,Merger Arbitrage,1.11,Medio
+2012-02-29,Relative Value,1.72,Bajo
+2012-02-29,Short Selling,-5.22,Alto
+2012-02-29,Funds Of Funds,1.4,Medio
+2012-03-31,Convertible Arbitrage,0.65,Medio
+2012-03-31,CTA Global,-2.04,Alto
+2012-03-31,Distressed Securities,0.91,Alto
+2012-03-31,Emerging Markets,-1.33,Alto
+2012-03-31,Equity Market Neutral,0.23,Bajo
+2012-03-31,Event Driven,0.58,Medio
+2012-03-31,Fixed Income Arbitrage,0.61,Bajo
+2012-03-31,Global Macro,-0.61,Alto
+2012-03-31,Long/Short Equity,0.33,Medio
+2012-03-31,Merger Arbitrage,0.24,Medio
+2012-03-31,Relative Value,0.55,Bajo
+2012-03-31,Short Selling,-1.23,Alto
+2012-03-31,Funds Of Funds,0.01,Medio
+2012-04-30,Convertible Arbitrage,-0.17,Medio
+2012-04-30,CTA Global,-0.03,Alto
+2012-04-30,Distressed Securities,-0.12,Alto
+2012-04-30,Emerging Markets,-0.27,Alto
+2012-04-30,Equity Market Neutral,-0.13,Bajo
+2012-04-30,Event Driven,-0.18,Medio
+2012-04-30,Fixed Income Arbitrage,0.34,Bajo
+2012-04-30,Global Macro,-0.59,Alto
+2012-04-30,Long/Short Equity,-0.68,Medio
+2012-04-30,Merger Arbitrage,-0.11,Medio
+2012-04-30,Relative Value,-0.2,Bajo
+2012-04-30,Short Selling,0.57,Alto
+2012-04-30,Funds Of Funds,-0.33,Medio
+2012-05-31,Convertible Arbitrage,-0.77,Medio
+2012-05-31,CTA Global,2.59,Alto
+2012-05-31,Distressed Securities,-1.86,Alto
+2012-05-31,Emerging Markets,-5.31,Alto
+2012-05-31,Equity Market Neutral,-1.15,Bajo
+2012-05-31,Event Driven,-1.91,Medio
+2012-05-31,Fixed Income Arbitrage,-0.03,Bajo
+2012-05-31,Global Macro,-0.67,Alto
+2012-05-31,Long/Short Equity,-3.75,Medio
+2012-05-31,Merger Arbitrage,-0.48,Medio
+2012-05-31,Relative Value,-1,Bajo
+2012-05-31,Short Selling,6.77,Alto
+2012-05-31,Funds Of Funds,-1.4,Medio
+2012-06-30,Convertible Arbitrage,0.72,Medio
+2012-06-30,CTA Global,-2.72,Alto
+2012-06-30,Distressed Securities,-0.09,Alto
+2012-06-30,Emerging Markets,0.26,Alto
+2012-06-30,Equity Market Neutral,0.06,Bajo
+2012-06-30,Event Driven,0.07,Medio
+2012-06-30,Fixed Income Arbitrage,0.46,Bajo
+2012-06-30,Global Macro,-0.63,Alto
+2012-06-30,Long/Short Equity,0.6,Medio
+2012-06-30,Merger Arbitrage,0.23,Medio
+2012-06-30,Relative Value,0.7,Bajo
+2012-06-30,Short Selling,-2.58,Alto
+2012-06-30,Funds Of Funds,-0.37,Medio
+2012-07-31,Convertible Arbitrage,0.92,Medio
+2012-07-31,CTA Global,3.12,Alto
+2012-07-31,Distressed Securities,0.89,Alto
+2012-07-31,Emerging Markets,0.81,Alto
+2012-07-31,Equity Market Neutral,0.41,Bajo
+2012-07-31,Event Driven,0.48,Medio
+2012-07-31,Fixed Income Arbitrage,1.25,Bajo
+2012-07-31,Global Macro,1.44,Alto
+2012-07-31,Long/Short Equity,0.39,Medio
+2012-07-31,Merger Arbitrage,0.06,Medio
+2012-07-31,Relative Value,1.17,Bajo
+2012-07-31,Short Selling,0.87,Alto
+2012-07-31,Funds Of Funds,0.76,Medio
+2012-08-31,Convertible Arbitrage,0.76,Medio
+2012-08-31,CTA Global,-0.82,Alto
+2012-08-31,Distressed Securities,1.61,Alto
+2012-08-31,Emerging Markets,0.75,Alto
+2012-08-31,Equity Market Neutral,0.49,Bajo
+2012-08-31,Event Driven,1.29,Medio
+2012-08-31,Fixed Income Arbitrage,0.82,Bajo
+2012-08-31,Global Macro,0.37,Alto
+2012-08-31,Long/Short Equity,1.08,Medio
+2012-08-31,Merger Arbitrage,0.44,Medio
+2012-08-31,Relative Value,0.95,Bajo
+2012-08-31,Short Selling,-3.67,Alto
+2012-08-31,Funds Of Funds,0.68,Medio
+2012-09-30,Convertible Arbitrage,0.57,Medio
+2012-09-30,CTA Global,-1.04,Alto
+2012-09-30,Distressed Securities,1.69,Alto
+2012-09-30,Emerging Markets,2.73,Alto
+2012-09-30,Equity Market Neutral,0.43,Bajo
+2012-09-30,Event Driven,1.2,Medio
+2012-09-30,Fixed Income Arbitrage,0.76,Bajo
+2012-09-30,Global Macro,0.51,Alto
+2012-09-30,Long/Short Equity,1.57,Medio
+2012-09-30,Merger Arbitrage,0.06,Medio
+2012-09-30,Relative Value,1.02,Bajo
+2012-09-30,Short Selling,-3.85,Alto
+2012-09-30,Funds Of Funds,0.73,Medio
+2012-10-31,Convertible Arbitrage,0.17,Medio
+2012-10-31,CTA Global,-3.1,Alto
+2012-10-31,Distressed Securities,1.18,Alto
+2012-10-31,Emerging Markets,0.28,Alto
+2012-10-31,Equity Market Neutral,0.28,Bajo
+2012-10-31,Event Driven,0.48,Medio
+2012-10-31,Fixed Income Arbitrage,0.58,Bajo
+2012-10-31,Global Macro,-0.83,Alto
+2012-10-31,Long/Short Equity,0.09,Medio
+2012-10-31,Merger Arbitrage,-0.79,Medio
+2012-10-31,Relative Value,0.3,Bajo
+2012-10-31,Short Selling,0.05,Alto
+2012-10-31,Funds Of Funds,-0.25,Medio
+2012-11-30,Convertible Arbitrage,0.41,Medio
+2012-11-30,CTA Global,-0.04,Alto
+2012-11-30,Distressed Securities,0.82,Alto
+2012-11-30,Emerging Markets,1.31,Alto
+2012-11-30,Equity Market Neutral,0.37,Bajo
+2012-11-30,Event Driven,0.8,Medio
+2012-11-30,Fixed Income Arbitrage,0.54,Bajo
+2012-11-30,Global Macro,0.27,Alto
+2012-11-30,Long/Short Equity,0.52,Medio
+2012-11-30,Merger Arbitrage,1,Medio
+2012-11-30,Relative Value,0.56,Bajo
+2012-11-30,Short Selling,-1.5,Alto
+2012-11-30,Funds Of Funds,0.46,Medio
+2012-12-31,Convertible Arbitrage,0.98,Medio
+2012-12-31,CTA Global,0.57,Alto
+2012-12-31,Distressed Securities,2.59,Alto
+2012-12-31,Emerging Markets,3.3,Alto
+2012-12-31,Equity Market Neutral,0.37,Bajo
+2012-12-31,Event Driven,1.93,Medio
+2012-12-31,Fixed Income Arbitrage,0.73,Bajo
+2012-12-31,Global Macro,1.11,Alto
+2012-12-31,Long/Short Equity,1.45,Medio
+2012-12-31,Merger Arbitrage,1.45,Medio
+2012-12-31,Relative Value,1.17,Bajo
+2012-12-31,Short Selling,-3.87,Alto
+2012-12-31,Funds Of Funds,1.08,Medio
+2013-01-31,Convertible Arbitrage,1.58,Medio
+2013-01-31,CTA Global,1.86,Alto
+2013-01-31,Distressed Securities,2.19,Alto
+2013-01-31,Emerging Markets,3.03,Alto
+2013-01-31,Equity Market Neutral,1.35,Bajo
+2013-01-31,Event Driven,2.14,Medio
+2013-01-31,Fixed Income Arbitrage,1.16,Bajo
+2013-01-31,Global Macro,1.65,Alto
+2013-01-31,Long/Short Equity,3.08,Medio
+2013-01-31,Merger Arbitrage,-0.16,Medio
+2013-01-31,Relative Value,2.04,Bajo
+2013-01-31,Short Selling,-4.52,Alto
+2013-01-31,Funds Of Funds,2.06,Medio
+2013-02-28,Convertible Arbitrage,0.09,Medio
+2013-02-28,CTA Global,-0.99,Alto
+2013-02-28,Distressed Securities,0.52,Alto
+2013-02-28,Emerging Markets,-0.12,Alto
+2013-02-28,Equity Market Neutral,0.33,Bajo
+2013-02-28,Event Driven,0.41,Medio
+2013-02-28,Fixed Income Arbitrage,0.56,Bajo
+2013-02-28,Global Macro,-0.12,Alto
+2013-02-28,Long/Short Equity,0.37,Medio
+2013-02-28,Merger Arbitrage,0.39,Medio
+2013-02-28,Relative Value,0.47,Bajo
+2013-02-28,Short Selling,-0.35,Alto
+2013-02-28,Funds Of Funds,0.32,Medio
+2013-03-31,Convertible Arbitrage,0.77,Medio
+2013-03-31,CTA Global,0.89,Alto
+2013-03-31,Distressed Securities,1.49,Alto
+2013-03-31,Emerging Markets,0.68,Alto
+2013-03-31,Equity Market Neutral,0.35,Bajo
+2013-03-31,Event Driven,1.43,Medio
+2013-03-31,Fixed Income Arbitrage,1.13,Bajo
+2013-03-31,Global Macro,0.64,Alto
+2013-03-31,Long/Short Equity,1.44,Medio
+2013-03-31,Merger Arbitrage,0.69,Medio
+2013-03-31,Relative Value,1.3,Bajo
+2013-03-31,Short Selling,-1.89,Alto
+2013-03-31,Funds Of Funds,0.93,Medio
+2013-04-30,Convertible Arbitrage,0.52,Medio
+2013-04-30,CTA Global,1.92,Alto
+2013-04-30,Distressed Securities,1.75,Alto
+2013-04-30,Emerging Markets,0.63,Alto
+2013-04-30,Equity Market Neutral,0.08,Bajo
+2013-04-30,Event Driven,0.78,Medio
+2013-04-30,Fixed Income Arbitrage,0.5,Bajo
+2013-04-30,Global Macro,1.14,Alto
+2013-04-30,Long/Short Equity,0.64,Medio
+2013-04-30,Merger Arbitrage,0.61,Medio
+2013-04-30,Relative Value,0.55,Bajo
+2013-04-30,Short Selling,-2.86,Alto
+2013-04-30,Funds Of Funds,0.76,Medio
+2013-05-31,Convertible Arbitrage,1.34,Medio
+2013-05-31,CTA Global,-2.61,Alto
+2013-05-31,Distressed Securities,2.23,Alto
+2013-05-31,Emerging Markets,0.33,Alto
+2013-05-31,Equity Market Neutral,0.24,Bajo
+2013-05-31,Event Driven,1.87,Medio
+2013-05-31,Fixed Income Arbitrage,0.5,Bajo
+2013-05-31,Global Macro,-0.23,Alto
+2013-05-31,Long/Short Equity,1.35,Medio
+2013-05-31,Merger Arbitrage,0.59,Medio
+2013-05-31,Relative Value,1.01,Bajo
+2013-05-31,Short Selling,-2.45,Alto
+2013-05-31,Funds Of Funds,0.67,Medio
+2013-06-30,Convertible Arbitrage,-0.81,Medio
+2013-06-30,CTA Global,-2.73,Alto
+2013-06-30,Distressed Securities,-1.05,Alto
+2013-06-30,Emerging Markets,-3.21,Alto
+2013-06-30,Equity Market Neutral,0.28,Bajo
+2013-06-30,Event Driven,-1.13,Medio
+2013-06-30,Fixed Income Arbitrage,-1.22,Bajo
+2013-06-30,Global Macro,-1.76,Alto
+2013-06-30,Long/Short Equity,-0.94,Medio
+2013-06-30,Merger Arbitrage,-0.22,Medio
+2013-06-30,Relative Value,-1.02,Bajo
+2013-06-30,Short Selling,0.56,Alto
+2013-06-30,Funds Of Funds,-1.33,Medio
+2013-07-31,Convertible Arbitrage,0.6,Medio
+2013-07-31,CTA Global,-0.76,Alto
+2013-07-31,Distressed Securities,1.4,Alto
+2013-07-31,Emerging Markets,0.75,Alto
+2013-07-31,Equity Market Neutral,1,Bajo
+2013-07-31,Event Driven,1.49,Medio
+2013-07-31,Fixed Income Arbitrage,0.67,Bajo
+2013-07-31,Global Macro,0.16,Alto
+2013-07-31,Long/Short Equity,2.15,Medio
+2013-07-31,Merger Arbitrage,1.03,Medio
+2013-07-31,Relative Value,1.17,Bajo
+2013-07-31,Short Selling,-3.69,Alto
+2013-07-31,Funds Of Funds,0.91,Medio
+2013-08-31,Convertible Arbitrage,0.46,Medio
+2013-08-31,CTA Global,-1.39,Alto
+2013-08-31,Distressed Securities,-0.34,Alto
+2013-08-31,Emerging Markets,-1.22,Alto
+2013-08-31,Equity Market Neutral,-0.59,Bajo
+2013-08-31,Event Driven,-0.11,Medio
+2013-08-31,Fixed Income Arbitrage,0.14,Bajo
+2013-08-31,Global Macro,-0.91,Alto
+2013-08-31,Long/Short Equity,-0.76,Medio
+2013-08-31,Merger Arbitrage,-0.01,Medio
+2013-08-31,Relative Value,-0.46,Bajo
+2013-08-31,Short Selling,1.07,Alto
+2013-08-31,Funds Of Funds,-0.68,Medio
+2013-09-30,Convertible Arbitrage,0.43,Medio
+2013-09-30,CTA Global,-0.57,Alto
+2013-09-30,Distressed Securities,1.64,Alto
+2013-09-30,Emerging Markets,2.35,Alto
+2013-09-30,Equity Market Neutral,0.63,Bajo
+2013-09-30,Event Driven,1.6,Medio
+2013-09-30,Fixed Income Arbitrage,0.47,Bajo
+2013-09-30,Global Macro,0.69,Alto
+2013-09-30,Long/Short Equity,2.33,Medio
+2013-09-30,Merger Arbitrage,0.84,Medio
+2013-09-30,Relative Value,1.4,Bajo
+2013-09-30,Short Selling,-4.52,Alto
+2013-09-30,Funds Of Funds,1.27,Medio
+2013-10-31,Convertible Arbitrage,0.95,Medio
+2013-10-31,CTA Global,1.45,Alto
+2013-10-31,Distressed Securities,1.61,Alto
+2013-10-31,Emerging Markets,2.38,Alto
+2013-10-31,Equity Market Neutral,1.42,Bajo
+2013-10-31,Event Driven,1.45,Medio
+2013-10-31,Fixed Income Arbitrage,0.85,Bajo
+2013-10-31,Global Macro,0.94,Alto
+2013-10-31,Long/Short Equity,2.04,Medio
+2013-10-31,Merger Arbitrage,0.45,Medio
+2013-10-31,Relative Value,1.45,Bajo
+2013-10-31,Short Selling,-2.07,Alto
+2013-10-31,Funds Of Funds,1.25,Medio
+2013-11-30,Convertible Arbitrage,0.07,Medio
+2013-11-30,CTA Global,1.14,Alto
+2013-11-30,Distressed Securities,1.22,Alto
+2013-11-30,Emerging Markets,0.3,Alto
+2013-11-30,Equity Market Neutral,1.05,Bajo
+2013-11-30,Event Driven,1.19,Medio
+2013-11-30,Fixed Income Arbitrage,0.67,Bajo
+2013-11-30,Global Macro,0.69,Alto
+2013-11-30,Long/Short Equity,1.54,Medio
+2013-11-30,Merger Arbitrage,0.3,Medio
+2013-11-30,Relative Value,0.87,Bajo
+2013-11-30,Short Selling,-1.65,Alto
+2013-11-30,Funds Of Funds,1.09,Medio
+2013-12-31,Convertible Arbitrage,0.48,Medio
+2013-12-31,CTA Global,0.52,Alto
+2013-12-31,Distressed Securities,1.2,Alto
+2013-12-31,Emerging Markets,1.01,Alto
+2013-12-31,Equity Market Neutral,0.76,Bajo
+2013-12-31,Event Driven,1.22,Medio
+2013-12-31,Fixed Income Arbitrage,0.4,Bajo
+2013-12-31,Global Macro,0.65,Alto
+2013-12-31,Long/Short Equity,1.57,Medio
+2013-12-31,Merger Arbitrage,0.61,Medio
+2013-12-31,Relative Value,1.02,Bajo
+2013-12-31,Short Selling,-1.55,Alto
+2013-12-31,Funds Of Funds,1.09,Medio
+2014-01-31,Convertible Arbitrage,1.37,Medio
+2014-01-31,CTA Global,-1.75,Alto
+2014-01-31,Distressed Securities,0.47,Alto
+2014-01-31,Emerging Markets,-1.95,Alto
+2014-01-31,Equity Market Neutral,0.42,Bajo
+2014-01-31,Event Driven,0.3,Medio
+2014-01-31,Fixed Income Arbitrage,0.75,Bajo
+2014-01-31,Global Macro,-0.88,Alto
+2014-01-31,Long/Short Equity,-0.32,Medio
+2014-01-31,Merger Arbitrage,0.46,Medio
+2014-01-31,Relative Value,0.02,Bajo
+2014-01-31,Short Selling,0.94,Alto
+2014-01-31,Funds Of Funds,-0.33,Medio
+2014-02-28,Convertible Arbitrage,0.62,Medio
+2014-02-28,CTA Global,1.37,Alto
+2014-02-28,Distressed Securities,2.43,Alto
+2014-02-28,Emerging Markets,1.9,Alto
+2014-02-28,Equity Market Neutral,0.66,Bajo
+2014-02-28,Event Driven,2.23,Medio
+2014-02-28,Fixed Income Arbitrage,0.99,Bajo
+2014-02-28,Global Macro,0.9,Alto
+2014-02-28,Long/Short Equity,2.53,Medio
+2014-02-28,Merger Arbitrage,1.1,Medio
+2014-02-28,Relative Value,1.49,Bajo
+2014-02-28,Short Selling,-3.22,Alto
+2014-02-28,Funds Of Funds,1.57,Medio
+2014-03-31,Convertible Arbitrage,0.47,Medio
+2014-03-31,CTA Global,-1.19,Alto
+2014-03-31,Distressed Securities,0.63,Alto
+2014-03-31,Emerging Markets,0.08,Alto
+2014-03-31,Equity Market Neutral,-0.05,Bajo
+2014-03-31,Event Driven,-0.14,Medio
+2014-03-31,Fixed Income Arbitrage,0.36,Bajo
+2014-03-31,Global Macro,-0.54,Alto
+2014-03-31,Long/Short Equity,-0.56,Medio
+2014-03-31,Merger Arbitrage,-0.5,Medio
+2014-03-31,Relative Value,0.28,Bajo
+2014-03-31,Short Selling,0,Alto
+2014-03-31,Funds Of Funds,-0.7,Medio
+2014-04-30,Convertible Arbitrage,0.29,Medio
+2014-04-30,CTA Global,0.5,Alto
+2014-04-30,Distressed Securities,0.25,Alto
+2014-04-30,Emerging Markets,0.04,Alto
+2014-04-30,Equity Market Neutral,-0.23,Bajo
+2014-04-30,Event Driven,0.15,Medio
+2014-04-30,Fixed Income Arbitrage,0.55,Bajo
+2014-04-30,Global Macro,-0.23,Alto
+2014-04-30,Long/Short Equity,-0.83,Medio
+2014-04-30,Merger Arbitrage,0.13,Medio
+2014-04-30,Relative Value,0.45,Bajo
+2014-04-30,Short Selling,1.25,Alto
+2014-04-30,Funds Of Funds,-0.71,Medio
+2014-05-31,Convertible Arbitrage,0.45,Medio
+2014-05-31,CTA Global,1.5,Alto
+2014-05-31,Distressed Securities,0.91,Alto
+2014-05-31,Emerging Markets,2.15,Alto
+2014-05-31,Equity Market Neutral,0.2,Bajo
+2014-05-31,Event Driven,0.87,Medio
+2014-05-31,Fixed Income Arbitrage,0.59,Bajo
+2014-05-31,Global Macro,0.72,Alto
+2014-05-31,Long/Short Equity,1.05,Medio
+2014-05-31,Merger Arbitrage,0.62,Medio
+2014-05-31,Relative Value,1.03,Bajo
+2014-05-31,Short Selling,-1.68,Alto
+2014-05-31,Funds Of Funds,1.14,Medio
+2014-06-30,Convertible Arbitrage,0.29,Medio
+2014-06-30,CTA Global,1.01,Alto
+2014-06-30,Distressed Securities,1.45,Alto
+2014-06-30,Emerging Markets,1.15,Alto
+2014-06-30,Equity Market Neutral,0.34,Bajo
+2014-06-30,Event Driven,1.55,Medio
+2014-06-30,Fixed Income Arbitrage,0.63,Bajo
+2014-06-30,Global Macro,0.64,Alto
+2014-06-30,Long/Short Equity,1.31,Medio
+2014-06-30,Merger Arbitrage,0.89,Medio
+2014-06-30,Relative Value,1.26,Bajo
+2014-06-30,Short Selling,-2.64,Alto
+2014-06-30,Funds Of Funds,0.91,Medio
+2014-07-31,Convertible Arbitrage,-0.01,Medio
+2014-07-31,CTA Global,-0.54,Alto
+2014-07-31,Distressed Securities,-0.59,Alto
+2014-07-31,Emerging Markets,0.4,Alto
+2014-07-31,Equity Market Neutral,-0.05,Bajo
+2014-07-31,Event Driven,-0.7,Medio
+2014-07-31,Fixed Income Arbitrage,0.25,Bajo
+2014-07-31,Global Macro,-0.27,Alto
+2014-07-31,Long/Short Equity,-0.9,Medio
+2014-07-31,Merger Arbitrage,-0.53,Medio
+2014-07-31,Relative Value,0.04,Bajo
+2014-07-31,Short Selling,0.61,Alto
+2014-07-31,Funds Of Funds,-0.4,Medio
+2014-08-31,Convertible Arbitrage,-0.03,Medio
+2014-08-31,CTA Global,2.83,Alto
+2014-08-31,Distressed Securities,-0.11,Alto
+2014-08-31,Emerging Markets,0.69,Alto
+2014-08-31,Equity Market Neutral,0.52,Bajo
+2014-08-31,Event Driven,0.35,Medio
+2014-08-31,Fixed Income Arbitrage,0.21,Bajo
+2014-08-31,Global Macro,1.12,Alto
+2014-08-31,Long/Short Equity,1.28,Medio
+2014-08-31,Merger Arbitrage,0.43,Medio
+2014-08-31,Relative Value,0.56,Bajo
+2014-08-31,Short Selling,-1.7,Alto
+2014-08-31,Funds Of Funds,0.8,Medio
+2014-09-30,Convertible Arbitrage,-0.95,Medio
+2014-09-30,CTA Global,1.79,Alto
+2014-09-30,Distressed Securities,-1.99,Alto
+2014-09-30,Emerging Markets,-1.56,Alto
+2014-09-30,Equity Market Neutral,0.15,Bajo
+2014-09-30,Event Driven,-1.65,Medio
+2014-09-30,Fixed Income Arbitrage,0.22,Bajo
+2014-09-30,Global Macro,0.6,Alto
+2014-09-30,Long/Short Equity,-0.93,Medio
+2014-09-30,Merger Arbitrage,-0.75,Medio
+2014-09-30,Relative Value,-0.05,Bajo
+2014-09-30,Short Selling,2.42,Alto
+2014-09-30,Funds Of Funds,-0.12,Medio
+2014-10-31,Convertible Arbitrage,-1.11,Medio
+2014-10-31,CTA Global,0.41,Alto
+2014-10-31,Distressed Securities,-1.68,Alto
+2014-10-31,Emerging Markets,-0.69,Alto
+2014-10-31,Equity Market Neutral,0.3,Bajo
+2014-10-31,Event Driven,-1.52,Medio
+2014-10-31,Fixed Income Arbitrage,-0.07,Bajo
+2014-10-31,Global Macro,-0.41,Alto
+2014-10-31,Long/Short Equity,-0.13,Medio
+2014-10-31,Merger Arbitrage,-1.36,Medio
+2014-10-31,Relative Value,-0.6,Bajo
+2014-10-31,Short Selling,-2.36,Alto
+2014-10-31,Funds Of Funds,-0.62,Medio
+2014-11-30,Convertible Arbitrage,-0.09,Medio
+2014-11-30,CTA Global,4.19,Alto
+2014-11-30,Distressed Securities,-0.34,Alto
+2014-11-30,Emerging Markets,-0.14,Alto
+2014-11-30,Equity Market Neutral,0.59,Bajo
+2014-11-30,Event Driven,0.7,Medio
+2014-11-30,Fixed Income Arbitrage,0.14,Bajo
+2014-11-30,Global Macro,1.77,Alto
+2014-11-30,Long/Short Equity,1.16,Medio
+2014-11-30,Merger Arbitrage,0.8,Medio
+2014-11-30,Relative Value,0.61,Bajo
+2014-11-30,Short Selling,-0.61,Alto
+2014-11-30,Funds Of Funds,1.26,Medio
+2014-12-31,Convertible Arbitrage,-0.66,Medio
+2014-12-31,CTA Global,0.88,Alto
+2014-12-31,Distressed Securities,-0.89,Alto
+2014-12-31,Emerging Markets,-2.2,Alto
+2014-12-31,Equity Market Neutral,0.13,Bajo
+2014-12-31,Event Driven,-0.22,Medio
+2014-12-31,Fixed Income Arbitrage,-0.35,Bajo
+2014-12-31,Global Macro,-0.04,Alto
+2014-12-31,Long/Short Equity,0.12,Medio
+2014-12-31,Merger Arbitrage,0.32,Medio
+2014-12-31,Relative Value,-0.16,Bajo
+2014-12-31,Short Selling,0.33,Alto
+2014-12-31,Funds Of Funds,0.21,Medio
+2015-01-31,Convertible Arbitrage,0.13,Medio
+2015-01-31,CTA Global,3.99,Alto
+2015-01-31,Distressed Securities,-1.55,Alto
+2015-01-31,Emerging Markets,-0.34,Alto
+2015-01-31,Equity Market Neutral,0.48,Bajo
+2015-01-31,Event Driven,-1.04,Medio
+2015-01-31,Fixed Income Arbitrage,-0.04,Bajo
+2015-01-31,Global Macro,2.29,Alto
+2015-01-31,Long/Short Equity,-0.09,Medio
+2015-01-31,Merger Arbitrage,0.04,Medio
+2015-01-31,Relative Value,0.25,Bajo
+2015-01-31,Short Selling,1.09,Alto
+2015-01-31,Funds Of Funds,0.17,Medio
+2015-02-28,Convertible Arbitrage,1.21,Medio
+2015-02-28,CTA Global,-0.29,Alto
+2015-02-28,Distressed Securities,1.85,Alto
+2015-02-28,Emerging Markets,1.62,Alto
+2015-02-28,Equity Market Neutral,0.2,Bajo
+2015-02-28,Event Driven,2.7,Medio
+2015-02-28,Fixed Income Arbitrage,0.86,Bajo
+2015-02-28,Global Macro,0.7,Alto
+2015-02-28,Long/Short Equity,2.52,Medio
+2015-02-28,Merger Arbitrage,1.39,Medio
+2015-02-28,Relative Value,1.5,Bajo
+2015-02-28,Short Selling,-3.85,Alto
+2015-02-28,Funds Of Funds,1.71,Medio
+2015-03-31,Convertible Arbitrage,0.21,Medio
+2015-03-31,CTA Global,0.97,Alto
+2015-03-31,Distressed Securities,0.28,Alto
+2015-03-31,Emerging Markets,0.39,Alto
+2015-03-31,Equity Market Neutral,0.8,Bajo
+2015-03-31,Event Driven,0.43,Medio
+2015-03-31,Fixed Income Arbitrage,0.21,Bajo
+2015-03-31,Global Macro,1.01,Alto
+2015-03-31,Long/Short Equity,0.36,Medio
+2015-03-31,Merger Arbitrage,0.56,Medio
+2015-03-31,Relative Value,0.33,Bajo
+2015-03-31,Short Selling,0.06,Alto
+2015-03-31,Funds Of Funds,0.69,Medio
+2015-04-30,Convertible Arbitrage,1.57,Medio
+2015-04-30,CTA Global,-2.32,Alto
+2015-04-30,Distressed Securities,0.71,Alto
+2015-04-30,Emerging Markets,3.78,Alto
+2015-04-30,Equity Market Neutral,-0.29,Bajo
+2015-04-30,Event Driven,1.13,Medio
+2015-04-30,Fixed Income Arbitrage,0.51,Bajo
+2015-04-30,Global Macro,-0.91,Alto
+2015-04-30,Long/Short Equity,0.55,Medio
+2015-04-30,Merger Arbitrage,0.66,Medio
+2015-04-30,Relative Value,0.69,Bajo
+2015-04-30,Short Selling,-1.43,Alto
+2015-04-30,Funds Of Funds,0.26,Medio
+2015-05-31,Convertible Arbitrage,0.46,Medio
+2015-05-31,CTA Global,-0.53,Alto
+2015-05-31,Distressed Securities,0.25,Alto
+2015-05-31,Emerging Markets,0.21,Alto
+2015-05-31,Equity Market Neutral,0.56,Bajo
+2015-05-31,Event Driven,0.83,Medio
+2015-05-31,Fixed Income Arbitrage,0.26,Bajo
+2015-05-31,Global Macro,0.63,Alto
+2015-05-31,Long/Short Equity,1.42,Medio
+2015-05-31,Merger Arbitrage,1.09,Medio
+2015-05-31,Relative Value,0.5,Bajo
+2015-05-31,Short Selling,-0.96,Alto
+2015-05-31,Funds Of Funds,0.97,Medio
+2015-06-30,Convertible Arbitrage,-0.86,Medio
+2015-06-30,CTA Global,-3.43,Alto
+2015-06-30,Distressed Securities,-1.59,Alto
+2015-06-30,Emerging Markets,-1.77,Alto
+2015-06-30,Equity Market Neutral,0.3,Bajo
+2015-06-30,Event Driven,-1.24,Medio
+2015-06-30,Fixed Income Arbitrage,-0.39,Bajo
+2015-06-30,Global Macro,-1.76,Alto
+2015-06-30,Long/Short Equity,-0.72,Medio
+2015-06-30,Merger Arbitrage,-0.5,Medio
+2015-06-30,Relative Value,-0.91,Bajo
+2015-06-30,Short Selling,0.85,Alto
+2015-06-30,Funds Of Funds,-1.08,Medio
+2015-07-31,Convertible Arbitrage,-0.58,Medio
+2015-07-31,CTA Global,2.09,Alto
+2015-07-31,Distressed Securities,-0.45,Alto
+2015-07-31,Emerging Markets,-1.97,Alto
+2015-07-31,Equity Market Neutral,0.37,Bajo
+2015-07-31,Event Driven,-0.74,Medio
+2015-07-31,Fixed Income Arbitrage,-0.05,Bajo
+2015-07-31,Global Macro,1.46,Alto
+2015-07-31,Long/Short Equity,0.31,Medio
+2015-07-31,Merger Arbitrage,0.03,Medio
+2015-07-31,Relative Value,0.03,Bajo
+2015-07-31,Short Selling,0.46,Alto
+2015-07-31,Funds Of Funds,0.22,Medio
+2015-08-31,Convertible Arbitrage,-0.45,Medio
+2015-08-31,CTA Global,-2.2,Alto
+2015-08-31,Distressed Securities,-2.27,Alto
+2015-08-31,Emerging Markets,-3.84,Alto
+2015-08-31,Equity Market Neutral,0.18,Bajo
+2015-08-31,Event Driven,-2.49,Medio
+2015-08-31,Fixed Income Arbitrage,-0.37,Bajo
+2015-08-31,Global Macro,-1.31,Alto
+2015-08-31,Long/Short Equity,-2.29,Medio
+2015-08-31,Merger Arbitrage,-0.56,Medio
+2015-08-31,Relative Value,-1.03,Bajo
+2015-08-31,Short Selling,5.78,Alto
+2015-08-31,Funds Of Funds,-2.02,Medio
+2015-09-30,Convertible Arbitrage,-0.63,Medio
+2015-09-30,CTA Global,1.46,Alto
+2015-09-30,Distressed Securities,-1.36,Alto
+2015-09-30,Emerging Markets,-1.55,Alto
+2015-09-30,Equity Market Neutral,0.63,Bajo
+2015-09-30,Event Driven,-2.76,Medio
+2015-09-30,Fixed Income Arbitrage,-0.54,Bajo
+2015-09-30,Global Macro,-0.52,Alto
+2015-09-30,Long/Short Equity,-1.42,Medio
+2015-09-30,Merger Arbitrage,-0.97,Medio
+2015-09-30,Relative Value,-0.72,Bajo
+2015-09-30,Short Selling,1.56,Alto
+2015-09-30,Funds Of Funds,-1.76,Medio
+2015-10-31,Convertible Arbitrage,1.23,Medio
+2015-10-31,CTA Global,-1.57,Alto
+2015-10-31,Distressed Securities,-0.1,Alto
+2015-10-31,Emerging Markets,3.13,Alto
+2015-10-31,Equity Market Neutral,0.57,Bajo
+2015-10-31,Event Driven,1.45,Medio
+2015-10-31,Fixed Income Arbitrage,-0.14,Bajo
+2015-10-31,Global Macro,0.28,Alto
+2015-10-31,Long/Short Equity,2.1,Medio
+2015-10-31,Merger Arbitrage,0.74,Medio
+2015-10-31,Relative Value,1.09,Bajo
+2015-10-31,Short Selling,-5.19,Alto
+2015-10-31,Funds Of Funds,0.83,Medio
+2015-11-30,Convertible Arbitrage,-0.39,Medio
+2015-11-30,CTA Global,2.19,Alto
+2015-11-30,Distressed Securities,-1.01,Alto
+2015-11-30,Emerging Markets,-0.39,Alto
+2015-11-30,Equity Market Neutral,0,Bajo
+2015-11-30,Event Driven,-0.69,Medio
+2015-11-30,Fixed Income Arbitrage,0.02,Bajo
+2015-11-30,Global Macro,1.35,Alto
+2015-11-30,Long/Short Equity,0.23,Medio
+2015-11-30,Merger Arbitrage,-0.01,Medio
+2015-11-30,Relative Value,0,Bajo
+2015-11-30,Short Selling,-1.44,Alto
+2015-11-30,Funds Of Funds,0.25,Medio
+2015-12-31,Convertible Arbitrage,-1.27,Medio
+2015-12-31,CTA Global,-1.84,Alto
+2015-12-31,Distressed Securities,-1.6,Alto
+2015-12-31,Emerging Markets,-0.62,Alto
+2015-12-31,Equity Market Neutral,0.29,Bajo
+2015-12-31,Event Driven,-1.03,Medio
+2015-12-31,Fixed Income Arbitrage,-0.28,Bajo
+2015-12-31,Global Macro,-1.43,Alto
+2015-12-31,Long/Short Equity,-0.49,Medio
+2015-12-31,Merger Arbitrage,1.24,Medio
+2015-12-31,Relative Value,-0.67,Bajo
+2015-12-31,Short Selling,1.81,Alto
+2015-12-31,Funds Of Funds,-0.59,Medio
+2016-01-31,Convertible Arbitrage,-2.39,Medio
+2016-01-31,CTA Global,2.29,Alto
+2016-01-31,Distressed Securities,-2.34,Alto
+2016-01-31,Emerging Markets,-4.07,Alto
+2016-01-31,Equity Market Neutral,-0.34,Bajo
+2016-01-31,Event Driven,-2.88,Medio
+2016-01-31,Fixed Income Arbitrage,-0.88,Bajo
+2016-01-31,Global Macro,-0.04,Alto
+2016-01-31,Long/Short Equity,-3.24,Medio
+2016-01-31,Merger Arbitrage,0.29,Medio
+2016-01-31,Relative Value,-1.37,Bajo
+2016-01-31,Short Selling,7.46,Alto
+2016-01-31,Funds Of Funds,-2.66,Medio
+2016-02-29,Convertible Arbitrage,-0.02,Medio
+2016-02-29,CTA Global,2.36,Alto
+2016-02-29,Distressed Securities,-1.29,Alto
+2016-02-29,Emerging Markets,-0.35,Alto
+2016-02-29,Equity Market Neutral,-0.86,Bajo
+2016-02-29,Event Driven,-0.54,Medio
+2016-02-29,Fixed Income Arbitrage,-0.62,Bajo
+2016-02-29,Global Macro,0.2,Alto
+2016-02-29,Long/Short Equity,-0.95,Medio
+2016-02-29,Merger Arbitrage,0.4,Medio
+2016-02-29,Relative Value,-0.38,Bajo
+2016-02-29,Short Selling,1.4,Alto
+2016-02-29,Funds Of Funds,-1.26,Medio
+2016-03-31,Convertible Arbitrage,1.7,Medio
+2016-03-31,CTA Global,-2.01,Alto
+2016-03-31,Distressed Securities,1.9,Alto
+2016-03-31,Emerging Markets,4.28,Alto
+2016-03-31,Equity Market Neutral,0.95,Bajo
+2016-03-31,Event Driven,2.43,Medio
+2016-03-31,Fixed Income Arbitrage,1.08,Bajo
+2016-03-31,Global Macro,-0.43,Alto
+2016-03-31,Long/Short Equity,1.84,Medio
+2016-03-31,Merger Arbitrage,0.58,Medio
+2016-03-31,Relative Value,1.56,Bajo
+2016-03-31,Short Selling,-6.05,Alto
+2016-03-31,Funds Of Funds,0.71,Medio
+2016-04-30,Convertible Arbitrage,1.4,Medio
+2016-04-30,CTA Global,-0.91,Alto
+2016-04-30,Distressed Securities,2.08,Alto
+2016-04-30,Emerging Markets,1.52,Alto
+2016-04-30,Equity Market Neutral,-0.6,Bajo
+2016-04-30,Event Driven,1.61,Medio
+2016-04-30,Fixed Income Arbitrage,1.33,Bajo
+2016-04-30,Global Macro,0.2,Alto
+2016-04-30,Long/Short Equity,0.34,Medio
+2016-04-30,Merger Arbitrage,-0.55,Medio
+2016-04-30,Relative Value,1.06,Bajo
+2016-04-30,Short Selling,-2,Alto
+2016-04-30,Funds Of Funds,0.53,Medio
+2016-05-31,Convertible Arbitrage,0.75,Medio
+2016-05-31,CTA Global,-1.76,Alto
+2016-05-31,Distressed Securities,1.35,Alto
+2016-05-31,Emerging Markets,-0.12,Alto
+2016-05-31,Equity Market Neutral,0.58,Bajo
+2016-05-31,Event Driven,1,Medio
+2016-05-31,Fixed Income Arbitrage,0.4,Bajo
+2016-05-31,Global Macro,-0.37,Alto
+2016-05-31,Long/Short Equity,1.06,Medio
+2016-05-31,Merger Arbitrage,0.72,Medio
+2016-05-31,Relative Value,0.64,Bajo
+2016-05-31,Short Selling,-1.93,Alto
+2016-05-31,Funds Of Funds,0.59,Medio
+2016-06-30,Convertible Arbitrage,0.16,Medio
+2016-06-30,CTA Global,3.52,Alto
+2016-06-30,Distressed Securities,0.82,Alto
+2016-06-30,Emerging Markets,1.49,Alto
+2016-06-30,Equity Market Neutral,-0.37,Bajo
+2016-06-30,Event Driven,-0.12,Medio
+2016-06-30,Fixed Income Arbitrage,-0.21,Bajo
+2016-06-30,Global Macro,1.07,Alto
+2016-06-30,Long/Short Equity,-0.93,Medio
+2016-06-30,Merger Arbitrage,-0.18,Medio
+2016-06-30,Relative Value,0.27,Bajo
+2016-06-30,Short Selling,1.73,Alto
+2016-06-30,Funds Of Funds,-0.74,Medio
+2016-07-31,Convertible Arbitrage,1.54,Medio
+2016-07-31,CTA Global,0.67,Alto
+2016-07-31,Distressed Securities,1.92,Alto
+2016-07-31,Emerging Markets,2.33,Alto
+2016-07-31,Equity Market Neutral,0.8,Bajo
+2016-07-31,Event Driven,1.86,Medio
+2016-07-31,Fixed Income Arbitrage,1.14,Bajo
+2016-07-31,Global Macro,0.64,Alto
+2016-07-31,Long/Short Equity,2.03,Medio
+2016-07-31,Merger Arbitrage,0.7,Medio
+2016-07-31,Relative Value,1.25,Bajo
+2016-07-31,Short Selling,-5.92,Alto
+2016-07-31,Funds Of Funds,1.34,Medio
+2016-08-31,Convertible Arbitrage,1.02,Medio
+2016-08-31,CTA Global,-2.25,Alto
+2016-08-31,Distressed Securities,2.09,Alto
+2016-08-31,Emerging Markets,1.69,Alto
+2016-08-31,Equity Market Neutral,-0.19,Bajo
+2016-08-31,Event Driven,1.49,Medio
+2016-08-31,Fixed Income Arbitrage,0.76,Bajo
+2016-08-31,Global Macro,-0.61,Alto
+2016-08-31,Long/Short Equity,0.62,Medio
+2016-08-31,Merger Arbitrage,0.82,Medio
+2016-08-31,Relative Value,0.64,Bajo
+2016-08-31,Short Selling,-3.98,Alto
+2016-08-31,Funds Of Funds,0.43,Medio
+2016-09-30,Convertible Arbitrage,0.7,Medio
+2016-09-30,CTA Global,-0.66,Alto
+2016-09-30,Distressed Securities,0.97,Alto
+2016-09-30,Emerging Markets,0.97,Alto
+2016-09-30,Equity Market Neutral,0.4,Bajo
+2016-09-30,Event Driven,0.39,Medio
+2016-09-30,Fixed Income Arbitrage,0.62,Bajo
+2016-09-30,Global Macro,-0.28,Alto
+2016-09-30,Long/Short Equity,0.64,Medio
+2016-09-30,Merger Arbitrage,0.41,Medio
+2016-09-30,Relative Value,0.56,Bajo
+2016-09-30,Short Selling,-1.48,Alto
+2016-09-30,Funds Of Funds,0.4,Medio
+2016-10-31,Convertible Arbitrage,0.27,Medio
+2016-10-31,CTA Global,-2.57,Alto
+2016-10-31,Distressed Securities,2.03,Alto
+2016-10-31,Emerging Markets,0.64,Alto
+2016-10-31,Equity Market Neutral,0.24,Bajo
+2016-10-31,Event Driven,-0.15,Medio
+2016-10-31,Fixed Income Arbitrage,0.63,Bajo
+2016-10-31,Global Macro,0.14,Alto
+2016-10-31,Long/Short Equity,-0.72,Medio
+2016-10-31,Merger Arbitrage,-0.62,Medio
+2016-10-31,Relative Value,0.52,Bajo
+2016-10-31,Short Selling,2.11,Alto
+2016-10-31,Funds Of Funds,-0.27,Medio
+2016-11-30,Convertible Arbitrage,0.31,Medio
+2016-11-30,CTA Global,-0.5,Alto
+2016-11-30,Distressed Securities,1.15,Alto
+2016-11-30,Emerging Markets,-1.26,Alto
+2016-11-30,Equity Market Neutral,0.13,Bajo
+2016-11-30,Event Driven,1.4,Medio
+2016-11-30,Fixed Income Arbitrage,0.25,Bajo
+2016-11-30,Global Macro,0.88,Alto
+2016-11-30,Long/Short Equity,0.79,Medio
+2016-11-30,Merger Arbitrage,0.97,Medio
+2016-11-30,Relative Value,0.31,Bajo
+2016-11-30,Short Selling,-3.01,Alto
+2016-11-30,Funds Of Funds,0.22,Medio
+2016-12-31,Convertible Arbitrage,0.9,Medio
+2016-12-31,CTA Global,0.58,Alto
+2016-12-31,Distressed Securities,1.84,Alto
+2016-12-31,Emerging Markets,0.35,Alto
+2016-12-31,Equity Market Neutral,0.33,Bajo
+2016-12-31,Event Driven,1.53,Medio
+2016-12-31,Fixed Income Arbitrage,0.85,Bajo
+2016-12-31,Global Macro,1.21,Alto
+2016-12-31,Long/Short Equity,0.87,Medio
+2016-12-31,Merger Arbitrage,0.88,Medio
+2016-12-31,Relative Value,0.94,Bajo
+2016-12-31,Short Selling,-0.08,Alto
+2016-12-31,Funds Of Funds,0.9,Medio
+2017-01-31,Convertible Arbitrage,1.47,Medio
+2017-01-31,CTA Global,-1.02,Alto
+2017-01-31,Distressed Securities,1.91,Alto
+2017-01-31,Emerging Markets,2.46,Alto
+2017-01-31,Equity Market Neutral,0.58,Bajo
+2017-01-31,Event Driven,1.63,Medio
+2017-01-31,Fixed Income Arbitrage,1.16,Bajo
+2017-01-31,Global Macro,-0.13,Alto
+2017-01-31,Long/Short Equity,1.28,Medio
+2017-01-31,Merger Arbitrage,-0.2,Medio
+2017-01-31,Relative Value,1.11,Bajo
+2017-01-31,Short Selling,-3.56,Alto
+2017-01-31,Funds Of Funds,0.95,Medio
+2017-02-28,Convertible Arbitrage,0.72,Medio
+2017-02-28,CTA Global,1.49,Alto
+2017-02-28,Distressed Securities,0.71,Alto
+2017-02-28,Emerging Markets,1.71,Alto
+2017-02-28,Equity Market Neutral,0.09,Bajo
+2017-02-28,Event Driven,0.97,Medio
+2017-02-28,Fixed Income Arbitrage,0.66,Bajo
+2017-02-28,Global Macro,0.59,Alto
+2017-02-28,Long/Short Equity,1,Medio
+2017-02-28,Merger Arbitrage,0.79,Medio
+2017-02-28,Relative Value,0.74,Bajo
+2017-02-28,Short Selling,-6.72,Alto
+2017-02-28,Funds Of Funds,0.8,Medio
+2017-03-31,Convertible Arbitrage,-0.02,Medio
+2017-03-31,CTA Global,-1.37,Alto
+2017-03-31,Distressed Securities,-0.84,Alto
+2017-03-31,Emerging Markets,1.05,Alto
+2017-03-31,Equity Market Neutral,0.58,Bajo
+2017-03-31,Event Driven,0.16,Medio
+2017-03-31,Fixed Income Arbitrage,0.29,Bajo
+2017-03-31,Global Macro,-0.12,Alto
+2017-03-31,Long/Short Equity,0.78,Medio
+2017-03-31,Merger Arbitrage,0.22,Medio
+2017-03-31,Relative Value,0.27,Bajo
+2017-03-31,Short Selling,-2.71,Alto
+2017-03-31,Funds Of Funds,0.41,Medio
+2017-04-30,Convertible Arbitrage,0.44,Medio
+2017-04-30,CTA Global,-0.17,Alto
+2017-04-30,Distressed Securities,0.51,Alto
+2017-04-30,Emerging Markets,1.09,Alto
+2017-04-30,Equity Market Neutral,0.32,Bajo
+2017-04-30,Event Driven,0.98,Medio
+2017-04-30,Fixed Income Arbitrage,0.3,Bajo
+2017-04-30,Global Macro,-0.07,Alto
+2017-04-30,Long/Short Equity,0.88,Medio
+2017-04-30,Merger Arbitrage,1.1,Medio
+2017-04-30,Relative Value,0.31,Bajo
+2017-04-30,Short Selling,-1.65,Alto
+2017-04-30,Funds Of Funds,0.57,Medio
+2017-05-31,Convertible Arbitrage,0.22,Medio
+2017-05-31,CTA Global,0.11,Alto
+2017-05-31,Distressed Securities,-0.48,Alto
+2017-05-31,Emerging Markets,0.18,Alto
+2017-05-31,Equity Market Neutral,-0.71,Bajo
+2017-05-31,Event Driven,0.53,Medio
+2017-05-31,Fixed Income Arbitrage,0.43,Bajo
+2017-05-31,Global Macro,0.1,Alto
+2017-05-31,Long/Short Equity,0.65,Medio
+2017-05-31,Merger Arbitrage,0.67,Medio
+2017-05-31,Relative Value,0.37,Bajo
+2017-05-31,Short Selling,-1.21,Alto
+2017-05-31,Funds Of Funds,0.33,Medio
+2017-06-30,Convertible Arbitrage,0.32,Medio
+2017-06-30,CTA Global,-2.22,Alto
+2017-06-30,Distressed Securities,0.28,Alto
+2017-06-30,Emerging Markets,0.61,Alto
+2017-06-30,Equity Market Neutral,0.22,Bajo
+2017-06-30,Event Driven,0.17,Medio
+2017-06-30,Fixed Income Arbitrage,0.28,Bajo
+2017-06-30,Global Macro,-0.68,Alto
+2017-06-30,Long/Short Equity,0.42,Medio
+2017-06-30,Merger Arbitrage,0.69,Medio
+2017-06-30,Relative Value,0.29,Bajo
+2017-06-30,Short Selling,-3.02,Alto
+2017-06-30,Funds Of Funds,-0.06,Medio
+2017-07-31,Convertible Arbitrage,0.84,Medio
+2017-07-31,CTA Global,0.94,Alto
+2017-07-31,Distressed Securities,1.17,Alto
+2017-07-31,Emerging Markets,2.35,Alto
+2017-07-31,Equity Market Neutral,0.78,Bajo
+2017-07-31,Event Driven,1,Medio
+2017-07-31,Fixed Income Arbitrage,0.5,Bajo
+2017-07-31,Global Macro,0.58,Alto
+2017-07-31,Long/Short Equity,1.2,Medio
+2017-07-31,Merger Arbitrage,0.59,Medio
+2017-07-31,Relative Value,0.66,Bajo
+2017-07-31,Short Selling,-2.32,Alto
+2017-07-31,Funds Of Funds,0.97,Medio
+2017-08-31,Convertible Arbitrage,-0.12,Medio
+2017-08-31,CTA Global,1.6,Alto
+2017-08-31,Distressed Securities,-0.04,Alto
+2017-08-31,Emerging Markets,1.48,Alto
+2017-08-31,Equity Market Neutral,0.58,Bajo
+2017-08-31,Event Driven,-0.29,Medio
+2017-08-31,Fixed Income Arbitrage,0.15,Bajo
+2017-08-31,Global Macro,0.46,Alto
+2017-08-31,Long/Short Equity,0.69,Medio
+2017-08-31,Merger Arbitrage,-0.04,Medio
+2017-08-31,Relative Value,0.26,Bajo
+2017-08-31,Short Selling,-0.03,Alto
+2017-08-31,Funds Of Funds,0.75,Medio
+2017-09-30,Convertible Arbitrage,0.65,Medio
+2017-09-30,CTA Global,-1.94,Alto
+2017-09-30,Distressed Securities,0.58,Alto
+2017-09-30,Emerging Markets,0.91,Alto
+2017-09-30,Equity Market Neutral,0.45,Bajo
+2017-09-30,Event Driven,1.08,Medio
+2017-09-30,Fixed Income Arbitrage,-0.33,Bajo
+2017-09-30,Global Macro,-0.11,Alto
+2017-09-30,Long/Short Equity,1.1,Medio
+2017-09-30,Merger Arbitrage,0.39,Medio
+2017-09-30,Relative Value,0.41,Bajo
+2017-09-30,Short Selling,-6.52,Alto
+2017-09-30,Funds Of Funds,0.39,Medio
+2017-10-31,Convertible Arbitrage,0.6,Medio
+2017-10-31,CTA Global,3.67,Alto
+2017-10-31,Distressed Securities,0,Alto
+2017-10-31,Emerging Markets,1.37,Alto
+2017-10-31,Equity Market Neutral,0.72,Bajo
+2017-10-31,Event Driven,0.18,Medio
+2017-10-31,Fixed Income Arbitrage,0.31,Bajo
+2017-10-31,Global Macro,1.28,Alto
+2017-10-31,Long/Short Equity,1.44,Medio
+2017-10-31,Merger Arbitrage,0.23,Medio
+2017-10-31,Relative Value,0.65,Bajo
+2017-10-31,Short Selling,-9.9,Alto
+2017-10-31,Funds Of Funds,1.13,Medio
+2017-11-30,Convertible Arbitrage,0.02,Medio
+2017-11-30,CTA Global,0.04,Alto
+2017-11-30,Distressed Securities,0.09,Alto
+2017-11-30,Emerging Markets,0.8,Alto
+2017-11-30,Equity Market Neutral,0.23,Bajo
+2017-11-30,Event Driven,0.1,Medio
+2017-11-30,Fixed Income Arbitrage,0.05,Bajo
+2017-11-30,Global Macro,-0.23,Alto
+2017-11-30,Long/Short Equity,0.66,Medio
+2017-11-30,Merger Arbitrage,-0.77,Medio
+2017-11-30,Relative Value,0.06,Bajo
+2017-11-30,Short Selling,-0.08,Alto
+2017-11-30,Funds Of Funds,-0.07,Medio
+2017-12-31,Convertible Arbitrage,0.25,Medio
+2017-12-31,CTA Global,1.15,Alto
+2017-12-31,Distressed Securities,1.66,Alto
+2017-12-31,Emerging Markets,1.62,Alto
+2017-12-31,Equity Market Neutral,0.52,Bajo
+2017-12-31,Event Driven,1.5,Medio
+2017-12-31,Fixed Income Arbitrage,0.09,Bajo
+2017-12-31,Global Macro,0.55,Alto
+2017-12-31,Long/Short Equity,0.91,Medio
+2017-12-31,Merger Arbitrage,0.78,Medio
+2017-12-31,Relative Value,0.55,Bajo
+2017-12-31,Short Selling,0.43,Alto
+2017-12-31,Funds Of Funds,0.64,Medio
+2018-01-31,Convertible Arbitrage,0.84,Medio
+2018-01-31,CTA Global,3.57,Alto
+2018-01-31,Distressed Securities,1.77,Alto
+2018-01-31,Emerging Markets,3.56,Alto
+2018-01-31,Equity Market Neutral,1.06,Bajo
+2018-01-31,Event Driven,1.43,Medio
+2018-01-31,Fixed Income Arbitrage,0.72,Bajo
+2018-01-31,Global Macro,2.64,Alto
+2018-01-31,Long/Short Equity,2.42,Medio
+2018-01-31,Merger Arbitrage,0.77,Medio
+2018-01-31,Relative Value,0.84,Bajo
+2018-01-31,Short Selling,11.22,Alto
+2018-01-31,Funds Of Funds,2.09,Medio
+2018-02-28,Convertible Arbitrage,-0.05,Medio
+2018-02-28,CTA Global,-5.68,Alto
+2018-02-28,Distressed Securities,-0.43,Alto
+2018-02-28,Emerging Markets,-1.51,Alto
+2018-02-28,Equity Market Neutral,-0.76,Bajo
+2018-02-28,Event Driven,-0.95,Medio
+2018-02-28,Fixed Income Arbitrage,0.46,Bajo
+2018-02-28,Global Macro,-2.31,Alto
+2018-02-28,Long/Short Equity,-1.55,Medio
+2018-02-28,Merger Arbitrage,-0.46,Medio
+2018-02-28,Relative Value,-0.4,Bajo
+2018-02-28,Short Selling,-1.18,Alto
+2018-02-28,Funds Of Funds,-1.27,Medio
+2018-03-31,Convertible Arbitrage,-0.14,Medio
+2018-03-31,CTA Global,-0.29,Alto
+2018-03-31,Distressed Securities,-0.39,Alto
+2018-03-31,Emerging Markets,-1.09,Alto
+2018-03-31,Equity Market Neutral,0.22,Bajo
+2018-03-31,Event Driven,-1.03,Medio
+2018-03-31,Fixed Income Arbitrage,-0.01,Bajo
+2018-03-31,Global Macro,-0.62,Alto
+2018-03-31,Long/Short Equity,-0.48,Medio
+2018-03-31,Merger Arbitrage,-0.56,Medio
+2018-03-31,Relative Value,-0.21,Bajo
+2018-03-31,Short Selling,0.56,Alto
+2018-03-31,Funds Of Funds,-0.44,Medio
+2018-04-30,Convertible Arbitrage,0.32,Medio
+2018-04-30,CTA Global,0.08,Alto
+2018-04-30,Distressed Securities,0.49,Alto
+2018-04-30,Emerging Markets,-0.61,Alto
+2018-04-30,Equity Market Neutral,0.03,Bajo
+2018-04-30,Event Driven,0.46,Medio
+2018-04-30,Fixed Income Arbitrage,0.53,Bajo
+2018-04-30,Global Macro,0.26,Alto
+2018-04-30,Long/Short Equity,0.49,Medio
+2018-04-30,Merger Arbitrage,-0.28,Medio
+2018-04-30,Relative Value,0.33,Bajo
+2018-04-30,Short Selling,-0.22,Alto
+2018-04-30,Funds Of Funds,0.22,Medio
+2018-05-31,Convertible Arbitrage,-0.26,Medio
+2018-05-31,CTA Global,-0.74,Alto
+2018-05-31,Distressed Securities,0.82,Alto
+2018-05-31,Emerging Markets,-0.92,Alto
+2018-05-31,Equity Market Neutral,0.33,Bajo
+2018-05-31,Event Driven,1.16,Medio
+2018-05-31,Fixed Income Arbitrage,0.16,Bajo
+2018-05-31,Global Macro,0.3,Alto
+2018-05-31,Long/Short Equity,1.08,Medio
+2018-05-31,Merger Arbitrage,1.11,Medio
+2018-05-31,Relative Value,0.39,Bajo
+2018-05-31,Short Selling,1.39,Alto
+2018-05-31,Funds Of Funds,0.73,Medio
+2018-06-30,Convertible Arbitrage,0.16,Medio
+2018-06-30,CTA Global,0.23,Alto
+2018-06-30,Distressed Securities,0.91,Alto
+2018-06-30,Emerging Markets,-3.08,Alto
+2018-06-30,Equity Market Neutral,-0.45,Bajo
+2018-06-30,Event Driven,0.44,Medio
+2018-06-30,Fixed Income Arbitrage,0.08,Bajo
+2018-06-30,Global Macro,-0.17,Alto
+2018-06-30,Long/Short Equity,-0.47,Medio
+2018-06-30,Merger Arbitrage,1.12,Medio
+2018-06-30,Relative Value,-0.29,Bajo
+2018-06-30,Short Selling,-1.83,Alto
+2018-06-30,Funds Of Funds,-0.37,Medio
+2018-07-31,Convertible Arbitrage,0.21,Medio
+2018-07-31,CTA Global,-0.58,Alto
+2018-07-31,Distressed Securities,0.93,Alto
+2018-07-31,Emerging Markets,0.4,Alto
+2018-07-31,Equity Market Neutral,-0.1,Bajo
+2018-07-31,Event Driven,0.55,Medio
+2018-07-31,Fixed Income Arbitrage,0.22,Bajo
+2018-07-31,Global Macro,-0.14,Alto
+2018-07-31,Long/Short Equity,0.67,Medio
+2018-07-31,Merger Arbitrage,-0.21,Medio
+2018-07-31,Relative Value,0.45,Bajo
+2018-07-31,Short Selling,-0.52,Alto
+2018-07-31,Funds Of Funds,0.18,Medio
+2018-08-31,Convertible Arbitrage,0.24,Medio
+2018-08-31,CTA Global,1.66,Alto
+2018-08-31,Distressed Securities,0.02,Alto
+2018-08-31,Emerging Markets,-2.77,Alto
+2018-08-31,Equity Market Neutral,0.04,Bajo
+2018-08-31,Event Driven,0.11,Medio
+2018-08-31,Fixed Income Arbitrage,0.17,Bajo
+2018-08-31,Global Macro,-0.07,Alto
+2018-08-31,Long/Short Equity,0.35,Medio
+2018-08-31,Merger Arbitrage,0.5,Medio
+2018-08-31,Relative Value,-0.02,Bajo
+2018-08-31,Short Selling,-2.14,Alto
+2018-08-31,Funds Of Funds,0.15,Medio
+2018-09-30,Convertible Arbitrage,0.34,Medio
+2018-09-30,CTA Global,-0.54,Alto
+2018-09-30,Distressed Securities,0.5,Alto
+2018-09-30,Emerging Markets,-1.1,Alto
+2018-09-30,Equity Market Neutral,-0.16,Bajo
+2018-09-30,Event Driven,0.32,Medio
+2018-09-30,Fixed Income Arbitrage,0.36,Bajo
+2018-09-30,Global Macro,0.06,Alto
+2018-09-30,Long/Short Equity,-0.23,Medio
+2018-09-30,Merger Arbitrage,0.28,Medio
+2018-09-30,Relative Value,0.18,Bajo
+2018-09-30,Short Selling,0.36,Alto
+2018-09-30,Funds Of Funds,-0.22,Medio
+2018-10-31,Convertible Arbitrage,-0.73,Medio
+2018-10-31,CTA Global,-3.14,Alto
+2018-10-31,Distressed Securities,-1.58,Alto
+2018-10-31,Emerging Markets,-3.15,Alto
+2018-10-31,Equity Market Neutral,-1.29,Bajo
+2018-10-31,Event Driven,-2.57,Medio
+2018-10-31,Fixed Income Arbitrage,-0.23,Bajo
+2018-10-31,Global Macro,-0.96,Alto
+2018-10-31,Long/Short Equity,-4.02,Medio
+2018-10-31,Merger Arbitrage,-0.8,Medio
+2018-10-31,Relative Value,-1.09,Bajo
+2018-10-31,Short Selling,2.37,Alto
+2018-10-31,Funds Of Funds,-2.69,Medio
+2018-11-30,Convertible Arbitrage,-0.68,Medio
+2018-11-30,CTA Global,-0.53,Alto
+2018-11-30,Distressed Securities,-1.93,Alto
+2018-11-30,Emerging Markets,1.2,Alto
+2018-11-30,Equity Market Neutral,-2.11,Bajo
+2018-11-30,Event Driven,-0.34,Medio
+2018-11-30,Fixed Income Arbitrage,-0.67,Bajo
+2018-11-30,Global Macro,-0.87,Alto
+2018-11-30,Long/Short Equity,-0.44,Medio
+2018-11-30,Merger Arbitrage,1.19,Medio
+2018-11-30,Relative Value,-0.63,Bajo
+2018-11-30,Short Selling,-0.21,Alto
+2018-11-30,Funds Of Funds,-0.71,Medio
